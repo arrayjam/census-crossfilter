@@ -1,0 +1,8530 @@
+region_id,suburb_name
+SSC10001,Abbotsbury
+SSC10002,Abbotsford (NSW)
+SSC10003,Abercrombie
+SSC10004,Aberdare
+SSC10005,Aberdeen (NSW)
+SSC10006,Aberfoyle
+SSC10007,Aberglasslyn
+SSC10008,Abermain
+SSC10009,Abernethy
+SSC10010,Acacia Gardens
+SSC10011,Adaminaby
+SSC10012,Adamstown
+SSC10013,Adamstown Heights
+SSC10014,Adelong
+SSC10015,Agnes Banks
+SSC10016,Airds
+SSC10017,Akolele
+SSC10018,Albion Park
+SSC10019,Albion Park Rail
+SSC10020,Albury
+SSC10021,Aldavilla
+SSC10022,Alexandria
+SSC10023,Alfords Point
+SSC10024,Alison (Dungog - NSW)
+SSC10025,Allambie Heights
+SSC10026,Allandale (NSW)
+SSC10027,Allawah
+SSC10028,Allgomera
+SSC10029,Allworth
+SSC10030,Allynbrook
+SSC10031,Alstonvale
+SSC10032,Alstonville
+SSC10033,Alumy Creek
+SSC10034,Ambarvale
+SSC10035,Angledale
+SSC10036,Anglers Reach
+SSC10037,Angourie
+SSC10038,Anna Bay
+SSC10039,Annandale (NSW)
+SSC10040,Annangrove
+SSC10041,Appin (NSW)
+SSC10042,Apsley (NSW)
+SSC10043,Arakoon
+SSC10044,Araluen (NSW)
+SSC10045,Arcadia (NSW)
+SSC10046,Arcadia Vale
+SSC10047,Arding
+SSC10048,Ardlethan
+SSC10049,Argenton
+SSC10050,Argents Hill
+SSC10051,Ariah Park
+SSC10052,Armatree
+SSC10053,Armidale
+SSC10054,Arncliffe
+SSC10055,Arndell Park
+SSC10056,Arrawarra
+SSC10057,Arrawarra Headland
+SSC10058,Artarmon
+SSC10059,Ashbury
+SSC10060,Ashby (NSW)
+SSC10061,Ashby Heights
+SSC10062,Ashcroft
+SSC10063,Ashfield (NSW)
+SSC10064,Ashford (NSW)
+SSC10065,Ashley
+SSC10066,Ashmont
+SSC10067,Ashtonfield
+SSC10068,Asquith
+SSC10069,Attunga
+SSC10070,Auburn (NSW)
+SSC10071,Austinmer
+SSC10072,Austral
+SSC10073,Avalon (NSW)
+SSC10074,Avoca Beach
+SSC10075,Awaba
+SSC10076,Aylmerton
+SSC10077,Baan Baa
+SSC10078,Backmede
+SSC10079,Badgerys Creek
+SSC10080,Balaclava (NSW)
+SSC10081,Balala
+SSC10082,Balcolyn
+SSC10083,Bald Hills (NSW)
+SSC10084,Balgowlah
+SSC10085,Balgowlah Heights
+SSC10086,Balgownie
+SSC10087,Balladoran
+SSC10088,Ballimore
+SSC10089,Ballina
+SSC10090,Balmain
+SSC10091,Balmain East
+SSC10092,Balmoral (Lake Macquarie - NSW)
+SSC10093,Balmoral (Wingecarribee - NSW)
+SSC10094,Balranald
+SSC10095,Bandon Grove
+SSC10096,Bangalee (NSW)
+SSC10097,Bangalow
+SSC10098,Bangheet
+SSC10099,Bangor (NSW)
+SSC10100,Banksia
+SSC10101,Banksmeadow
+SSC10102,Bankstown
+SSC10103,Bankstown Aerodrome
+SSC10104,Bannaby
+SSC10105,Bannister (NSW)
+SSC10106,Banora Point
+SSC10107,Bar Beach
+SSC10108,Bar Point
+SSC10109,Baradine
+SSC10110,Barangaroo
+SSC10111,Barcoongere
+SSC10112,Barden Ridge
+SSC10113,Bardwell Park
+SSC10114,Bardwell Valley
+SSC10115,Barellan
+SSC10116,Bargo
+SSC10117,Barham
+SSC10118,Barkers Vale
+SSC10119,Barmedman
+SSC10120,Barnsley
+SSC10121,Barooga
+SSC10122,Barraba
+SSC10123,Barrack Heights
+SSC10124,Barrack Point
+SSC10125,Barrengarry
+SSC10126,Barrington (NSW)
+SSC10127,Barry (Blayney - NSW)
+SSC10128,Basin View
+SSC10129,Bass Hill
+SSC10130,Bateau Bay
+SSC10131,Batehaven
+SSC10132,Batemans Bay
+SSC10133,Bathurst
+SSC10134,Batlow
+SSC10135,Baulkham Hills
+SSC10136,Baw Baw (NSW)
+SSC10137,Bawley Point
+SSC10138,Bayview (NSW)
+SSC10139,Beacon Hill
+SSC10140,Beaconsfield (NSW)
+SSC10141,Beaumont (NSW)
+SSC10142,Beaumont Hills
+SSC10143,Beckom
+SSC10144,Bedgerebong
+SSC10145,Beechwood
+SSC10146,Beecroft
+SSC10147,Beecroft Peninsula
+SSC10148,Beelbangera
+SSC10149,Bega
+SSC10150,Belbora
+SSC10151,Belfield
+SSC10152,Belgravia
+SSC10153,Belimbla Park
+SSC10154,Bella Vista
+SSC10155,Bellambi
+SSC10156,Bellangry
+SSC10157,Bellata
+SSC10158,Bellawongarah
+SSC10159,Bellbird
+SSC10160,Bellbird Heights
+SSC10161,Bellbrook
+SSC10162,Bellevue Hill
+SSC10163,Bellingen
+SSC10164,Belmont (NSW)
+SSC10165,Belmont North
+SSC10166,Belmont South
+SSC10167,Belmore
+SSC10168,Belmore River
+SSC10169,Belrose
+SSC10170,Bemboka
+SSC10171,Ben Lomond (NSW)
+SSC10172,Bendalong
+SSC10173,Bendemeer
+SSC10174,Bendick Murrell
+SSC10175,Bendolba
+SSC10176,Benerembah
+SSC10177,Beni
+SSC10178,Bensville
+SSC10179,Bentley (NSW)
+SSC10180,Berala
+SSC10181,Berambing
+SSC10182,Beresfield
+SSC10183,Bergalia
+SSC10184,Berkeley
+SSC10185,Berkeley Vale
+SSC10186,Berkshire Park
+SSC10187,Bermagui
+SSC10188,Berowra
+SSC10189,Berowra Creek
+SSC10190,Berowra Heights
+SSC10191,Berrambool
+SSC10192,Berrara
+SSC10193,Berridale
+SSC10194,Berrigan
+SSC10195,Berrilee
+SSC10196,Berrima
+SSC10197,Berry
+SSC10198,Bethungra
+SSC10199,Beverley Park
+SSC10200,Beverly Hills
+SSC10201,Bexhill
+SSC10202,Bexley
+SSC10203,Bexley North
+SSC10204,Bibbenluke
+SSC10205,Biddon
+SSC10206,Bidwill (NSW)
+SSC10207,Big Springs
+SSC10208,Bigga
+SSC10209,Bilambil
+SSC10210,Bilambil Heights
+SSC10211,Bilbul
+SSC10212,Bilgola
+SSC10213,Billinudgel
+SSC10214,Billywillinga
+SSC10215,Bilpin
+SSC10216,Binalong
+SSC10217,Binda
+SSC10218,Bingara
+SSC10219,Bingie
+SSC10220,Biniguy
+SSC10221,Binjura
+SSC10222,Binna Burra (NSW)
+SSC10223,Binnaway
+SSC10224,Binya
+SSC10225,Birchgrove
+SSC10226,Birmingham Gardens
+SSC10227,Birrong
+SSC10228,Bishops Bridge
+SSC10229,Bithramere
+SSC10230,Black Head
+SSC10231,Black Hill (NSW)
+SSC10232,Black Mountain (NSW)
+SSC10233,Black Springs (NSW)
+SSC10234,Blackalls Park
+SSC10235,Blackbutt (NSW)
+SSC10236,Blackett
+SSC10237,Blackheath (NSW)
+SSC10238,Blackmans Point
+SSC10239,Blacksmiths
+SSC10240,Blacktown
+SSC10241,Blackwall (NSW)
+SSC10242,Blair Athol (NSW)
+SSC10243,Blairmount
+SSC10244,Blakehurst
+SSC10245,Blandford
+SSC10246,Blaxland (NSW)
+SSC10247,Blaxlands Ridge
+SSC10248,Blayney
+SSC10249,Bligh Park
+SSC10250,Blighty
+SSC10251,Blue Bay
+SSC10252,Blue Haven
+SSC10253,Blue Knob
+SSC10254,Blue Mountains National Park
+SSC10255,Boambee
+SSC10256,Boambee East
+SSC10257,Boat Harbour (Port Stephens - NSW)
+SSC10258,Bobs Farm
+SSC10259,Bodalla
+SSC10260,Bogan Gate
+SSC10261,Bogangar
+SSC10262,Boggabilla
+SSC10263,Boggabri
+SSC10264,Bolton Point
+SSC10265,Bolwarra (NSW)
+SSC10266,Bolwarra Heights
+SSC10267,Bomaderry
+SSC10268,Bombala
+SSC10269,Bombira
+SSC10270,Bombo
+SSC10271,Bombowlee
+SSC10272,Bomen
+SSC10273,Bomera
+SSC10274,Bonalbo
+SSC10275,Bondi
+SSC10276,Bondi Beach
+SSC10277,Bondi Junction
+SSC10278,Bonnells Bay
+SSC10279,Bonnet Bay
+SSC10280,Bonny Hills
+SSC10281,Bonnyrigg
+SSC10282,Bonnyrigg Heights
+SSC10283,Bonville
+SSC10284,Booerie Creek
+SSC10285,Booker Bay
+SSC10286,Bookham
+SSC10287,Boolambayte
+SSC10288,Boolaroo
+SSC10289,Booligal
+SSC10290,Boomanoomana
+SSC10291,Boomerang Beach
+SSC10292,Booragul
+SSC10293,Booral (NSW)
+SSC10294,Boorolong
+SSC10295,Boorooma
+SSC10296,Boorowa
+SSC10297,Bootawa
+SSC10298,Bora Ridge
+SSC10299,Borambola
+SSC10300,Boree Creek
+SSC10301,Borenore
+SSC10302,Bossley Park
+SSC10303,Botany
+SSC10304,Botany Bay
+SSC10305,Bouddi
+SSC10306,Bourke
+SSC10307,Bourkelands
+SSC10308,Bournda
+SSC10309,Bow Bowing
+SSC10310,Bowan Park
+SSC10311,Bowen Mountain
+SSC10312,Bowenfels
+SSC10313,Bowman
+SSC10314,Bowning
+SSC10315,Bowral
+SSC10316,Bowraville
+SSC10317,Box Head
+SSC10318,Box Hill (NSW)
+SSC10319,Boydtown
+SSC10320,Bradbury (NSW)
+SSC10321,Braemar
+SSC10322,Braidwood
+SSC10323,Brandy Hill
+SSC10324,Branxton
+SSC10325,Braunstone
+SSC10326,Bray Park (NSW)
+SSC10327,Breadalbane (NSW)
+SSC10328,Breakfast Creek
+SSC10329,Breakfast Point
+SSC10330,Bream Beach
+SSC10331,Bredbo
+SSC10332,Brewarrina
+SSC10333,Brewongle
+SSC10334,Bribbaree
+SSC10335,Bridgman
+SSC10336,Brierfield
+SSC10337,Brighton-le-Sands
+SSC10338,Brightwaters
+SSC10339,Bringelly
+SSC10340,Brisbane Grove
+SSC10341,Broadmeadow
+SSC10342,Broadwater (Richmond Valley - NSW)
+SSC10343,Broadway
+SSC10344,Brocklehurst
+SSC10345,Brocklesby
+SSC10346,Brogo
+SSC10347,Broke (NSW)
+SSC10348,Broken Head
+SSC10349,Broken Hill
+SSC10350,Bronte
+SSC10351,Brookdale (NSW)
+SSC10352,Brookfield (NSW)
+SSC10353,Brooklet
+SSC10354,Brooklyn (NSW)
+SSC10355,Brookvale
+SSC10356,Brooms Head
+SSC10357,Broughton Vale
+SSC10358,Broulee
+SSC10359,Brownlow Hill
+SSC10360,Brownsville
+SSC10361,Bruah
+SSC10362,Brungle
+SSC10363,Brunswick Heads
+SSC10364,Brushgrove
+SSC10365,Bucca (NSW)
+SSC10366,Buckajo
+SSC10367,Budgee Budgee (NSW)
+SSC10368,Budgewoi
+SSC10369,Budgewoi Peninsula
+SSC10370,Buff Point
+SSC10371,Bugaldie
+SSC10372,Bukkulla
+SSC10373,Bulahdelah
+SSC10374,Bulga (NSW)
+SSC10375,Bullaburra
+SSC10376,Bulli
+SSC10377,Bundabah
+SSC10378,Bundaburrah
+SSC10379,Bundagen
+SSC10380,Bundanoon (NSW)
+SSC10381,Bundarra
+SSC10382,Bundeena
+SSC10383,Bundook
+SSC10384,Bungarby
+SSC10385,Bungendore
+SSC10386,Bunglegumbie
+SSC10387,Bungonia
+SSC10388,Bungowannah
+SSC10389,Bungwahl
+SSC10390,Bunnan
+SSC10391,Bunyan
+SSC10392,Burnt Bridge
+SSC10393,Buronga
+SSC10394,Burra (Palerang - NSW)
+SSC10395,Burrabadine
+SSC10396,Burradoo
+SSC10397,Burraga
+SSC10398,Burragate
+SSC10399,Burraneer
+SSC10400,Burrangong
+SSC10401,Burrawang
+SSC10402,Burrell Creek
+SSC10403,Burren Junction
+SSC10404,Burrill Lake
+SSC10405,Burringbar
+SSC10406,Burroway
+SSC10407,Burrumbuttock
+SSC10408,Burrundulla
+SSC10409,Burwood (NSW)
+SSC10410,Burwood Heights
+SSC10411,Busby
+SSC10412,Buttaba
+SSC10413,Buxton (NSW)
+SSC10414,Byabarra
+SSC10415,Byangum
+SSC10416,Byron Bay
+SSC10417,Byrrill Creek
+SSC10418,Bywong
+SSC10419,Cabarita (NSW)
+SSC10420,Cabbage Tree Island (Ballina - NSW)
+SSC10421,Cabramatta
+SSC10422,Cabramatta West
+SSC10423,Cabramurra
+SSC10424,Caffreys Flat
+SSC10425,Calala
+SSC10426,Calarie
+SSC10427,Calderwood
+SSC10428,Calimo
+SSC10429,Callaghan
+SSC10430,Callala Bay
+SSC10431,Callala Beach
+SSC10432,Calliope (NSW)
+SSC10433,Camberwell (NSW)
+SSC10434,Cambewarra
+SSC10435,Cambewarra Village
+SSC10436,Cambridge Gardens
+SSC10437,Cambridge Park
+SSC10438,Camden
+SSC10439,Camden Head
+SSC10440,Camden Park (NSW)
+SSC10441,Camden South
+SSC10442,Cameron Park
+SSC10443,Cammeray
+SSC10444,Campbelltown (NSW)
+SSC10445,Camperdown (NSW)
+SSC10446,Campsie
+SSC10447,Canada Bay
+SSC10448,Candelo
+SSC10449,Cangai
+SSC10450,Caniaba
+SSC10451,Canley Heights
+SSC10452,Canley Vale
+SSC10453,Canobolas
+SSC10454,Canoelands
+SSC10455,Canowindra
+SSC10456,Canterbury (NSW)
+SSC10457,Canton Beach
+SSC10458,Canyonleigh
+SSC10459,Capertee
+SSC10460,Captains Flat
+SSC10461,Caragabal
+SSC10462,Carcoar
+SSC10463,Cardiff (NSW)
+SSC10464,Cardiff Heights
+SSC10465,Cardiff South
+SSC10466,Carey Bay
+SSC10467,Cargo
+SSC10468,Carinda
+SSC10469,Caringbah
+SSC10470,Caringbah South
+SSC10471,Carlingford
+SSC10472,Carlton (NSW)
+SSC10473,Carool
+SSC10474,Caroona
+SSC10475,Carramar (NSW)
+SSC10476,Carrathool
+SSC10477,Carrington (Newcastle - NSW)
+SSC10478,Carroll
+SSC10479,Carrs Creek
+SSC10480,Carss Park
+SSC10481,Cartwright
+SSC10482,Cartwrights Hill
+SSC10483,Carwoola
+SSC10484,Casino
+SSC10485,Cassilis (NSW)
+SSC10486,Castle Cove
+SSC10487,Castle Doyle
+SSC10488,Castle Hill (NSW)
+SSC10489,Castle Rock
+SSC10490,Castlecrag
+SSC10491,Castlereagh
+SSC10492,Casuarina (NSW)
+SSC10493,Casula
+SSC10494,Catalina
+SSC10495,Catherine Field
+SSC10496,Catherine Hill Bay
+SSC10497,Cattai
+SSC10498,Caves Beach
+SSC10499,Cawdor (NSW)
+SSC10500,Cawongla
+SSC10501,Cecil Hills
+SSC10502,Cecil Park
+SSC10503,Cedar Party
+SSC10504,Centennial Park (NSW)
+SSC10505,Central Mangrove
+SSC10506,Central Tilba
+SSC10507,Cessnock
+SSC10508,Chain Valley Bay
+SSC10509,Charbon
+SSC10510,Charles Sturt University
+SSC10511,Charlestown (NSW)
+SSC10512,Charmhaven
+SSC10513,Chatswood
+SSC10514,Chatswood West
+SSC10515,Chatsworth (NSW)
+SSC10516,Cheltenham (NSW)
+SSC10517,Cherrybrook
+SSC10518,Chester Hill
+SSC10519,Chifley (NSW)
+SSC10520,Chilcotts Grass
+SSC10521,Chillingham
+SSC10522,Chinderah
+SSC10523,Chippendale
+SSC10524,Chipping Norton
+SSC10525,Chisholm (NSW)
+SSC10526,Chiswick
+SSC10527,Chittaway Bay
+SSC10528,Chittaway Point
+SSC10529,Church Point
+SSC10530,Clandulla
+SSC10531,Claremont Meadows
+SSC10532,Clarence
+SSC10533,Clarence Town
+SSC10534,Clarendon (NSW)
+SSC10535,Clarenza
+SSC10536,Claymore
+SSC10537,Clemton Park
+SSC10538,Cliftleigh
+SSC10539,Clifton Grove
+SSC10540,Clontarf (NSW)
+SSC10541,Clothiers Creek
+SSC10542,Clovelly
+SSC10543,Clunes (NSW)
+SSC10544,Clybucca
+SSC10545,Clyde (NSW)
+SSC10546,Coal Point
+SSC10547,Coalcliff
+SSC10548,Cobaki
+SSC10549,Cobar
+SSC10550,Cobargo
+SSC10551,Cobbitty
+SSC10552,Coffee Camp
+SSC10553,Coffs Harbour
+SSC10554,Coleambally
+SSC10555,Colebee
+SSC10556,Coledale
+SSC10557,Collarenebri
+SSC10558,Collaroy (NSW)
+SSC10559,Collector
+SSC10560,Collendina
+SSC10561,Collie (NSW)
+SSC10562,Collingullie
+SSC10563,Collombatti
+SSC10564,Colo Heights
+SSC10565,Colo Vale
+SSC10566,Colongra
+SSC10567,Colyton
+SSC10568,Comberton
+SSC10569,Comboyne
+SSC10570,Come By Chance
+SSC10571,Como (NSW)
+SSC10572,Comobella
+SSC10573,Conargo
+SSC10574,Concord
+SSC10575,Concord West
+SSC10576,Condell Park
+SSC10577,Condobolin
+SSC10578,Condong
+SSC10579,Congarinni
+SSC10580,Congarinni North
+SSC10581,Congewai
+SSC10582,Congo
+SSC10583,Coniston
+SSC10584,Conjola Park
+SSC10585,Connells Point
+SSC10586,Constitution Hill
+SSC10587,Coogee (NSW)
+SSC10588,Cookamidgera
+SSC10589,Cookardinia
+SSC10590,Cooks Gap
+SSC10591,Cooks Hill
+SSC10592,Cooks Myalls
+SSC10593,Coolac
+SSC10594,Coolagolite
+SSC10595,Coolah
+SSC10596,Coolamon
+SSC10597,Coolangatta (NSW)
+SSC10598,Coolongolook
+SSC10599,Cooma (NSW)
+SSC10600,Coomba Bay
+SSC10601,Coomba Park
+SSC10602,Coomealla
+SSC10603,Coonabarabran
+SSC10604,Coonamble
+SSC10605,Cooperabung
+SSC10606,Coopernook
+SSC10607,Coopers Gully
+SSC10608,Coopers Shoot
+SSC10609,Coorabell
+SSC10610,Cooranbong
+SSC10611,Cootamundra
+SSC10612,Cooyal
+SSC10613,Copacabana
+SSC10614,Copmanhurst
+SSC10615,Coraki
+SSC10616,Coralville
+SSC10617,Coramba
+SSC10618,Corbie Hill
+SSC10619,Cordeaux Heights
+SSC10620,Coreen
+SSC10621,Corindi Beach
+SSC10622,Corlette
+SSC10623,Corndale (NSW)
+SSC10624,Corowa
+SSC10625,Corrimal
+SSC10626,Cottage Point
+SSC10627,Courabyra
+SSC10628,Couridjah
+SSC10629,Coutts Crossing
+SSC10630,Cowan
+SSC10631,Cowra
+SSC10632,Coxs Creek
+SSC10633,Crabbes Creek
+SSC10634,Cranebrook
+SSC10635,Crangan Bay
+SSC10636,Craven
+SSC10637,Cremorne (NSW)
+SSC10638,Cremorne Point
+SSC10639,Crescent Head
+SSC10640,Crestwood
+SSC10641,Cringila
+SSC10642,Cromer (NSW)
+SSC10643,Cronulla
+SSC10644,Crookwell
+SSC10645,Crosslands
+SSC10646,Croudace Bay
+SSC10647,Crowdy Bay National Park
+SSC10648,Crowdy Head
+SSC10649,Crows Nest (NSW)
+SSC10650,Croydon (NSW)
+SSC10651,Croydon Park (NSW)
+SSC10652,Crystal Creek (NSW)
+SSC10653,Cudal
+SSC10654,Cudgen
+SSC10655,Cudgera Creek
+SSC10656,Cudmirrah
+SSC10657,Culburra Beach
+SSC10658,Culcairn
+SSC10659,Cullen Bullen
+SSC10660,Cumbalum
+SSC10661,Cumberland Reach
+SSC10662,Cumboogle
+SSC10663,Cumborah
+SSC10664,Cumnock
+SSC10665,Cundletown
+SSC10666,Cunjurong Point
+SSC10667,Curl Curl
+SSC10668,Curlewis (NSW)
+SSC10669,Curlwaa
+SSC10670,Currabubula
+SSC10671,Curramore (NSW)
+SSC10672,Currans Hill
+SSC10673,Currarong
+SSC10674,Currawarna
+SSC10675,Daceyville
+SSC10676,Daleys Point
+SSC10677,Dalgety
+SSC10678,Dalmeny
+SSC10679,Dalton
+SSC10680,Dalwood (Ballina - NSW)
+SSC10681,Dandry
+SSC10682,Dangar Island
+SSC10683,Dapto
+SSC10684,Darawank
+SSC10685,Darbys Falls
+SSC10686,Dareton
+SSC10687,Dargan
+SSC10688,Darkes Forest
+SSC10689,Darkwood
+SSC10690,Darling Point
+SSC10691,Darlinghurst
+SSC10692,Darlington (Singleton - NSW)
+SSC10693,Darlington (Sydney - NSW)
+SSC10694,Darlington Point
+SSC10695,Daruka
+SSC10696,Davidson
+SSC10697,Davistown
+SSC10698,Dawes Point
+SSC10699,Dean Park
+SSC10700,Dee Why
+SSC10701,Deepwater (NSW)
+SSC10702,Deer Vale
+SSC10703,Delegate
+SSC10704,Delroy Heights
+SSC10705,Delungra
+SSC10706,Denham Court
+SSC10707,Denhams Beach
+SSC10708,Deniliquin
+SSC10709,Denistone
+SSC10710,Denistone East
+SSC10711,Denistone West
+SSC10712,Denman
+SSC10713,Deua River Valley
+SSC10714,Dharruk
+SSC10715,Diamond Beach
+SSC10716,Dignams Creek
+SSC10717,Dolans Bay
+SSC10718,Dolls Point
+SSC10719,Dolphin Point
+SSC10720,Dondingalong
+SSC10721,Doonbah
+SSC10722,Doonside
+SSC10723,Dooralong
+SSC10724,Dora Creek
+SSC10725,Dorrigo
+SSC10726,Double Bay
+SSC10727,Doubtful Creek
+SSC10728,Douglas Park
+SSC10729,Dover Heights
+SSC10730,Downside
+SSC10731,Doyalson
+SSC10732,Doyalson North
+SSC10733,Drake
+SSC10734,Drummoyne
+SSC10735,Dubbo
+SSC10736,Duckenfield
+SSC10737,Duckmaloi
+SSC10738,Dudley
+SSC10739,Duffys Forest
+SSC10740,Dulguigan
+SSC10741,Dulwich Hill
+SSC10742,Dumaresq Island
+SSC10743,Dunbible
+SSC10744,Dunbogan
+SSC10745,Dundas (NSW)
+SSC10746,Dundas Valley
+SSC10747,Dundee
+SSC10748,Dundurrabin
+SSC10749,Dunedoo
+SSC10750,Dungay
+SSC10751,Dungog
+SSC10752,Dungowan
+SSC10753,Dunmore (NSW)
+SSC10754,Dunoon
+SSC10755,Duns Creek
+SSC10756,Dural (Hornsby - NSW)
+SSC10757,Duranbah
+SSC10758,Duri
+SSC10759,Durras North
+SSC10760,Dyers Crossing
+SSC10761,Eagle Vale
+SSC10762,Eagleton
+SSC10763,Earlwood
+SSC10764,East Albury
+SSC10765,East Ballina
+SSC10766,East Bowral
+SSC10767,East Branxton
+SSC10768,East Coraki
+SSC10769,East Corrimal
+SSC10770,East Gosford
+SSC10771,East Gresford
+SSC10772,East Hills
+SSC10773,East Jindabyne
+SSC10774,East Kempsey
+SSC10775,East Killara
+SSC10776,East Kurrajong
+SSC10777,East Lindfield
+SSC10778,East Lismore
+SSC10779,East Maitland
+SSC10780,East Ryde
+SSC10781,East Seaham
+SSC10782,East Tamworth
+SSC10783,East Wagga Wagga
+SSC10784,Eastern Creek
+SSC10785,Eastgardens
+SSC10786,Eastlakes
+SSC10787,Eastwood (NSW)
+SSC10788,Eatonsville
+SSC10789,Ebenezer (NSW)
+SSC10790,Ebor
+SSC10791,Eden
+SSC10792,Eden Creek
+SSC10793,Edensor Park
+SSC10794,Edgecliff
+SSC10795,Edgeworth
+SSC10796,Edith (NSW)
+SSC10797,Edmondson Park
+SSC10798,Eglinton (NSW)
+SSC10799,Elands
+SSC10800,Elanora Heights
+SSC10801,Elderslie (Camden - NSW)
+SSC10802,Eleebana
+SSC10803,Elermore Vale
+SSC10804,Elizabeth Bay
+SSC10805,Elizabeth Beach
+SSC10806,Elizabeth Hills
+SSC10807,Ellalong
+SSC10808,Elland
+SSC10809,Ellangowan (NSW)
+SSC10810,Ellenborough
+SSC10811,Ellerslie (Wentworth - NSW)
+SSC10812,Ellis Lane
+SSC10813,Elrington
+SSC10814,Elsmore
+SSC10815,Eltham (NSW)
+SSC10816,Emerald Beach
+SSC10817,Emerald Hill
+SSC10818,Emerton
+SSC10819,Emmaville
+SSC10820,Empire Bay
+SSC10821,Empire Vale
+SSC10822,Emu Heights (NSW)
+SSC10823,Emu Plains
+SSC10824,Enfield (NSW)
+SSC10825,Engadine
+SSC10826,Englorie Park
+SSC10827,Enmore (Marrickville - NSW)
+SSC10828,Enngonia
+SSC10829,Epping (NSW)
+SSC10830,Eraring
+SSC10831,Erina
+SSC10832,Erina Heights
+SSC10833,Ermington
+SSC10834,Erowal Bay
+SSC10835,Erskine Park
+SSC10836,Erskineville
+SSC10837,Eschol
+SSC10838,Eschol Park
+SSC10839,Estella
+SSC10840,Ettalong Beach
+SSC10841,Ettrick (NSW)
+SSC10842,Euabalong
+SSC10843,Eugowra
+SSC10844,Eulah Creek
+SSC10845,Eulomogo
+SSC10846,Eumungerie
+SSC10847,Eungai Creek
+SSC10848,Eungai Rail
+SSC10849,Eungella (NSW)
+SSC10850,Eureka (NSW)
+SSC10851,Eurobodalla
+SSC10852,Euroka
+SSC10853,Euston
+SSC10854,Evans Head
+SSC10855,Evans Plains
+SSC10856,Eveleigh
+SSC10857,Eviron
+SSC10858,Ewingar
+SSC10859,Ewingsdale
+SSC10860,Exeter (NSW)
+SSC10861,Failford
+SSC10862,Fairfield (NSW)
+SSC10863,Fairfield East
+SSC10864,Fairfield Heights
+SSC10865,Fairfield West
+SSC10866,Fairlight
+SSC10867,Fairy Hill
+SSC10868,Fairy Meadow
+SSC10869,Falls Creek (NSW)
+SSC10870,Far Meadow
+SSC10871,Farley
+SSC10872,Farmborough Heights
+SSC10873,Fassifern (NSW)
+SSC10874,Faulconbridge
+SSC10875,Faulkland
+SSC10876,Fawcetts Plain
+SSC10877,Federal (NSW)
+SSC10878,Fennell Bay
+SSC10879,Fern Bay
+SSC10880,Fernbank Creek
+SSC10881,Fernhill
+SSC10882,Fernleigh
+SSC10883,Fernmount
+SSC10884,Fernvale (NSW)
+SSC10885,Ferodale
+SSC10886,Fiddletown
+SSC10887,Fifield
+SSC10888,Figtree
+SSC10889,Fingal Bay
+SSC10890,Fingal Head
+SSC10891,Finley
+SSC10892,Firefly
+SSC10893,Fishermans Bay
+SSC10894,Fishermans Paradise
+SSC10895,Fishermans Reach
+SSC10896,Fishing Point
+SSC10897,Fitzroy Falls
+SSC10898,Five Dock
+SSC10899,Fletcher (NSW)
+SSC10900,Flinders (NSW)
+SSC10901,Floraville
+SSC10902,Forbes (NSW)
+SSC10903,Forest Hill (NSW)
+SSC10904,Forest Lodge
+SSC10905,Forest Reefs
+SSC10906,Forestville (NSW)
+SSC10907,Forresters Beach
+SSC10908,Forster (NSW)
+SSC10909,Fosters Valley
+SSC10910,Fosterton
+SSC10911,Fountaindale
+SSC10912,Foxground
+SSC10913,Frazers Creek
+SSC10914,Frederickton
+SSC10915,Freeburn Island
+SSC10916,Freemans Reach
+SSC10917,Frenchs Forest
+SSC10918,Freshwater (NSW)
+SSC10919,Frogmore
+SSC10920,Fullerton Cove
+SSC10921,Galong
+SSC10922,Galston
+SSC10923,Ganbenang
+SSC10924,Ganmain
+SSC10925,Garah
+SSC10926,Garden Suburb
+SSC10927,Garra
+SSC10928,Gateshead
+SSC10929,Geneva
+SSC10930,Georges Hall
+SSC10931,Georges Plains
+SSC10932,Georgetown (NSW)
+SSC10933,Georgica
+SSC10934,Gerogery
+SSC10935,Gerringong
+SSC10936,Gerroa
+SSC10937,Geurie
+SSC10938,Giants Creek
+SSC10939,Gilead
+SSC10940,Gilgai
+SSC10941,Gilgandra
+SSC10942,Gilgooma
+SSC10943,Gillenbah
+SSC10944,Gillieston Heights
+SSC10945,Gilmore (NSW)
+SSC10946,Gin Gin (NSW)
+SSC10947,Girards Hill
+SSC10948,Girilambone
+SSC10949,Girral
+SSC10950,Girraween (NSW)
+SSC10951,Gladesville
+SSC10952,Gladstone (NSW)
+SSC10953,Glebe (NSW)
+SSC10954,Glen Alpine
+SSC10955,Glen Davis
+SSC10956,Glen Innes
+SSC10957,Glen Oak
+SSC10958,Glen William
+SSC10959,Glenbrook
+SSC10960,Glencoe (NSW)
+SSC10961,Glendale (NSW)
+SSC10962,Glendenning
+SSC10963,Glendon Brook
+SSC10964,Glenfield (NSW)
+SSC10965,Glenfield Park
+SSC10966,Glenhaven
+SSC10967,Gleniffer
+SSC10968,Glenmore Park
+SSC10969,Glenning Valley
+SSC10970,Glenorie
+SSC10971,Glenquarry
+SSC10972,Glenreagh
+SSC10973,Glenridding
+SSC10974,Glenrock (NSW)
+SSC10975,Glenroy (Albury - NSW)
+SSC10976,Glenroy (Tumbarumba - NSW)
+SSC10977,Glenthorne
+SSC10978,Glenugie
+SSC10979,Glenwood (NSW)
+SSC10980,Glossodia
+SSC10981,Gloucester
+SSC10982,Gobarralong
+SSC10983,Gobbagombalin
+SSC10984,Gocup
+SSC10985,Godfreys Creek
+SSC10986,Gol Gol
+SSC10987,Gollan
+SSC10988,Good Hope
+SSC10989,Goodnight
+SSC10990,Goodooga
+SSC10991,Googong
+SSC10992,Goolgowi
+SSC10993,Goolhi
+SSC10994,Gooloogong
+SSC10995,Goonellabah
+SSC10996,Goonengerry
+SSC10997,Goonumbla
+SSC10998,Gordon (NSW)
+SSC10999,Gormans Hill
+SSC11000,Gorokan
+SSC11001,Gosford
+SSC11002,Goulburn
+SSC11003,Grabben Gullen
+SSC11004,Grafton
+SSC11005,Grahamstown
+SSC11006,Graman
+SSC11007,Grants Beach
+SSC11008,Granville (NSW)
+SSC11009,Grasmere
+SSC11010,Grattai
+SSC11011,Gravesend
+SSC11012,Grawlin
+SSC11013,Grays Point
+SSC11014,Great Mackerel Beach
+SSC11015,Green Pigeon
+SSC11016,Green Point (Gosford - NSW)
+SSC11017,Green Point (Great Lakes - NSW)
+SSC11018,Green Valley (NSW)
+SSC11019,Greenacre
+SSC11020,Greendale (Liverpool - NSW)
+SSC11021,Greenethorpe
+SSC11022,Greenfield Park
+SSC11023,Greenhill (NSW)
+SSC11024,Greenleigh
+SSC11025,Greenridge
+SSC11026,Greenwell Point
+SSC11027,Greenwich
+SSC11028,Gregory Hills
+SSC11029,Greigs Flat
+SSC11030,Grenfell
+SSC11031,Gresford
+SSC11032,Greta (NSW)
+SSC11033,Greystanes
+SSC11034,Griffith (NSW)
+SSC11035,Grong Grong
+SSC11036,Grose Vale
+SSC11037,Grose Wold
+SSC11038,Guildford (NSW)
+SSC11039,Guildford West
+SSC11040,Gulargambone
+SSC11041,Gulgong
+SSC11042,Gulmarrad
+SSC11043,Gum Flat
+SSC11044,Gumly Gumly
+SSC11045,Gumma
+SSC11046,Gundagai
+SSC11047,Gundaroo
+SSC11048,Gundary
+SSC11049,Gundy
+SSC11050,Gunnedah
+SSC11051,Gunning
+SSC11052,Gurranang
+SSC11053,Guyra
+SSC11054,Gwabegar
+SSC11055,Gwandalan
+SSC11056,Gwynneville
+SSC11057,Gymea
+SSC11058,Gymea Bay
+SSC11059,Haberfield
+SSC11060,Halekulani
+SSC11061,Halfway Creek
+SSC11062,Hallidays Point
+SSC11063,Hallsville
+SSC11064,Hamilton (NSW)
+SSC11065,Hamilton East
+SSC11066,Hamilton North
+SSC11067,Hamilton South
+SSC11068,Hamilton Valley
+SSC11069,Hamlyn Terrace
+SSC11070,Hammondville
+SSC11071,Hannam Vale
+SSC11072,Hanwood
+SSC11073,Harden
+SSC11074,Hargraves
+SSC11075,Harolds Cross
+SSC11076,Harrington
+SSC11077,Harrington Park
+SSC11078,Harris Park
+SSC11079,Hartley (NSW)
+SSC11080,Harwood
+SSC11081,Hassall Grove
+SSC11082,Hassans Walls
+SSC11083,Hastings Point
+SSC11084,Hat Head
+SSC11085,Hawkesbury Heights
+SSC11086,Hawks Nest
+SSC11087,Hay (NSW)
+SSC11088,Hay South
+SSC11089,Haymarket
+SSC11090,Haywards Bay
+SSC11091,Hazelbrook
+SSC11092,Heathcote (NSW)
+SSC11093,Heatherbrae
+SSC11094,Hebersham
+SSC11095,Heckenberg
+SSC11096,Heddon Greta
+SSC11097,Helensburgh
+SSC11098,Henley
+SSC11099,Henty (NSW)
+SSC11100,Hermidale
+SSC11101,Hermitage Flat
+SSC11102,Hernani
+SSC11103,Herons Creek
+SSC11104,Hexham (NSW)
+SSC11105,Hickeys Creek
+SSC11106,High Range
+SSC11107,Highfields (NSW)
+SSC11108,Hill End (NSW)
+SSC11109,Hill Top (Wingecarribee - NSW)
+SSC11110,Hillgrove (Armidale Dumaresq - NSW)
+SSC11111,Hillsborough (Lake Macquarie - NSW)
+SSC11112,Hillsdale
+SSC11113,Hillston
+SSC11114,Hillville
+SSC11115,Hillvue
+SSC11116,Hinchinbrook (NSW)
+SSC11117,Hinton
+SSC11118,Hobartville (NSW)
+SSC11119,Hogarth Range
+SSC11120,Holbrook
+SSC11121,Holgate
+SSC11122,Holmesville
+SSC11123,Holroyd
+SSC11124,Holsworthy
+SSC11125,Homebush (NSW)
+SSC11126,Homebush West
+SSC11127,Homeleigh
+SSC11128,Hopkins Creek
+SSC11129,Horningsea Park
+SSC11130,Hornsby
+SSC11131,Hornsby Heights
+SSC11132,Horse Station Creek
+SSC11133,Horseshoe Bend
+SSC11134,Horsfield Bay
+SSC11135,Horsley
+SSC11136,Horsley Park
+SSC11137,Hoskinstown
+SSC11138,Howlong
+SSC11139,Hoxton Park
+SSC11140,Humula
+SSC11141,Hunters Hill
+SSC11142,Hunterview
+SSC11143,Huntley (Orange - NSW)
+SSC11144,Huntleys Cove
+SSC11145,Huntleys Point
+SSC11146,Huonbrook
+SSC11147,Hurlstone Park
+SSC11148,Hurstville
+SSC11149,Hurstville Grove
+SSC11150,Huskisson
+SSC11151,Hyams Beach
+SSC11152,Hyland Park
+SSC11153,Ilarwill
+SSC11154,Ilford
+SSC11155,Illawong
+SSC11156,Iluka (NSW)
+SSC11157,Ingleburn
+SSC11158,Ingleside
+SSC11159,Inverell
+SSC11160,Invergowrie
+SSC11161,Islington
+SSC11162,Ivanhoe (NSW)
+SSC11163,Jacks Creek
+SSC11164,Jamberoo
+SSC11165,James Creek
+SSC11166,Jamisontown
+SSC11167,Jannali
+SSC11168,Jaspers Brush
+SSC11169,Jeir
+SSC11170,Jellat Jellat
+SSC11171,Jemalong
+SSC11172,Jennings
+SSC11173,Jerangle
+SSC11174,Jeremadra
+SSC11175,Jerilderie
+SSC11176,Jerrabomberra
+SSC11177,Jerrara
+SSC11178,Jerrys Plains
+SSC11179,Jerseyville
+SSC11180,Jesmond
+SSC11181,Jewells
+SSC11182,Jiggi
+SSC11183,Jilliby
+SSC11184,Jindabyne
+SSC11185,Jindera
+SSC11186,Jingellic
+SSC11187,Johns River
+SSC11188,Jolly Nose
+SSC11189,Jugiong
+SSC11190,Junction Hill
+SSC11191,Junee
+SSC11192,Kahibah
+SSC11193,Kains Flat
+SSC11194,Kalang
+SSC11195,Kalaru
+SSC11196,Kalkite
+SSC11197,Kanahooka
+SSC11198,Kandos
+SSC11199,Kangaloon
+SSC11200,Kangaroo Creek
+SSC11201,Kangaroo Point (NSW)
+SSC11202,Kangaroo Valley
+SSC11203,Kangy Angy
+SSC11204,Kanimbla (NSW)
+SSC11205,Kanoona
+SSC11206,Kanwal
+SSC11207,Kapooka
+SSC11208,Karabar
+SSC11209,Karangi
+SSC11210,Kareela
+SSC11211,Kariong
+SSC11212,Karuah
+SSC11213,Katoomba
+SSC11214,Kearns
+SSC11215,Kearsley
+SSC11216,Keepit
+SSC11217,Keerrong
+SSC11218,Keiraville
+SSC11219,Keith Hall
+SSC11220,Kellyville
+SSC11221,Kellyville Ridge
+SSC11222,Kelso (NSW)
+SSC11223,Kembla Grange
+SSC11224,Kembla Heights
+SSC11225,Kemps Creek
+SSC11226,Kempsey
+SSC11227,Kendall
+SSC11228,Kenebri
+SSC11229,Kensington (NSW)
+SSC11230,Kenthurst
+SSC11231,Kentlyn
+SSC11232,Kentucky
+SSC11233,Kerrigundi
+SSC11234,Kew (NSW)
+SSC11235,Khancoban
+SSC11236,Kiah
+SSC11237,Kiama
+SSC11238,Kiama Downs
+SSC11239,Kiama Heights
+SSC11240,Kianga (NSW)
+SSC11241,Kielvale
+SSC11242,Kilaben Bay
+SSC11243,Killabakh
+SSC11244,Killara (NSW)
+SSC11245,Killarney Heights
+SSC11246,Killarney Vale
+SSC11247,Killawarra (NSW)
+SSC11248,Killcare
+SSC11249,Killcare Heights
+SSC11250,Killingworth (NSW)
+SSC11251,Kimbriki
+SSC11252,Kinchela
+SSC11253,Kincumber
+SSC11254,Kincumber South
+SSC11255,Kindee
+SSC11256,King Creek
+SSC11257,Kings Langley
+SSC11258,Kings Park (NSW)
+SSC11259,Kings Point
+SSC11260,Kingscliff
+SSC11261,Kingsford (NSW)
+SSC11262,Kingsgrove
+SSC11263,Kingsvale
+SSC11264,Kingswood (Penrith - NSW)
+SSC11265,Kingswood (Tamworth - NSW)
+SSC11266,Kioloa
+SSC11267,Kirkconnell
+SSC11268,Kirkham
+SSC11269,Kirrawee
+SSC11270,Kirribilli
+SSC11271,Kitchener
+SSC11272,Knockrow
+SSC11273,Kogarah
+SSC11274,Kogarah Bay
+SSC11275,Koolewong
+SSC11276,Koonawarra
+SSC11277,Koonorigan
+SSC11278,Kooragang
+SSC11279,Koorainghat
+SSC11280,Koorawatha
+SSC11281,Kooringal (NSW)
+SSC11282,Kootingal
+SSC11283,Koraleigh
+SSC11284,Korora
+SSC11285,Kosciuszko National Park
+SSC11286,Kotara
+SSC11287,Kotara South
+SSC11288,Krambach
+SSC11289,Ku-Ring-Gai Chase
+SSC11290,Kulnura
+SSC11291,Kundabung
+SSC11292,Kundle Kundle
+SSC11293,Kurmond
+SSC11294,Kurnell
+SSC11295,Kurraba Point
+SSC11296,Kurrajong
+SSC11297,Kurrajong Heights
+SSC11298,Kurrajong Hills
+SSC11299,Kurri Kurri
+SSC11300,Kyeemagh
+SSC11301,Kyle Bay
+SSC11302,Kyogle
+SSC11303,La Perouse
+SSC11304,Lacmalac
+SSC11305,Lade Vale
+SSC11306,Ladysmith
+SSC11307,Laggan
+SSC11308,Lagoon Grass
+SSC11309,Laguna
+SSC11310,Lake Albert
+SSC11311,Lake Cargelligo
+SSC11312,Lake Cathie
+SSC11313,Lake Conjola
+SSC11314,Lake Haven
+SSC11315,Lake Heights
+SSC11316,Lake Illawarra
+SSC11317,Lake Innes
+SSC11318,Lake Munmorah
+SSC11319,Lake Tabourie
+SSC11320,Lake Wyangan
+SSC11321,Lakelands (NSW)
+SSC11322,Lakemba
+SSC11323,Lakesland
+SSC11324,Lakewood (NSW)
+SSC11325,Lalalty
+SSC11326,Lalor Park
+SSC11327,Lambs Valley (Singleton - NSW)
+SSC11328,Lambton
+SSC11329,Lane Cove
+SSC11330,Lane Cove North
+SSC11331,Lane Cove West
+SSC11332,Lanitza
+SSC11333,Lansdowne (Bankstown - NSW)
+SSC11334,Lansdowne (Greater Taree - NSW)
+SSC11335,Lansdowne Forest
+SSC11336,Lansvale
+SSC11337,Lapstone
+SSC11338,Largs
+SSC11339,Larnook
+SSC11340,Larras Lee
+SSC11341,Laurieton
+SSC11342,Lavender Bay
+SSC11343,Lavington
+SSC11344,Lawrence (NSW)
+SSC11345,Lawson (NSW)
+SSC11346,Leadville
+SSC11347,Leconfield
+SSC11348,Leeton
+SSC11349,Leets Vale
+SSC11350,Legume
+SSC11351,Leichhardt (NSW)
+SSC11352,Lemon Tree Passage
+SSC11353,Lennox Head
+SSC11354,Leonay
+SSC11355,Leppington
+SSC11356,Lethbridge Park
+SSC11357,Leumeah
+SSC11358,Leura
+SSC11359,Lewis Ponds
+SSC11360,Lewisham (NSW)
+SSC11361,Leycester
+SSC11362,Liberty Grove
+SSC11363,Lidcombe
+SSC11364,Lidsdale
+SSC11365,Lightning Ridge
+SSC11366,Lilli Pilli (Eurobodalla - NSW)
+SSC11367,Lilli Pilli (Sutherland - NSW)
+SSC11368,Lillian Rock
+SSC11369,Lilyfield
+SSC11370,Lilyvale (NSW)
+SSC11371,Limbri
+SSC11372,Limeburners Creek (Great Lakes - NSW)
+SSC11373,Limpinwood
+SSC11374,Linden (NSW)
+SSC11375,Lindendale
+SSC11376,Lindfield
+SSC11377,Lindifferon
+SSC11378,Linley Point
+SSC11379,Lisarow
+SSC11380,Lismore (NSW)
+SSC11381,Lismore Heights
+SSC11382,Liston
+SSC11383,Lithgow
+SSC11384,Little Bay
+SSC11385,Little Billabong
+SSC11386,Little Forest
+SSC11387,Little Hartley
+SSC11388,Little Wobby
+SSC11389,Littleton
+SSC11390,Liverpool
+SSC11391,Llanarth (NSW)
+SSC11392,Llandilo
+SSC11393,Lloyd
+SSC11394,Lochiel (NSW)
+SSC11395,Lochinvar
+SSC11396,Lockhart (NSW)
+SSC11397,Loftus
+SSC11398,Loftville
+SSC11399,Logans Crossing
+SSC11400,Logie Brae
+SSC11401,Londonderry (NSW)
+SSC11402,Long Beach
+SSC11403,Long Flat (NSW)
+SSC11404,Long Jetty
+SSC11405,Long Point (Campbelltown - NSW)
+SSC11406,Longueville
+SSC11407,Loomberah
+SSC11408,Lord Howe Island
+SSC11409,Lorn
+SSC11410,Lorne (NSW)
+SSC11411,Louth Park
+SSC11412,Lovedale
+SSC11413,Lowanna
+SSC11414,Lower Belford
+SSC11415,Lower Boro
+SSC11416,Lower Dyraaba
+SSC11417,Lower Macdonald
+SSC11418,Lower Pappinbarra
+SSC11419,Lower Portland
+SSC11420,Lowesdale
+SSC11421,Lucas Heights
+SSC11422,Lucknow (NSW)
+SSC11423,Luddenham
+SSC11424,Lue
+SSC11425,Lugarno
+SSC11426,Lurnea
+SSC11427,Luskintyre
+SSC11428,Lynchs Creek
+SSC11429,Lyndhurst (Blayney - NSW)
+SSC11430,Lynwood (NSW)
+SSC11431,Macksville
+SSC11432,Maclean
+SSC11433,Macmasters Beach
+SSC11434,Macquarie Fields
+SSC11435,Macquarie Hills
+SSC11436,Macquarie Links
+SSC11437,Macquarie Park
+SSC11438,Maddens Plains
+SSC11439,Magenta (NSW)
+SSC11440,Maianbar
+SSC11441,Main Arm
+SSC11442,Maison Dieu
+SSC11443,Maitland (NSW)
+SSC11444,Majors Creek (NSW)
+SSC11445,Malabar
+SSC11446,Mallabula
+SSC11447,Mallanganee
+SSC11448,Mallowa
+SSC11449,Maloneys Beach
+SSC11450,Malua Bay
+SSC11451,Mandalong
+SSC11452,Mandurama
+SSC11453,Mangerton
+SSC11454,Mangoplah
+SSC11455,Mangrove Mountain
+SSC11456,Manildra
+SSC11457,Manilla
+SSC11458,Manly (NSW)
+SSC11459,Manly Vale
+SSC11460,Mannering Park
+SSC11461,Manning Point
+SSC11462,Manyana
+SSC11463,Maraylya
+SSC11464,Marayong
+SSC11465,Marchmont
+SSC11466,Mardi
+SSC11467,Marks Point
+SSC11468,Markwell
+SSC11469,Marlee
+SSC11470,Marmong Point
+SSC11471,Maroota
+SSC11472,Maroubra
+SSC11473,Marrangaroo
+SSC11474,Marrar
+SSC11475,Marrickville
+SSC11476,Marsden Park
+SSC11477,Marsfield
+SSC11478,Marshall Mount
+SSC11479,Marthaguy
+SSC11480,Martindale
+SSC11481,Martins Creek
+SSC11482,Martinsville
+SSC11483,Marulan
+SSC11484,Maryland (Newcastle - NSW)
+SSC11485,Marys Mount
+SSC11486,Maryville
+SSC11487,Mascot
+SSC11488,Matcham
+SSC11489,Mathoura
+SSC11490,Matong
+SSC11491,Matraville
+SSC11492,Mayfield (Newcastle - NSW)
+SSC11493,Mayfield East
+SSC11494,Mayfield West
+SSC11495,Mays Hill
+SSC11496,McDougalls Hill
+SSC11497,McGraths Hill
+SSC11498,McKellars Park
+SSC11499,McLeans Ridges
+SSC11500,McMahons Point
+SSC11501,Meadow Flat
+SSC11502,Meadowbank (NSW)
+SSC11503,Medlow Bath
+SSC11504,Medowie
+SSC11505,Medway
+SSC11506,Meerschaum Vale
+SSC11507,Megan
+SSC11508,Melrose Park (NSW)
+SSC11509,Memagong
+SSC11510,Menah
+SSC11511,Menai
+SSC11512,Menangle
+SSC11513,Menangle Park
+SSC11514,Mendooran
+SSC11515,Menindee
+SSC11516,Merah North
+SSC11517,Merewether
+SSC11518,Merewether Heights
+SSC11519,Merimbula
+SSC11520,Meroo Meadow
+SSC11521,Merriwa (NSW)
+SSC11522,Merriwagga
+SSC11523,Merrygoen
+SSC11524,Merrylands
+SSC11525,Merrylands West
+SSC11526,Merungle Hill
+SSC11527,Meryla
+SSC11528,Metford
+SSC11529,Methul
+SSC11530,Michelago
+SSC11531,Middle Arm
+SSC11532,Middle Brook
+SSC11533,Middle Cove
+SSC11534,Middle Dural
+SSC11535,Middleton Grange
+SSC11536,Mila
+SSC11537,Miller
+SSC11538,Millers Forest
+SSC11539,Millers Point
+SSC11540,Millfield
+SSC11541,Millingandi
+SSC11542,Millthorpe
+SSC11543,Milperra
+SSC11544,Milsons Passage
+SSC11545,Milsons Point
+SSC11546,Milton (NSW)
+SSC11547,Minchinbury
+SSC11548,Mindaribba
+SSC11549,Minmi
+SSC11550,Minnamurra
+SSC11551,Minnie Water
+SSC11552,Minore Falls
+SSC11553,Minto
+SSC11554,Minto Heights
+SSC11555,Miranda (NSW)
+SSC11556,Mirrabooka (NSW)
+SSC11557,Mirrool
+SSC11558,Missabotti
+SSC11559,Mitchell (NSW)
+SSC11560,Mitchells Flat
+SSC11561,Mitchells Island
+SSC11562,Mittagong
+SSC11563,Moama
+SSC11564,Modanville
+SSC11565,Mogareeka
+SSC11566,Mogendoura
+SSC11567,Mogo (Eurobodalla - NSW)
+SSC11568,Mogood
+SSC11569,Mole River
+SSC11570,Mollymook
+SSC11571,Mollymook Beach
+SSC11572,Molong
+SSC11573,Mona Vale
+SSC11574,Monaltrie
+SSC11575,Mondayong
+SSC11576,Monteagle
+SSC11577,Montefiores
+SSC11578,Monterey
+SSC11579,Mooball
+SSC11580,Moobi
+SSC11581,Moonan Flat
+SSC11582,Moonbah
+SSC11583,Moonbi
+SSC11584,Mooneba
+SSC11585,Moonee Beach
+SSC11586,Mooney Mooney
+SSC11587,Moorbel
+SSC11588,Moore Creek
+SSC11589,Moore Park
+SSC11590,Moorebank
+SSC11591,Moorland (NSW)
+SSC11592,Moorong
+SSC11593,Moree
+SSC11594,Morisset
+SSC11595,Morisset Park
+SSC11596,Morpeth
+SSC11597,Mortdale
+SSC11598,Mortlake (NSW)
+SSC11599,Morton
+SSC11600,Morts Estate
+SSC11601,Moruya
+SSC11602,Moruya Heads
+SSC11603,Mosman
+SSC11604,Moss Vale
+SSC11605,Mossy Point
+SSC11606,Moto
+SSC11607,Moulamein
+SSC11608,Mount Annan
+SSC11609,Mount Arthur
+SSC11610,Mount Austin
+SSC11611,Mount Burrell
+SSC11612,Mount Colah
+SSC11613,Mount Druitt
+SSC11614,Mount Elliot (NSW)
+SSC11615,Mount Fairy
+SSC11616,Mount George (NSW)
+SSC11617,Mount Hunter
+SSC11618,Mount Hutton (NSW)
+SSC11619,Mount Keira
+SSC11620,Mount Kembla
+SSC11621,Mount Kuring-Gai
+SSC11622,Mount Lewis
+SSC11623,Mount Olive (Singleton - NSW)
+SSC11624,Mount Ousley
+SSC11625,Mount Pleasant (NSW)
+SSC11626,Mount Pritchard
+SSC11627,Mount Rankin
+SSC11628,Mount Riverview
+SSC11629,Mount Russell
+SSC11630,Mount Saint Thomas
+SSC11631,Mount Thorley
+SSC11632,Mount Vernon
+SSC11633,Mount Victoria
+SSC11634,Mount View
+SSC11635,Mount Vincent
+SSC11636,Mount Warrigal
+SSC11637,Mountain Lagoon
+SSC11638,Mountain View (NSW)
+SSC11639,Mudgee
+SSC11640,Mugga Downs
+SSC11641,Mulbring
+SSC11642,Mulgoa
+SSC11643,Muli Muli
+SSC11644,Mullaway
+SSC11645,Mullengandra
+SSC11646,Mullion Creek
+SSC11647,Mulloon
+SSC11648,Mullumbimby
+SSC11649,Mullumbimby Creek
+SSC11650,Mulwala
+SSC11651,Mumbil
+SSC11652,Mummulgum
+SSC11653,Mundamia
+SSC11654,Mundongo
+SSC11655,Mungindi (NSW)
+SSC11656,Murrami
+SSC11657,Murray Downs
+SSC11658,Murrin Bridge
+SSC11659,Murringo
+SSC11660,Murrumbateman
+SSC11661,Murrumburrah
+SSC11662,Murrurundi
+SSC11663,Murwillumbah
+SSC11664,Muscle Creek
+SSC11665,Muswellbrook
+SSC11666,Mutawintji
+SSC11667,Myall Park (NSW)
+SSC11668,Mylestom
+SSC11669,Myocum
+SSC11670,Myola (NSW)
+SSC11671,Myrtle Creek (NSW)
+SSC11672,Myrtleville
+SSC11673,Mystery Bay
+SSC11674,Nabiac
+SSC11675,Nambucca Heads
+SSC11676,Nana Glen
+SSC11677,Nangus
+SSC11678,Nanima
+SSC11679,Napoleon Reef
+SSC11680,Naradhan
+SSC11681,Narara
+SSC11682,Narellan
+SSC11683,Narellan Vale
+SSC11684,Naremburn
+SSC11685,Narooma
+SSC11686,Narrabeen
+SSC11687,Narrabri
+SSC11688,Narraburra
+SSC11689,Narrandera
+SSC11690,Narrawallee
+SSC11691,Narraweena
+SSC11692,Narromine
+SSC11693,Narwee
+SSC11694,Nashdale
+SSC11695,Nashua
+SSC11696,Neath
+SSC11697,Nelligen
+SSC11698,Nelson (The Hills - NSW)
+SSC11699,Nelson Bay (NSW)
+SSC11700,Nelsons Plains
+SSC11701,Nemingha
+SSC11702,Nericon
+SSC11703,Nerong
+SSC11704,Nerriga
+SSC11705,Nerrigundah
+SSC11706,Nethercote
+SSC11707,Neurea
+SSC11708,Neutral Bay
+SSC11709,Nevertire
+SSC11710,Neville
+SSC11711,New Berrima
+SSC11712,New Brighton
+SSC11713,New Italy
+SSC11714,New Lambton
+SSC11715,New Lambton Heights
+SSC11716,Newbridge (NSW)
+SSC11717,Newcastle
+SSC11718,Newcastle East
+SSC11719,Newcastle West
+SSC11720,Newee Creek
+SSC11721,Newington (NSW)
+SSC11722,Newport (NSW)
+SSC11723,Newrybar
+SSC11724,Newtown (NSW)
+SSC11725,Niagara Park
+SSC11726,Niangala
+SSC11727,Nimbin
+SSC11728,Nimmitabel
+SSC11729,Nobbys Creek
+SSC11730,Norah Head
+SSC11731,Noraville
+SSC11732,Nords Wharf
+SSC11733,Normanhurst
+SSC11734,North Albury
+SSC11735,North Arm Cove
+SSC11736,North Avoca
+SSC11737,North Balgowlah
+SSC11738,North Batemans Bay
+SSC11739,North Boambee Valley
+SSC11740,North Bondi
+SSC11741,North Brother
+SSC11742,North Casino
+SSC11743,North Curl Curl
+SSC11744,North Dorrigo
+SSC11745,North Epping
+SSC11746,North Gosford
+SSC11747,North Haven (NSW)
+SSC11748,North Lambton
+SSC11749,North Lismore
+SSC11750,North Macksville
+SSC11751,North Manly
+SSC11752,North Narooma
+SSC11753,North Narrabeen
+SSC11754,North Nowra
+SSC11755,North Parramatta
+SSC11756,North Richmond
+SSC11757,North Rocks
+SSC11758,North Rothbury
+SSC11759,North Ryde
+SSC11760,North Shore (NSW)
+SSC11761,North St Marys
+SSC11762,North Star
+SSC11763,North Strathfield
+SSC11764,North Sydney
+SSC11765,North Tamworth
+SSC11766,North Tumbulgum
+SSC11767,North Turramurra
+SSC11768,North Wagga Wagga
+SSC11769,North Wahroonga
+SSC11770,North Willoughby
+SSC11771,North Wollongong
+SSC11772,North Yeoval
+SSC11773,Northbridge (NSW)
+SSC11774,Northmead
+SSC11775,Northwood (NSW)
+SSC11776,Nowendoc
+SSC11777,Nowra
+SSC11778,Nowra Hill
+SSC11779,Nulkaba
+SSC11780,Nullamanna
+SSC11781,Numbugga
+SSC11782,Numeralla
+SSC11783,Numulgi
+SSC11784,Nunderi
+SSC11785,Nundle
+SSC11786,Nungatta
+SSC11787,Nurenmerenmong
+SSC11788,Nymboida
+SSC11789,Nyngan
+SSC11790,O'Connell (NSW)
+SSC11791,Oak Flats
+SSC11792,Oakdale (NSW)
+SSC11793,Oakhampton
+SSC11794,Oakhurst (NSW)
+SSC11795,Oaklands
+SSC11796,Oakville
+SSC11797,Oaky Park
+SSC11798,Oatlands (NSW)
+SSC11799,Oatley
+SSC11800,Oberon
+SSC11801,Obley
+SSC11802,Ocean Shores
+SSC11803,Old Bar
+SSC11804,Old Bonalbo
+SSC11805,Old Erowal Bay
+SSC11806,Old Grevillia
+SSC11807,Old Guildford
+SSC11808,Old Junee
+SSC11809,Old Toongabbie
+SSC11810,One Mile (NSW)
+SSC11811,Ootha
+SSC11812,Ophir
+SSC11813,Oran Park
+SSC11814,Orange
+SSC11815,Orangeville
+SSC11816,Orchard Hills
+SSC11817,Orient Point
+SSC11818,Osterley (NSW)
+SSC11819,Otford
+SSC11820,Oura
+SSC11821,Ourimbah
+SSC11822,Oxford Falls
+SSC11823,Oxley Island
+SSC11824,Oxley Park
+SSC11825,Oxley Vale
+SSC11826,Oyster Bay
+SSC11827,Paddington (NSW)
+SSC11828,Paddys River (Wingecarribee - NSW)
+SSC11829,Padstow
+SSC11830,Padstow Heights
+SSC11831,Pagewood
+SSC11832,Pallamallawa
+SSC11833,Palm Beach (NSW)
+SSC11834,Palmers Island
+SSC11835,Pambula
+SSC11836,Pambula Beach
+SSC11837,Pampoolah
+SSC11838,Panania
+SSC11839,Parkes (NSW)
+SSC11840,Parkesbourne
+SSC11841,Parklea
+SSC11842,Parkville (NSW)
+SSC11843,Parma
+SSC11844,Parramatta
+SSC11845,Parraweena
+SSC11846,Paterson (NSW)
+SSC11847,Patonga
+SSC11848,Paxton
+SSC11849,Peak Hill (NSW)
+SSC11850,Peakhurst
+SSC11851,Peakhurst Heights
+SSC11852,Pearl Beach
+SSC11853,Peats Ridge
+SSC11854,Peel
+SSC11855,Pelaw Main
+SSC11856,Pelican (NSW)
+SSC11857,Pembrooke
+SSC11858,Pemulwuy
+SSC11859,Pendle Hill
+SSC11860,Pennant Hills
+SSC11861,Penrith
+SSC11862,Penrose (Wingecarribee - NSW)
+SSC11863,Penrose (Wollongong - NSW)
+SSC11864,Penshurst (NSW)
+SSC11865,Perthville
+SSC11866,Petersham
+SSC11867,Pheasants Nest
+SSC11868,Phegans Bay
+SSC11869,Phillip Bay
+SSC11870,Piallamore
+SSC11871,Piallaway
+SSC11872,Piambong
+SSC11873,Picketts Valley
+SSC11874,Picnic Point
+SSC11875,Picton (NSW)
+SSC11876,Piggabeen
+SSC11877,Pillar Valley
+SSC11878,Pimlico (NSW)
+SSC11879,Pindimar
+SSC11880,Pine Ridge
+SSC11881,Pinny Beach
+SSC11882,Pitnacree
+SSC11883,Pitt Town
+SSC11884,Pleasant Hills
+SSC11885,Pleasure Point
+SSC11886,Plumpton (NSW)
+SSC11887,Point Clare
+SSC11888,Point Frederick
+SSC11889,Point Piper
+SSC11890,Point Wolstoncroft
+SSC11891,Pokolbin
+SSC11892,Polo Flat
+SSC11893,Pomona (NSW)
+SSC11894,Pooncarie
+SSC11895,Port Botany
+SSC11896,Port Hacking
+SSC11897,Port Kembla
+SSC11898,Port Macquarie
+SSC11899,Porters Retreat
+SSC11900,Portland (NSW)
+SSC11901,Possum Brush
+SSC11902,Possum Creek
+SSC11903,Potato Point
+SSC11904,Potts Hill
+SSC11905,Potts Point
+SSC11906,Pottsville
+SSC11907,Prairiewood
+SSC11908,Premer
+SSC11909,Prestons
+SSC11910,Pretty Beach (Gosford - NSW)
+SSC11911,Primbee
+SSC11912,Primrose Valley
+SSC11913,Prospect (NSW)
+SSC11914,Providence Portal
+SSC11915,Pumpenbil
+SSC11916,Punchbowl (Canterbury - NSW)
+SSC11917,Purfleet
+SSC11918,Putney
+SSC11919,Putta Bucca
+SSC11920,Putty
+SSC11921,Pymble
+SSC11922,Pyree
+SSC11923,Pyrmont
+SSC11924,Quaama
+SSC11925,Quakers Hill
+SSC11926,Quambone
+SSC11927,Quandialla
+SSC11928,Queanbeyan
+SSC11929,Queanbeyan East
+SSC11930,Queanbeyan West
+SSC11931,Queens Park (NSW)
+SSC11932,Queenscliff (NSW)
+SSC11933,Quialigo
+SSC11934,Quirindi
+SSC11935,Quorrobolong
+SSC11936,Raby
+SSC11937,Raglan (NSW)
+SSC11938,Rainbow Flat
+SSC11939,Raleigh
+SSC11940,Ramornie
+SSC11941,Ramsgate
+SSC11942,Ramsgate Beach
+SSC11943,Rand
+SSC11944,Randwick
+SSC11945,Rankin Park
+SSC11946,Rankins Springs
+SSC11947,Rappville
+SSC11948,Rathmines
+SSC11949,Ravensdale
+SSC11950,Ravenswood (NSW)
+SSC11951,Raworth
+SSC11952,Raymond Terrace
+SSC11953,Razorback
+SSC11954,Red Head
+SSC11955,Red Range
+SSC11956,Red Rock
+SSC11957,Redbank (NSW)
+SSC11958,Redbournberry
+SSC11959,Redfern
+SSC11960,Redhead
+SSC11961,Reedy Creek (NSW)
+SSC11962,Regents Park (NSW)
+SSC11963,Regentville
+SSC11964,Repton
+SSC11965,Reserve Creek
+SSC11966,Revesby
+SSC11967,Revesby Heights
+SSC11968,Rhodes
+SSC11969,Richmond (NSW)
+SSC11970,Richmond Hill (NSW)
+SSC11971,Richmond Lowlands
+SSC11972,Rileys Hill
+SSC11973,Riverside (NSW)
+SSC11974,Riverstone
+SSC11975,Riverview (Gwydir - NSW)
+SSC11976,Riverview (Lane Cove - NSW)
+SSC11977,Riverwood
+SSC11978,Robertson (NSW)
+SSC11979,Robin Hill
+SSC11980,Rock Flat
+SSC11981,Rock Forest
+SSC11982,Rock Valley
+SSC11983,Rockdale
+SSC11984,Rockley
+SSC11985,Rocky Point (NSW)
+SSC11986,Rocky River (Uralla - NSW)
+SSC11987,Rodd Point
+SSC11988,Rookwood (NSW)
+SSC11989,Rooty Hill
+SSC11990,Ropes Crossing
+SSC11991,Rose Bay (NSW)
+SSC11992,Rosebank
+SSC11993,Roseberry Creek
+SSC11994,Rosebery (NSW)
+SSC11995,Rosebrook (NSW)
+SSC11996,Rosedale (NSW)
+SSC11997,Rosehill (NSW)
+SSC11998,Roselands
+SSC11999,Rosemeadow
+SSC12000,Roseville
+SSC12001,Roseville Chase
+SSC12002,Rosewood (Port Macquarie-Hastings - NSW)
+SSC12003,Rosewood (Tumbarumba - NSW)
+SSC12004,Rossmore (NSW)
+SSC12005,Rothbury
+SSC12006,Rouchel
+SSC12007,Round Mountain
+SSC12008,Rous
+SSC12009,Rous Mill
+SSC12010,Rouse Hill
+SSC12011,Rowlands Creek
+SSC12012,Royal National Park
+SSC12013,Royalla
+SSC12014,Rozelle
+SSC12015,Run-o-Waters
+SSC12016,Ruse
+SSC12017,Rushcutters Bay
+SSC12018,Russell Lea
+SSC12019,Russell Vale
+SSC12020,Rutherford
+SSC12021,Rydal
+SSC12022,Rydalmere
+SSC12023,Ryde
+SSC12024,Rye Park
+SSC12025,Ryhope
+SSC12026,Rylstone
+SSC12027,Sackville
+SSC12028,Sackville North
+SSC12029,Sadleir
+SSC12030,Safety Beach (NSW)
+SSC12031,Salamander Bay
+SSC12032,Salisbury Plains
+SSC12033,Salt Ash
+SSC12034,San Isidore
+SSC12035,San Remo (NSW)
+SSC12036,Sancrox
+SSC12037,Sanctuary Point
+SSC12038,Sandgate (NSW)
+SSC12039,Sandringham (NSW)
+SSC12040,Sandy Beach
+SSC12041,Sandy Flat
+SSC12042,Sandy Hollow
+SSC12043,Sandy Point (NSW)
+SSC12044,Sans Souci
+SSC12045,Sapphire Beach
+SSC12046,Saratoga
+SSC12047,Sassafras (NSW)
+SSC12048,Saumarez Ponds
+SSC12049,Sawtell
+SSC12050,Sawyers Gully
+SSC12051,Scarborough (NSW)
+SSC12052,Schofields
+SSC12053,Scone
+SSC12054,Scotland Island
+SSC12055,Scotts Head
+SSC12056,Seaforth (NSW)
+SSC12057,Seaham
+SSC12058,Seahampton
+SSC12059,Sebastopol (NSW)
+SSC12060,Sedgefield
+SSC12061,Seelands
+SSC12062,Sefton
+SSC12063,Segenhoe
+SSC12064,Seven Hills (NSW)
+SSC12065,Shadforth (NSW)
+SSC12066,Shalvey
+SSC12067,Shanes Park
+SSC12068,Shannon Brook
+SSC12069,Shannons Flat
+SSC12070,Shell Cove
+SSC12071,Shellharbour
+SSC12072,Shellharbour City Centre
+SSC12073,Shelly Beach (NSW)
+SSC12074,Sherwood (Kempsey - NSW)
+SSC12075,Shoal Bay (NSW)
+SSC12076,Shoalhaven Heads
+SSC12077,Shortland
+SSC12078,Silverdale (NSW)
+SSC12079,Silverwater (Auburn - NSW)
+SSC12080,Silverwater (Lake Macquarie - NSW)
+SSC12081,Singleton (NSW)
+SSC12082,Singleton Heights
+SSC12083,Skennars Head
+SSC12084,Skinners Shoot
+SSC12085,Smeaton Grange
+SSC12086,Smithfield (NSW)
+SSC12087,Smiths Creek (Tweed - NSW)
+SSC12088,Smiths Lake
+SSC12089,Smithtown
+SSC12090,Soldiers Point
+SSC12091,Somersby
+SSC12092,Somerton (NSW)
+SSC12093,South Albury
+SSC12094,South Arm (Nambucca - NSW)
+SSC12095,South Bathurst
+SSC12096,South Bowenfels
+SSC12097,South Coogee
+SSC12098,South Durras
+SSC12099,South Golden Beach
+SSC12100,South Grafton
+SSC12101,South Granville
+SSC12102,South Gundagai
+SSC12103,South Gundurimba
+SSC12104,South Guyra
+SSC12105,South Hurstville
+SSC12106,South Kempsey
+SSC12107,South Lismore
+SSC12108,South Littleton
+SSC12109,South Maitland
+SSC12110,South Maroota
+SSC12111,South Murwillumbah
+SSC12112,South Nowra
+SSC12113,South Pambula
+SSC12114,South Penrith
+SSC12115,South Tamworth
+SSC12116,South Turramurra
+SSC12117,South Wentworthville
+SSC12118,South West Rocks
+SSC12119,South Windsor
+SSC12120,Southampton (NSW)
+SSC12121,Southgate
+SSC12122,Speers Point
+SSC12123,Speewa (NSW)
+SSC12124,Spencer
+SSC12125,Spicers Creek
+SSC12126,Splitters Creek
+SSC12127,Spring Farm (NSW)
+SSC12128,Spring Flat
+SSC12129,Spring Grove
+SSC12130,Spring Hill (Cabonne - NSW)
+SSC12131,Spring Ridge
+SSC12132,Spring Terrace
+SSC12133,Springdale Heights
+SSC12134,Springfield (Gosford - NSW)
+SSC12135,Springrange
+SSC12136,Springside (NSW)
+SSC12137,Springvale (Wagga Wagga - NSW)
+SSC12138,Springwood (NSW)
+SSC12139,St Albans (NSW)
+SSC12140,St Andrews (NSW)
+SSC12141,St Clair (Penrith - NSW)
+SSC12142,St Fillans
+SSC12143,St Georges Basin
+SSC12144,St Helens Park
+SSC12145,St Huberts Island
+SSC12146,St Ives (NSW)
+SSC12147,St Ives Chase
+SSC12148,St Johns Park
+SSC12149,St Leonards (NSW)
+SSC12150,St Marys (NSW)
+SSC12151,St Peters (NSW)
+SSC12152,Stanbridge
+SSC12153,Stanford Merthyr
+SSC12154,Stanhope Gardens
+SSC12155,Stanmore (NSW)
+SSC12156,Stanwell Park
+SSC12157,Stanwell Tops
+SSC12158,Stockinbingal
+SSC12159,Stockton (NSW)
+SSC12160,Stokers Siding
+SSC12161,Stonehenge (NSW)
+SSC12162,Stony Chute
+SSC12163,Stratheden
+SSC12164,Strathfield (NSW)
+SSC12165,Strathfield South
+SSC12166,Stroud
+SSC12167,Stroud Road
+SSC12168,Stuart Town
+SSC12169,Stuarts Point
+SSC12170,Stubbo
+SSC12171,Stud Park
+SSC12172,Suffolk Park
+SSC12173,Summer Hill (Ashfield - NSW)
+SSC12174,Summer Hill Creek
+SSC12175,Summerland Point
+SSC12176,Sunny Corner
+SSC12177,Sunset Strip (NSW)
+SSC12178,Sunshine (NSW)
+SSC12179,Sunshine Bay
+SSC12180,Surf Beach (NSW)
+SSC12181,Surfside
+SSC12182,Surry Hills
+SSC12183,Sussex Inlet
+SSC12184,Sutherland (NSW)
+SSC12185,Sutton (NSW)
+SSC12186,Sutton Forest
+SSC12187,Swan Bay (Port Stephens - NSW)
+SSC12188,Swan Bay (Richmond Valley - NSW)
+SSC12189,Swansea (NSW)
+SSC12190,Swansea Heads
+SSC12191,Sydenham (NSW)
+SSC12192,Sydney
+SSC12193,Sydney Olympic Park
+SSC12194,Sylvania
+SSC12195,Sylvania Waters
+SSC12196,Table Top
+SSC12197,Tabulam
+SSC12198,Tacoma
+SSC12199,Tacoma South
+SSC12200,Tahmoor
+SSC12201,Talbingo
+SSC12202,Tallawang
+SSC12203,Tallimba
+SSC12204,Tallong
+SSC12205,Tallwoods Village
+SSC12206,Tamarama
+SSC12207,Tambar Springs
+SSC12208,Taminda
+SSC12209,Tamworth
+SSC12210,Tanilba Bay
+SSC12211,Tanja
+SSC12212,Tannabar
+SSC12213,Tantawangalo
+SSC12214,Tapitallee
+SSC12215,Tarago
+SSC12216,Taralga
+SSC12217,Tarbuck Bay
+SSC12218,Tarcutta
+SSC12219,Taree
+SSC12220,Taree South
+SSC12221,Taren Point
+SSC12222,Tarraganda
+SSC12223,Tarrawanna
+SSC12224,Tarro
+SSC12225,Tascott
+SSC12226,Tatham
+SSC12227,Tathra
+SSC12228,Tatton
+SSC12229,Taylors Arm
+SSC12230,Taylors Beach (NSW)
+SSC12231,Tea Gardens
+SSC12232,Telarah
+SSC12233,Telegraph Point
+SSC12234,Telopea
+SSC12235,Temagog
+SSC12236,Temora
+SSC12237,Tempe
+SSC12238,Tenambit
+SSC12239,Tennyson (NSW)
+SSC12240,Tennyson Point
+SSC12241,Tenterfield
+SSC12242,Teralba
+SSC12243,Terania Creek
+SSC12244,Terara
+SSC12245,Termeil
+SSC12246,Terramungamine
+SSC12247,Terranora
+SSC12248,Terrey Hills
+SSC12249,Terrigal
+SSC12250,Teven
+SSC12251,Tewinga
+SSC12252,Thalgarrah
+SSC12253,Tharbogang
+SSC12254,The Channon
+SSC12255,The Entrance
+SSC12256,The Entrance North
+SSC12257,The Hill
+SSC12258,The Junction
+SSC12259,The Lagoon
+SSC12260,The Oaks
+SSC12261,The Pinnacles
+SSC12262,The Pocket
+SSC12263,The Ponds
+SSC12264,The Ridgeway
+SSC12265,The Rock
+SSC12266,The Rocks (Sydney - NSW)
+SSC12267,The Slopes
+SSC12268,The Whiteman
+SSC12269,Theresa Park
+SSC12270,Thirlmere
+SSC12271,Thirroul
+SSC12272,Thora
+SSC12273,Thornleigh
+SSC12274,Thornton (NSW)
+SSC12275,Thrumster
+SSC12276,Thurgoona
+SSC12277,Tibooburra
+SSC12278,Tighes Hill
+SSC12279,Timbumburi
+SSC12280,Tingha
+SSC12281,Tingira Heights
+SSC12282,Tinonee
+SSC12283,Tintenbar
+SSC12284,Tintinhull
+SSC12285,Tocumwal
+SSC12286,Tolland
+SSC12287,Tomago
+SSC12288,Tomakin
+SSC12289,Tomerong
+SSC12290,Tomingley
+SSC12291,Tooleybuc
+SSC12292,Tooma
+SSC12293,Toongabbie (NSW)
+SSC12294,Tooraweenah
+SSC12295,Toormina
+SSC12296,Toowoon Bay
+SSC12297,Toronto
+SSC12298,Torryburn (Dungog - NSW)
+SSC12299,Tottenham (NSW)
+SSC12300,Toukley
+SSC12301,Towamba
+SSC12302,Townsend
+SSC12303,Towradgi
+SSC12304,Towrang
+SSC12305,Trangie
+SSC12306,Tregeagle
+SSC12307,Tregear
+SSC12308,Trundle
+SSC12309,Trunkey Creek
+SSC12310,Tucabia
+SSC12311,Tucki Tucki
+SSC12312,Tuckombil
+SSC12313,Tuena
+SSC12314,Tuggerah
+SSC12315,Tuggerawong
+SSC12316,Tullamore
+SSC12317,Tullera
+SSC12318,Tullibigeal
+SSC12319,Tullimbar
+SSC12320,Tumbarumba
+SSC12321,Tumbi Umbi
+SSC12322,Tumblong
+SSC12323,Tumbulgum
+SSC12324,Tumut
+SSC12325,Tuncurry
+SSC12326,Tura Beach
+SSC12327,Turlinjah
+SSC12328,Tuross Head
+SSC12329,Turramurra
+SSC12330,Turrella
+SSC12331,Turvey Park
+SSC12332,Tweed Heads
+SSC12333,Tweed Heads South
+SSC12334,Tweed Heads West
+SSC12335,Tyagarah
+SSC12336,Tyalgum
+SSC12337,Tyndale
+SSC12338,Uki
+SSC12339,Ulamambri
+SSC12340,Ulladulla
+SSC12341,Ulmarra
+SSC12342,Ulong
+SSC12343,Ultimo
+SSC12344,Umina Beach
+SSC12345,Unanderra
+SSC12346,Ungarie
+SSC12347,Upper Burringbar
+SSC12348,Upper Corindi
+SSC12349,Upper Crystal Creek
+SSC12350,Upper Horton
+SSC12351,Upper Lansdowne
+SSC12352,Upper Main Arm
+SSC12353,Upper Manilla
+SSC12354,Upper Orara
+SSC12355,Upper Rollands Plains
+SSC12356,Uralba
+SSC12357,Uralla (NSW)
+SSC12358,Urana
+SSC12359,Uranquinty
+SSC12360,Urbenville
+SSC12361,Urunga
+SSC12362,Vacy
+SSC12363,Vale Of Clwydd
+SSC12364,Valentine (NSW)
+SSC12365,Valla
+SSC12366,Valla Beach
+SSC12367,Valley Heights
+SSC12368,Varroville
+SSC12369,Vaucluse
+SSC12370,Verges Creek
+SSC12371,Verona
+SSC12372,Villawood
+SSC12373,Vincentia
+SSC12374,Vineyard
+SSC12375,Violet Hill
+SSC12376,Voyager Point
+SSC12377,Wadalba
+SSC12378,Wagga Wagga
+SSC12379,Wagstaffe
+SSC12380,Wahroonga
+SSC12381,Waitara
+SSC12382,Wakefield
+SSC12383,Wakeley
+SSC12384,Wakool
+SSC12385,Walbundrie
+SSC12386,Walcha
+SSC12387,Walgett
+SSC12388,Walla Walla
+SSC12389,Wallabadah
+SSC12390,Wallabi Point
+SSC12391,Wallacia
+SSC12392,Wallaga Lake
+SSC12393,Wallagoot
+SSC12394,Wallalong
+SSC12395,Wallamore
+SSC12396,Wallarah
+SSC12397,Wallarobba
+SSC12398,Wallaroo (NSW)
+SSC12399,Wallendbeen
+SSC12400,Wallerawang
+SSC12401,Wallsend
+SSC12402,Wamberal
+SSC12403,Wamboin
+SSC12404,Wanaaring
+SSC12405,Wandandian
+SSC12406,Wandella (NSW)
+SSC12407,Wangi Wangi
+SSC12408,Wantabadgery
+SSC12409,Warabrook
+SSC12410,Waratah (NSW)
+SSC12411,Waratah West
+SSC12412,Wardell
+SSC12413,Wards River
+SSC12414,Wareemba
+SSC12415,Warialda
+SSC12416,Warialda Rail
+SSC12417,Warilla
+SSC12418,Warners Bay
+SSC12419,Warnervale
+SSC12420,Warraderry
+SSC12421,Warragamba
+SSC12422,Warral
+SSC12423,Warrawee
+SSC12424,Warrawong
+SSC12425,Warregah Island
+SSC12426,Warrell Creek
+SSC12427,Warren
+SSC12428,Warri
+SSC12429,Warriewood
+SSC12430,Warrimoo
+SSC12431,Warwick Farm
+SSC12432,Watanobbi
+SSC12433,Waterfall
+SSC12434,Waterloo (NSW)
+SSC12435,Waterview Heights
+SSC12436,Watsons Bay
+SSC12437,Watsons Creek (NSW)
+SSC12438,Wattamondara
+SSC12439,Wattle Flat (NSW)
+SSC12440,Wattle Grove (NSW)
+SSC12441,Wattle Ponds
+SSC12442,Wauchope
+SSC12443,Waukivory
+SSC12444,Waverley (NSW)
+SSC12445,Waverton
+SSC12446,Way Way
+SSC12447,Wedderburn (NSW)
+SSC12448,Wee Jasper
+SSC12449,Wee Waa
+SSC12450,Weethalle
+SSC12451,Weilmoringle
+SSC12452,Welby
+SSC12453,Wellington (NSW)
+SSC12454,Wellington Vale
+SSC12455,Wells Crossing
+SSC12456,Wentworth (NSW)
+SSC12457,Wentworth Falls
+SSC12458,Wentworth Point
+SSC12459,Wentworthville
+SSC12460,Werai
+SSC12461,Werombi
+SSC12462,Werri Beach
+SSC12463,Werrington
+SSC12464,Werrington County
+SSC12465,Werrington Downs
+SSC12466,Werris Creek
+SSC12467,West Albury
+SSC12468,West Ballina
+SSC12469,West Bathurst
+SSC12470,West Gosford
+SSC12471,West Haven
+SSC12472,West Hoxton
+SSC12473,West Kempsey
+SSC12474,West Nowra
+SSC12475,West Pennant Hills
+SSC12476,West Pymble
+SSC12477,West Ryde
+SSC12478,West Tamworth
+SSC12479,West Wallsend
+SSC12480,West Wollongong
+SSC12481,West Wyalong
+SSC12482,Westdale (Tamworth - NSW)
+SSC12483,Westleigh
+SSC12484,Westmead
+SSC12485,Weston (NSW)
+SSC12486,Wetherill Park
+SSC12487,Whalan
+SSC12488,Wherrol Flat
+SSC12489,Whian Whian
+SSC12490,White Cliffs
+SSC12491,White Rock (NSW)
+SSC12492,Whitebridge
+SSC12493,Whittingham
+SSC12494,Whitton
+SSC12495,Whoota
+SSC12496,Wiangaree
+SSC12497,Wickham (NSW)
+SSC12498,Wilberforce (NSW)
+SSC12499,Wilcannia
+SSC12500,Wildes Meadow
+SSC12501,Wiley Park
+SSC12502,Willawarrin
+SSC12503,Williamtown
+SSC12504,Willmot
+SSC12505,Willoughby (NSW)
+SSC12506,Willoughby East
+SSC12507,Willow Tree
+SSC12508,Willow Vale (Wingecarribee - NSW)
+SSC12509,Wilsons Creek
+SSC12510,Wilton (NSW)
+SSC12511,Windale
+SSC12512,Windang
+SSC12513,Windella
+SSC12514,Windellama
+SSC12515,Windermere Park
+SSC12516,Windeyer (NSW)
+SSC12517,Windradyne
+SSC12518,Windsor (NSW)
+SSC12519,Windsor Downs
+SSC12520,Wingello
+SSC12521,Wingen
+SSC12522,Wingham
+SSC12523,Winifred
+SSC12524,Winmalee
+SSC12525,Winston Hills
+SSC12526,Winton (NSW)
+SSC12527,Wirlinga
+SSC12528,Wisemans Ferry
+SSC12529,Wittitrin
+SSC12530,Wollar
+SSC12531,Wolli Creek
+SSC12532,Wollombi
+SSC12533,Wollongbar
+SSC12534,Wollongong
+SSC12535,Wollstonecraft
+SSC12536,Wolumla
+SSC12537,Wombarra
+SSC12538,Wombat
+SSC12539,Wombeyan Caves
+SSC12540,Wondalga
+SSC12541,Wongarbon
+SSC12542,Wongawilli
+SSC12543,Woodberry
+SSC12544,Woodbine (NSW)
+SSC12545,Woodburn (Richmond Valley - NSW)
+SSC12546,Woodcroft (NSW)
+SSC12547,Woodenbong
+SSC12548,Woodford (NSW)
+SSC12549,Woodford Island
+SSC12550,Woodlands (Wingecarribee - NSW)
+SSC12551,Woodpark
+SSC12552,Woodrising
+SSC12553,Woodsreef
+SSC12554,Woodstock (Cowra - NSW)
+SSC12555,Woodstock (Shoalhaven - NSW)
+SSC12556,Woodview
+SSC12557,Woodville (NSW)
+SSC12558,Woolbrook
+SSC12559,Woolgoolga
+SSC12560,Wooli
+SSC12561,Woollahra
+SSC12562,Woollamia
+SSC12563,Woolloomooloo
+SSC12564,Woolomin
+SSC12565,Woolooware
+SSC12566,Wooloweyah
+SSC12567,Woolwich
+SSC12568,Woomargama
+SSC12569,Woombah
+SSC12570,Woongarrah
+SSC12571,Woonona
+SSC12572,Wootton
+SSC12573,Wooyung
+SSC12574,Woronora
+SSC12575,Woronora Heights
+SSC12576,Worrigee
+SSC12577,Worrowing Heights
+SSC12578,Woy Woy
+SSC12579,Woy Woy Bay
+SSC12580,Wyalong
+SSC12581,Wyangala
+SSC12582,Wybung
+SSC12583,Wyee
+SSC12584,Wyee Point
+SSC12585,Wyndham (NSW)
+SSC12586,Wyoming
+SSC12587,Wyong
+SSC12588,Wyong Creek
+SSC12589,Wyongah
+SSC12590,Wyrallah
+SSC12591,Yagoona
+SSC12592,Yamba (NSW)
+SSC12593,Yanco
+SSC12594,Yanderra
+SSC12595,Yarrabar
+SSC12596,Yarrahapinni
+SSC12597,Yarramalong
+SSC12598,Yarramundi
+SSC12599,Yarranbella
+SSC12600,Yarratt Forest
+SSC12601,Yarravel
+SSC12602,Yarrawarrah
+SSC12603,Yarrawonga (NSW)
+SSC12604,Yarrawonga Park
+SSC12605,Yarrie Lake
+SSC12606,Yarrowitch
+SSC12607,Yarrowyck
+SSC12608,Yass
+SSC12609,Yass River
+SSC12610,Yattalunga (NSW)
+SSC12611,Yatte Yattah
+SSC12612,Yellow Rock (Blue Mountains - NSW)
+SSC12613,Yellow Rock (Shellharbour - NSW)
+SSC12614,Yenda (NSW)
+SSC12615,Yennora
+SSC12616,Yeoval
+SSC12617,Yerong Creek
+SSC12618,Yerrinbool
+SSC12619,Yetholme
+SSC12620,Yetman
+SSC12621,Yoogali
+SSC12622,Yorklea
+SSC12623,Young
+SSC12624,Yowie Bay
+SSC12625,Yuraygir
+SSC12626,Zetland
+SSC19191,Unclassified (NSW)
+SSC19494,No Usual Address (NSW)
+SSC19797,Migratory - Offshore - Shipping (NSW)
+SSC20001,Abbotsford (Vic.)
+SSC20002,Aberfeldie
+SSC20003,Acheron
+SSC20004,Aireys Inlet
+SSC20005,Airport West
+SSC20006,Albanvale
+SSC20007,Albert Park (Vic.)
+SSC20008,Alberton (Vic.)
+SSC20009,Albion (Vic.)
+SSC20010,Alexandra (Vic.)
+SSC20011,Alfredton
+SSC20012,Allansford
+SSC20013,Allendale
+SSC20014,Alma (Vic.)
+SSC20015,Alphington
+SSC20016,Altona (Vic.)
+SSC20017,Altona Meadows
+SSC20018,Altona North
+SSC20019,Amphitheatre
+SSC20020,Anakie
+SSC20021,Anglesea
+SSC20022,Apollo Bay (Vic.)
+SSC20023,Apsley (Vic.)
+SSC20024,Ararat
+SSC20025,Arcadia (Vic.)
+SSC20026,Ardeer
+SSC20027,Ardmona
+SSC20028,Armadale (Vic.)
+SSC20029,Arthurs Creek
+SSC20030,Arthurs Seat
+SSC20031,Ascot (Ballarat - Vic.)
+SSC20032,Ascot (Greater Bendigo - Vic.)
+SSC20033,Ascot Vale
+SSC20034,Ashbourne (Vic.)
+SSC20035,Ashburton
+SSC20036,Ashwood
+SSC20037,Aspendale
+SSC20038,Aspendale Gardens
+SSC20039,Athlone
+SSC20040,Attwood
+SSC20041,Avalon (Vic.)
+SSC20042,Avenel
+SSC20043,Avoca (Vic.)
+SSC20044,Avondale Heights
+SSC20045,Avonsleigh
+SSC20046,Axe Creek
+SSC20047,Axedale
+SSC20048,Bacchus Marsh
+SSC20049,Baddaginnie
+SSC20050,Badger Creek
+SSC20051,Bagshot
+SSC20052,Bailieston
+SSC20053,Bairnsdale
+SSC20054,Bakery Hill
+SSC20055,Balaclava (Vic.)
+SSC20056,Ballan
+SSC20057,Ballarat Central
+SSC20058,Ballarat East
+SSC20059,Ballarat North
+SSC20060,Ballendella
+SSC20061,Balliang
+SSC20062,Balmattum
+SSC20063,Balmoral (Vic.)
+SSC20064,Balnarring
+SSC20065,Balnarring Beach
+SSC20066,Balwyn
+SSC20067,Balwyn North
+SSC20068,Bamawm
+SSC20069,Bamawm Extension
+SSC20070,Bandiana
+SSC20071,Bangholme
+SSC20072,Bannockburn (Vic.)
+SSC20073,Baranduda
+SSC20074,Baringhup
+SSC20075,Barjarg
+SSC20076,Barkers Creek
+SSC20077,Barmah
+SSC20078,Barnawartha
+SSC20079,Barnawartha North
+SSC20080,Barongarook
+SSC20081,Barongarook West
+SSC20082,Barrabool
+SSC20083,Barwon Downs
+SSC20084,Barwon Heads
+SSC20085,Bass
+SSC20086,Batesford
+SSC20087,Baw Baw (Vic.)
+SSC20088,Baw Baw Village
+SSC20089,Baxter
+SSC20090,Bayles
+SSC20091,Baynton (Vic.)
+SSC20092,Bayswater (Vic.)
+SSC20093,Bayswater North
+SSC20094,Beaconsfield (Vic.)
+SSC20095,Beaconsfield Upper
+SSC20096,Bealiba
+SSC20097,Bearii
+SSC20098,Beaufort (Vic.)
+SSC20099,Beaumaris (Vic.)
+SSC20100,Beeac
+SSC20101,Beech Forest
+SSC20102,Beechworth
+SSC20103,Belgrave
+SSC20104,Belgrave Heights
+SSC20105,Belgrave South
+SSC20106,Bell Park
+SSC20107,Bell Post Hill
+SSC20108,Bellbrae
+SSC20109,Bellbridge
+SSC20110,Bellfield (Banyule - Vic.)
+SSC20111,Bells Beach
+SSC20112,Belmont (Vic.)
+SSC20113,Bemm River
+SSC20114,Bena
+SSC20115,Benalla
+SSC20116,Benambra
+SSC20117,Bend Of Islands
+SSC20118,Bendigo
+SSC20119,Bendoc
+SSC20120,Bentleigh
+SSC20121,Bentleigh East
+SSC20122,Beremboke
+SSC20123,Berringa
+SSC20124,Berriwillock
+SSC20125,Berwick
+SSC20126,Bessiebelle
+SSC20127,Bet Bet
+SSC20128,Bete Bolong
+SSC20129,Bethanga
+SSC20130,Beulah (Vic.)
+SSC20131,Beverford
+SSC20132,Beveridge
+SSC20133,Big Desert
+SSC20134,Big Hill (Greater Bendigo - Vic.)
+SSC20135,Binginwarri
+SSC20136,Birchip
+SSC20137,Birdwoodton
+SSC20138,Birregurra
+SSC20139,Bittern
+SSC20140,Black Hill (Vic.)
+SSC20141,Black Rock (Vic.)
+SSC20142,Blackburn
+SSC20143,Blackburn North
+SSC20144,Blackburn South
+SSC20145,Blackwood (Vic.)
+SSC20146,Blairgowrie
+SSC20147,Blampied
+SSC20148,Blind Bight
+SSC20149,Boisdale
+SSC20150,Bolwarra (Vic.)
+SSC20151,Bonbeach
+SSC20152,Bonegilla
+SSC20153,Boneo
+SSC20154,Bonnie Doon (Vic.)
+SSC20155,Bonshaw (Vic.)
+SSC20156,Bookaar
+SSC20157,Boolarra
+SSC20158,Boolarra South
+SSC20159,Boole Poole
+SSC20160,Boorcan
+SSC20161,Boorhaman
+SSC20162,Boort
+SSC20163,Boronia
+SSC20164,Bostocks Creek
+SSC20165,Botanic Ridge
+SSC20166,Boundary Bend
+SSC20167,Bowenvale
+SSC20168,Box Hill (Vic.)
+SSC20169,Box Hill North
+SSC20170,Box Hill South
+SSC20171,Braeside
+SSC20172,Branxholme
+SSC20173,Braybrook
+SSC20174,Breakwater
+SSC20175,Breamlea
+SSC20176,Briagolong
+SSC20177,Briar Hill
+SSC20178,Bridgewater (Vic.)
+SSC20179,Bridgewater On Loddon
+SSC20180,Bright (Vic.)
+SSC20181,Brighton (Vic.)
+SSC20182,Brighton East
+SSC20183,Brim
+SSC20184,Brimpaen
+SSC20185,Broadford
+SSC20186,Broadmeadows (Vic.)
+SSC20187,Broadwater (Vic.)
+SSC20188,Brookfield (Vic.)
+SSC20189,Brooklyn (Vic.)
+SSC20190,Broomfield
+SSC20191,Brown Hill (Vic.)
+SSC20192,Brucknell
+SSC20193,Brunswick (Vic.)
+SSC20194,Brunswick East
+SSC20195,Brunswick West
+SSC20196,Bruthen
+SSC20197,Buangor
+SSC20198,Buchan
+SSC20199,Budgeree
+SSC20200,Buffalo
+SSC20201,Buffalo River
+SSC20202,Bulart
+SSC20203,Bulla (Vic.)
+SSC20204,Bulleen
+SSC20205,Bullengarook
+SSC20206,Bullioh
+SSC20207,Buln Buln
+SSC20208,Buln Buln East
+SSC20209,Bunbartha
+SSC20210,Bundalaguah
+SSC20211,Bundalong
+SSC20212,Bundoora (Vic.)
+SSC20213,Bungaree (Vic.)
+SSC20214,Buninyong
+SSC20215,Bunkers Hill
+SSC20216,Bunyip
+SSC20217,Burnley
+SSC20218,Burnside (Vic.)
+SSC20219,Burnside Heights
+SSC20220,Burramine
+SSC20221,Burrumbeet
+SSC20222,Burwood (Vic.)
+SSC20223,Burwood East
+SSC20224,Bushfield
+SSC20225,Buxton (Vic.)
+SSC20226,Byaduk
+SSC20227,Byawatha
+SSC20228,Byrneside
+SSC20229,Cabarita (Vic.)
+SSC20230,Cairnlea
+SSC20231,Calder Park
+SSC20232,Caldermeade
+SSC20233,California Gully
+SSC20234,Calivil
+SSC20235,Callignee
+SSC20236,Calulu
+SSC20237,Camberwell (Vic.)
+SSC20238,Cambrian Hill
+SSC20239,Campbellfield
+SSC20240,Campbells Creek
+SSC20241,Camperdown (Vic.)
+SSC20242,Canadian
+SSC20243,Cann River
+SSC20244,Cannons Creek
+SSC20245,Canterbury (Vic.)
+SSC20246,Cape Bridgewater
+SSC20247,Cape Paterson
+SSC20248,Cape Schanck
+SSC20249,Cape Woolamai
+SSC20250,Caramut
+SSC20251,Carapooee
+SSC20252,Carboor
+SSC20253,Cardigan
+SSC20254,Cardigan Village
+SSC20255,Cardinia
+SSC20256,Cardross
+SSC20257,Carisbrook
+SSC20258,Carlsruhe
+SSC20259,Carlton (Vic.)
+SSC20260,Carlton North
+SSC20261,Carnegie
+SSC20262,Carngham
+SSC20263,Caroline Springs
+SSC20264,Carrajung
+SSC20265,Carrum
+SSC20266,Carrum Downs
+SSC20267,Castella
+SSC20268,Casterton
+SSC20269,Castle Donnington
+SSC20270,Castlemaine
+SSC20271,Catani
+SSC20272,Cathcart (Vic.)
+SSC20273,Caulfield
+SSC20274,Caulfield East
+SSC20275,Caulfield North
+SSC20276,Caulfield South
+SSC20277,Cavendish
+SSC20278,Ceres
+SSC20279,Chadstone
+SSC20280,Charlton (Vic.)
+SSC20281,Chelsea
+SSC20282,Chelsea Heights
+SSC20283,Cheltenham (Vic.)
+SSC20284,Chepstowe
+SSC20285,Cheshunt
+SSC20286,Chewton
+SSC20287,Childers (Vic.)
+SSC20288,Chiltern
+SSC20289,Chirnside Park
+SSC20290,Christmas Hills (Vic.)
+SSC20291,Chum Creek
+SSC20292,Churchill (Vic.)
+SSC20293,Clarendon (Vic.)
+SSC20294,Clarinda
+SSC20295,Clarkefield
+SSC20296,Clayton
+SSC20297,Clayton South
+SSC20298,Clematis
+SSC20299,Clifton Creek
+SSC20300,Clifton Hill
+SSC20301,Clifton Springs
+SSC20302,Clonbinane
+SSC20303,Cloverlea
+SSC20304,Clunes (Vic.)
+SSC20305,Clyde (Vic.)
+SSC20306,Cobains
+SSC20307,Cobden
+SSC20308,Cobram
+SSC20309,Cobram East
+SSC20310,Cobrico
+SSC20311,Coburg
+SSC20312,Coburg North
+SSC20313,Cockatoo (Vic.)
+SSC20314,Cocoroc
+SSC20315,Cohuna
+SSC20316,Coimadai
+SSC20317,Colac
+SSC20318,Colac East
+SSC20319,Colac West
+SSC20320,Colbinabbin
+SSC20321,Coldstream (Vic.)
+SSC20322,Coleraine
+SSC20323,Colignan
+SSC20324,Collingwood (Vic.)
+SSC20325,Concongella
+SSC20326,Condah
+SSC20327,Congupna
+SSC20328,Connewarre
+SSC20329,Coolaroo
+SSC20330,Coongulla
+SSC20331,Cooriemungle
+SSC20332,Cora Lynn
+SSC20333,Coragulac
+SSC20334,Corinella (Vic.)
+SSC20335,Corio
+SSC20336,Coronet Bay
+SSC20337,Corop
+SSC20338,Cororooke
+SSC20339,Corryong
+SSC20340,Cottles Bridge
+SSC20341,Cowes
+SSC20342,Cowwarr
+SSC20343,Craigieburn
+SSC20344,Cranbourne
+SSC20345,Cranbourne East
+SSC20346,Cranbourne North
+SSC20347,Cranbourne South
+SSC20348,Cranbourne West
+SSC20349,Cremorne (Vic.)
+SSC20350,Cressy (Vic.)
+SSC20351,Creswick
+SSC20352,Crib Point
+SSC20353,Crossley
+SSC20354,Croydon (Vic.)
+SSC20355,Croydon Hills
+SSC20356,Croydon North
+SSC20357,Croydon South
+SSC20358,Cudgee
+SSC20359,Cudgewa
+SSC20360,Culgoa
+SSC20361,Curlewis (Vic.)
+SSC20362,Daisy Hill (Vic.)
+SSC20363,Dales Creek
+SSC20364,Dallas
+SSC20365,Dalyston
+SSC20366,Dandenong
+SSC20367,Dandenong North
+SSC20368,Dandenong South
+SSC20369,Dargo
+SSC20370,Darley
+SSC20371,Darnum
+SSC20372,Darraweit Guim
+SSC20373,Dartmoor (Vic.)
+SSC20374,Daylesford
+SSC20375,Dean
+SSC20376,Deans Marsh
+SSC20377,Dederang
+SSC20378,Deep Lead
+SSC20379,Deepdene (Vic.)
+SSC20380,Deer Park
+SSC20381,Delacombe
+SSC20382,Delahey
+SSC20383,Denison
+SSC20384,Dennington
+SSC20385,Dereel
+SSC20386,Derrimut
+SSC20387,Derrinallum
+SSC20388,Devenish
+SSC20389,Devon Meadows
+SSC20390,Devon North
+SSC20391,Dewhurst
+SSC20392,Dhurringile
+SSC20393,Diamond Creek
+SSC20394,Digby
+SSC20395,Diggers Rest
+SSC20396,Diggora
+SSC20397,Dimboola
+SSC20398,Dingee
+SSC20399,Dingley Village
+SSC20400,Dinner Plain
+SSC20401,Dixons Creek
+SSC20402,Docklands
+SSC20403,Don Valley
+SSC20404,Donald
+SSC20405,Doncaster
+SSC20406,Doncaster East
+SSC20407,Donvale
+SSC20408,Dookie
+SSC20409,Doreen
+SSC20410,Douglas (Vic.)
+SSC20411,Doveton
+SSC20412,Dreeite
+SSC20413,Dromana
+SSC20414,Drouin
+SSC20415,Drouin East
+SSC20416,Drouin South
+SSC20417,Drouin West
+SSC20418,Drumborg
+SSC20419,Drumcondra
+SSC20420,Drummond
+SSC20421,Drung
+SSC20422,Drysdale
+SSC20423,Dumbalk
+SSC20424,Dunkeld (Vic.)
+SSC20425,Dunnstown
+SSC20426,Dunolly (Vic.)
+SSC20427,Durham Lead
+SSC20428,Eagle Point
+SSC20429,Eaglehawk
+SSC20430,Eaglemont
+SSC20431,East Bairnsdale
+SSC20432,East Bendigo
+SSC20433,East Geelong
+SSC20434,East Melbourne
+SSC20435,East Sale
+SSC20436,East Wangaratta
+SSC20437,East Warburton
+SSC20438,Eastwood (Vic.)
+SSC20439,Ebden
+SSC20440,Echuca
+SSC20441,Echuca Village
+SSC20442,Echuca West
+SSC20443,Ecklin South
+SSC20444,Eden Park
+SSC20445,Edenhope
+SSC20446,Edithvale
+SSC20447,Eganstown
+SSC20448,Eildon
+SSC20449,Elaine
+SSC20450,Eldorado
+SSC20451,Ellerslie (Vic.)
+SSC20452,Elliminyt
+SSC20453,Ellinbank
+SSC20454,Elmhurst
+SSC20455,Elmore
+SSC20456,Elphinstone (Vic.)
+SSC20457,Elsternwick
+SSC20458,Eltham (Vic.)
+SSC20459,Eltham North
+SSC20460,Elwood
+SSC20461,Emerald (Vic.)
+SSC20462,Emu Creek (Vic.)
+SSC20463,Endeavour Hills
+SSC20464,Enfield (Vic.)
+SSC20465,Eppalock
+SSC20466,Epping (Vic.)
+SSC20467,Epsom (Vic.)
+SSC20468,Erica
+SSC20469,Eskdale (Vic.)
+SSC20470,Essendon
+SSC20471,Essendon Fields
+SSC20472,Essendon North
+SSC20473,Essendon West
+SSC20474,Eumemmerring
+SSC20475,Eureka (Vic.)
+SSC20476,Euroa
+SSC20477,Eurobin
+SSC20478,Everton
+SSC20479,Eynesbury
+SSC20480,Fairfield (Vic.)
+SSC20481,Fairhaven
+SSC20482,Falls Creek (Vic.)
+SSC20483,Faraday
+SSC20484,Fawkner
+SSC20485,Fernbank
+SSC20486,Ferntree Gully
+SSC20487,Ferny Creek
+SSC20488,Fingal (Vic.)
+SSC20489,Fish Creek
+SSC20490,Fitzroy (Vic.)
+SSC20491,Fitzroy North
+SSC20492,Flemington
+SSC20493,Flinders (Vic.)
+SSC20494,Flora Hill
+SSC20495,Flowerdale (Vic.)
+SSC20496,Footscray
+SSC20497,Forest Hill (Vic.)
+SSC20498,Forge Creek
+SSC20499,Forrest (Vic.)
+SSC20500,Foster
+SSC20501,Framlingham
+SSC20502,Frankston
+SSC20503,Frankston North
+SSC20504,Frankston South
+SSC20505,Freeburgh
+SSC20506,French Island
+SSC20507,Freshwater Creek
+SSC20508,Fryerstown
+SSC20509,Fulham (Vic.)
+SSC20510,Fyansford
+SSC20511,Gannawarra
+SSC20512,Gapsted
+SSC20513,Gardenvale
+SSC20514,Garfield (Vic.)
+SSC20515,Garfield North
+SSC20516,Garibaldi
+SSC20517,Garvoc
+SSC20518,Geelong
+SSC20519,Geelong West
+SSC20520,Gellibrand
+SSC20521,Gembrook
+SSC20522,Genoa
+SSC20523,Gentle Annie
+SSC20524,Gerang Gerung
+SSC20525,Gherang
+SSC20526,Gheringhap
+SSC20527,Girgarre
+SSC20528,Gisborne
+SSC20529,Gisborne South
+SSC20530,Gladstone Park
+SSC20531,Gladysdale
+SSC20532,Glen Alvie
+SSC20533,Glen Huntly
+SSC20534,Glen Iris (Vic.)
+SSC20535,Glen Waverley
+SSC20536,Glenalbyn
+SSC20537,Glenburn
+SSC20538,Glenfyne
+SSC20539,Glengarry (Vic.)
+SSC20540,Glengarry North
+SSC20541,Glenisla
+SSC20542,Glenlyon (Vic.)
+SSC20543,Glenmaggie
+SSC20544,Glenorchy (Vic.)
+SSC20545,Glenormiston South
+SSC20546,Glenrowan
+SSC20547,Glenroy (Vic.)
+SSC20548,Glenthompson
+SSC20549,Gnarwarre
+SSC20550,Golden Beach (Vic.)
+SSC20551,Golden Gully
+SSC20552,Golden Point (Ballarat - Vic.)
+SSC20553,Golden Square
+SSC20554,Goldie
+SSC20555,Goon Nure
+SSC20556,Goorambat
+SSC20557,Goornong
+SSC20558,Gorae West
+SSC20559,Gordon (Vic.)
+SSC20560,Gormandale
+SSC20561,Goroke
+SSC20562,Goughs Bay
+SSC20563,Gowanbrae
+SSC20564,Grahamvale
+SSC20565,Granite Rock
+SSC20566,Grantville
+SSC20567,Grassdale (Vic.)
+SSC20568,Grassmere
+SSC20569,Great Western
+SSC20570,Greendale (Vic.)
+SSC20571,Greensborough
+SSC20572,Greenvale (Vic.)
+SSC20573,Greta South
+SSC20574,Greta West
+SSC20575,Grovedale
+SSC20576,Gruyere
+SSC20577,Guildford (Vic.)
+SSC20578,Gunbower
+SSC20579,Gundowring
+SSC20580,Guys Hill
+SSC20581,Haddon
+SSC20582,Hadfield
+SSC20583,Hallam
+SSC20584,Hallora
+SSC20585,Halls Gap
+SSC20586,Hallston
+SSC20587,Hamilton (Vic.)
+SSC20588,Hamlyn Heights
+SSC20589,Hampton (Vic.)
+SSC20590,Hampton East
+SSC20591,Hampton Park
+SSC20592,Harcourt
+SSC20593,Harcourt North
+SSC20594,Harkaway
+SSC20595,Harmers Haven
+SSC20596,Harrietville
+SSC20597,Harrow
+SSC20598,Harston
+SSC20599,Hastings (Vic.)
+SSC20600,Hattah
+SSC20601,Haven
+SSC20602,Hawkesdale
+SSC20603,Hawthorn (Vic.)
+SSC20604,Hawthorn East
+SSC20605,Hazeldene
+SSC20606,Hazelwood
+SSC20607,Hazelwood North
+SSC20608,Hazelwood South
+SSC20609,Healesville
+SSC20610,Heath Hill
+SSC20611,Heathcote (Vic.)
+SSC20612,Heathcote Junction
+SSC20613,Heatherton
+SSC20614,Heathmere
+SSC20615,Heathmont
+SSC20616,Heidelberg
+SSC20617,Heidelberg Heights
+SSC20618,Heidelberg West
+SSC20619,Hepburn
+SSC20620,Hepburn Springs
+SSC20621,Herne Hill (Vic.)
+SSC20622,Hernes Oak
+SSC20623,Hesket
+SSC20624,Hexham (Vic.)
+SSC20625,Heyfield
+SSC20626,Heywood
+SSC20627,Highett
+SSC20628,Highlands
+SSC20629,Highton
+SSC20630,Hill End (Vic.)
+SSC20631,Hilldene
+SSC20632,Hillside (Melton - Vic.)
+SSC20633,Hmas Cerberus
+SSC20634,Hoddles Creek
+SSC20635,Hopetoun (Vic.)
+SSC20636,Hopetoun Park
+SSC20637,Hoppers Crossing
+SSC20638,Horsham
+SSC20639,Hotham Heights
+SSC20640,Howqua Hills
+SSC20641,Howqua Inlet
+SSC20642,Hughesdale
+SSC20643,Humevale
+SSC20644,Hunter
+SSC20645,Huntingdale (Vic.)
+SSC20646,Huntly
+SSC20647,Huon
+SSC20648,Huon Creek
+SSC20649,Hurstbridge
+SSC20650,Illowa
+SSC20651,Indented Head
+SSC20652,Indigo Valley
+SSC20653,Inglewood (Vic.)
+SSC20654,Invergordon (Vic.)
+SSC20655,Inverleigh
+SSC20656,Inverloch
+SSC20657,Invermay (Vic.)
+SSC20658,Invermay Park
+SSC20659,Iona
+SSC20660,Ironbark (Vic.)
+SSC20661,Irrewarra
+SSC20662,Irymple (Vic.)
+SSC20663,Ivanhoe (Vic.)
+SSC20664,Ivanhoe East
+SSC20665,Jacana
+SSC20666,Jack River
+SSC20667,Jackass Flat
+SSC20668,Jamieson (Vic.)
+SSC20669,Jan Juc
+SSC20670,Jancourt East
+SSC20671,Jeeralang Junction
+SSC20672,Jeparit
+SSC20673,Jindivick
+SSC20674,Johanna
+SSC20675,Johnsonville
+SSC20676,Junction Village
+SSC20677,Jung
+SSC20678,Junortoun
+SSC20679,Kaarimba
+SSC20680,Kalimna
+SSC20681,Kallista
+SSC20682,Kalorama
+SSC20683,Kangaroo Flat (Vic.)
+SSC20684,Kangaroo Ground
+SSC20685,Kaniva
+SSC20686,Kanyapella
+SSC20687,Kardella
+SSC20688,Katamatite
+SSC20689,Katandra West
+SSC20690,Katunga
+SSC20691,Kealba
+SSC20692,Keely
+SSC20693,Keilor
+SSC20694,Keilor Downs
+SSC20695,Keilor East
+SSC20696,Keilor Lodge
+SSC20697,Keilor North
+SSC20698,Keilor Park
+SSC20699,Kennington
+SSC20700,Kensington (Vic.)
+SSC20701,Kerang
+SSC20702,Kergunyah
+SSC20703,Kew (Vic.)
+SSC20704,Kew East
+SSC20705,Keysborough
+SSC20706,Kialla
+SSC20707,Kialla East
+SSC20708,Kialla West
+SSC20709,Kiewa
+SSC20710,Kilcunda
+SSC20711,Kilmore
+SSC20712,Kilmore East
+SSC20713,Kilsyth
+SSC20714,Kilsyth South
+SSC20715,King Valley
+SSC20716,Kinglake
+SSC20717,Kinglake Central
+SSC20718,Kinglake West
+SSC20719,Kings Park (Vic.)
+SSC20720,Kingsbury
+SSC20721,Kingston (Vic.)
+SSC20722,Kingsville
+SSC20723,Kirkstall
+SSC20724,Kirwans Bridge
+SSC20725,Knowsley
+SSC20726,Knoxfield
+SSC20727,Kolora
+SSC20728,Konongwootong
+SSC20729,Koo Wee Rup
+SSC20730,Koondrook
+SSC20731,Koonoomoo
+SSC20732,Koonwarra
+SSC20733,Koorlong
+SSC20734,Kooyong
+SSC20735,Korobeit
+SSC20736,Koroit
+SSC20737,Korong Vale
+SSC20738,Korumburra
+SSC20739,Korweinguboora
+SSC20740,Kotupna
+SSC20741,Koyuga
+SSC20742,Krowera
+SSC20743,Kurunjang
+SSC20744,Kyabram
+SSC20745,Kyneton
+SSC20746,Kyvalley
+SSC20747,Laang
+SSC20748,Labertouche
+SSC20749,Laceby
+SSC20750,Laharum
+SSC20751,Lake Boga
+SSC20752,Lake Bolac
+SSC20753,Lake Bunga
+SSC20754,Lake Charm
+SSC20755,Lake Gardens
+SSC20756,Lake Tyers Beach
+SSC20757,Lake Wellington
+SSC20758,Lake Wendouree
+SSC20759,Lakes Entrance
+SSC20760,Lal Lal
+SSC20761,Lalbert
+SSC20762,Lalor
+SSC20763,Lancaster
+SSC20764,Lance Creek
+SSC20765,Lancefield
+SSC20766,Landsborough (Vic.)
+SSC20767,Lang Lang
+SSC20768,Langkoop
+SSC20769,Langwarrin
+SSC20770,Langwarrin South
+SSC20771,Lara
+SSC20772,Larpent
+SSC20773,Larralea
+SSC20774,Launching Place
+SSC20775,Lauriston
+SSC20776,Laverton (Vic.)
+SSC20777,Laverton North
+SSC20778,Learmonth (Vic.)
+SSC20779,Leichardt
+SSC20780,Leitchville
+SSC20781,Lemnos
+SSC20782,Leneva
+SSC20783,Leongatha
+SSC20784,Leongatha North
+SSC20785,Leongatha South
+SSC20786,Leopold
+SSC20787,Lethbridge
+SSC20788,Lexton
+SSC20789,Licola
+SSC20790,Lilydale (Vic.)
+SSC20791,Lindenow
+SSC20792,Lindenow South
+SSC20793,Linton
+SSC20794,Lismore (Vic.)
+SSC20795,Little Desert
+SSC20796,Little River (Vic.)
+SSC20797,Loch
+SSC20798,Loch Sport
+SSC20799,Lockington
+SSC20800,Lockwood
+SSC20801,Lockwood South
+SSC20802,Long Forest
+SSC20803,Long Gully
+SSC20804,Longford (Vic.)
+SSC20805,Longlea
+SSC20806,Longwarry
+SSC20807,Longwood (Vic.)
+SSC20808,Lorne (Vic.)
+SSC20809,Lovely Banks
+SSC20810,Lower Plenty
+SSC20811,Lucknow (Vic.)
+SSC20812,Lurg
+SSC20813,Lyal
+SSC20814,Lynbrook
+SSC20815,Lyndhurst (Vic.)
+SSC20816,Lyonville
+SSC20817,Lysterfield
+SSC20818,Lysterfield South
+SSC20819,Macarthur (Vic.)
+SSC20820,Macclesfield (Vic.)
+SSC20821,Macedon
+SSC20822,Macleod (Vic.)
+SSC20823,Maddingley
+SSC20824,Maffra (Vic.)
+SSC20825,Magpie
+SSC20826,Maiden Gully
+SSC20827,Maidstone
+SSC20828,Mailors Flat
+SSC20829,Main Ridge
+SSC20830,Majorca
+SSC20831,Maldon (Vic.)
+SSC20832,Mallacoota
+SSC20833,Malmsbury
+SSC20834,Malvern (Vic.)
+SSC20835,Malvern East
+SSC20836,Manangatang
+SSC20837,Mandurang
+SSC20838,Mandurang South
+SSC20839,Mangalore (Vic.)
+SSC20840,Manifold Heights
+SSC20841,Mannerim
+SSC20842,Mannibadar
+SSC20843,Manns Beach
+SSC20844,Mansfield (Vic.)
+SSC20845,Marcus Hill
+SSC20846,Marengo (Vic.)
+SSC20847,Maribyrnong
+SSC20848,Markwood
+SSC20849,Marlo
+SSC20850,Marnoo
+SSC20851,Marong
+SSC20852,Marshall
+SSC20853,Maryborough (Vic.)
+SSC20854,Maryknoll
+SSC20855,Marysville
+SSC20856,Maude (Vic.)
+SSC20857,McCrae
+SSC20858,McKenzie Creek
+SSC20859,McKenzie Hill
+SSC20860,McKinnon
+SSC20861,McMahons Creek
+SSC20862,McMillans
+SSC20863,Mead
+SSC20864,Meadow Heights
+SSC20865,Meeniyan
+SSC20866,Meerlieu
+SSC20867,Melbourne
+SSC20868,Melbourne Airport
+SSC20869,Melton (Vic.)
+SSC20870,Melton South
+SSC20871,Melton West
+SSC20872,Mentone
+SSC20873,Menzies Creek
+SSC20874,Mepunga East
+SSC20875,Merbein
+SSC20876,Merbein South
+SSC20877,Meredith
+SSC20878,Meringur
+SSC20879,Merino
+SSC20880,Mernda
+SSC20881,Merricks North
+SSC20882,Merrigum
+SSC20883,Merrijig (Mansfield - Vic.)
+SSC20884,Merrimu
+SSC20885,Merton
+SSC20886,Metcalfe
+SSC20887,Metung
+SSC20888,Mia Mia (Vic.)
+SSC20889,Mickleham
+SSC20890,Middle Park (Vic.)
+SSC20891,Miepoll
+SSC20892,Milawa
+SSC20893,Mildura
+SSC20894,Mill Park
+SSC20895,Millbrook (Vic.)
+SSC20896,Millgrove
+SSC20897,Miners Rest
+SSC20898,Minimay
+SSC20899,Minyip
+SSC20900,Mirboo
+SSC20901,Mirboo North
+SSC20902,Mitcham (Vic.)
+SSC20903,Mitchell Park (Vic.)
+SSC20904,Mitta Mitta
+SSC20905,Modewarre
+SSC20906,Moe
+SSC20907,Moe South
+SSC20908,Monbulk
+SSC20909,Monegeetta
+SSC20910,Mont Albert
+SSC20911,Mont Albert North
+SSC20912,Montmorency
+SSC20913,Montrose (Vic.)
+SSC20914,Moolap
+SSC20915,Moonambel
+SSC20916,Moonee Ponds
+SSC20917,Moorabbin
+SSC20918,Moorabbin Airport
+SSC20919,Moorabool
+SSC20920,Moorooduc
+SSC20921,Mooroolbark
+SSC20922,Mooroopna
+SSC20923,Mooroopna North
+SSC20924,Mordialloc
+SSC20925,Moriac
+SSC20926,Mornington (Vic.)
+SSC20927,Morrisons
+SSC20928,Mortlake (Vic.)
+SSC20929,Morwell
+SSC20930,Mossiface
+SSC20931,Mount Beauty
+SSC20932,Mount Buller
+SSC20933,Mount Camel
+SSC20934,Mount Clear
+SSC20935,Mount Cottrell
+SSC20936,Mount Dandenong
+SSC20937,Mount Duneed
+SSC20938,Mount Egerton
+SSC20939,Mount Eliza
+SSC20940,Mount Evelyn
+SSC20941,Mount Franklin
+SSC20942,Mount Helen
+SSC20943,Mount Macedon
+SSC20944,Mount Martha
+SSC20945,Mount Moriac
+SSC20946,Mount Pleasant (Vic.)
+SSC20947,Mount Rowan
+SSC20948,Mount Taylor
+SSC20949,Mount Waverley
+SSC20950,Moutajup
+SSC20951,Moyhu
+SSC20952,Moyston
+SSC20953,Muckleford
+SSC20954,Mudgegonga
+SSC20955,Mulgrave (Vic.)
+SSC20956,Munro
+SSC20957,Murchison (Vic.)
+SSC20958,Murchison East
+SSC20959,Murgheboluc
+SSC20960,Murrabit
+SSC20961,Murray-Sunset
+SSC20962,Murrayville
+SSC20963,Murrindindi
+SSC20964,Murrumbeena
+SSC20965,Murtoa
+SSC20966,Musk
+SSC20967,Myers Flat
+SSC20968,Myrniong
+SSC20969,Myrtleford
+SSC20970,Mystic Park
+SSC20971,Nagambie
+SSC20972,Nambrok
+SSC20973,Nandaly
+SSC20974,Nangiloc
+SSC20975,Nanneella
+SSC20976,Napoleons
+SSC20977,Nar Nar Goon
+SSC20978,Nar Nar Goon North
+SSC20979,Narbethong (Vic.)
+SSC20980,Nareen
+SSC20981,Nariel Valley
+SSC20982,Naringal
+SSC20983,Narracan
+SSC20984,Narrawong
+SSC20985,Narre Warren
+SSC20986,Narre Warren East
+SSC20987,Narre Warren North
+SSC20988,Narre Warren South
+SSC20989,Nathalia
+SSC20990,Natimuk
+SSC20991,Navarre
+SSC20992,Navigators
+SSC20993,Neerim
+SSC20994,Neerim East
+SSC20995,Neerim South
+SSC20996,Neilborough
+SSC20997,Nelson (Vic.)
+SSC20998,Nerrena
+SSC20999,Nerrina
+SSC21000,Netherby (Vic.)
+SSC21001,New Gisborne
+SSC21002,Newborough
+SSC21003,Newbridge (Vic.)
+SSC21004,Newcomb
+SSC21005,Newham
+SSC21006,Newhaven
+SSC21007,Newington (Vic.)
+SSC21008,Newlands Arm
+SSC21009,Newlyn North
+SSC21010,Newmerella
+SSC21011,Newport (Vic.)
+SSC21012,Newry
+SSC21013,Newstead (Vic.)
+SSC21014,Newtown (Greater Geelong - Vic.)
+SSC21015,Nhill
+SSC21016,Nichols Point
+SSC21017,Nicholson (Vic.)
+SSC21018,Niddrie
+SSC21019,Nilma
+SSC21020,Nilma North
+SSC21021,Nirranda
+SSC21022,Noble Park
+SSC21023,Noble Park North
+SSC21024,Noojee
+SSC21025,Noorat
+SSC21026,Norlane
+SSC21027,Norong
+SSC21028,North Bendigo
+SSC21029,North Geelong
+SSC21030,North Melbourne
+SSC21031,North Shore (Vic.)
+SSC21032,North Wangaratta
+SSC21033,North Warrandyte
+SSC21034,North Wonthaggi
+SSC21035,Northcote
+SSC21036,Notting Hill
+SSC21037,Nowa Nowa
+SSC21038,Nullawarre
+SSC21039,Numurkah
+SSC21040,Nunawading
+SSC21041,Nungurner
+SSC21042,Nutfield
+SSC21043,Nyah
+SSC21044,Nyah West
+SSC21045,Nyora (Vic.)
+SSC21046,Oak Park
+SSC21047,Oaklands Junction
+SSC21048,Oakleigh
+SSC21049,Oakleigh East
+SSC21050,Oakleigh South
+SSC21051,Ocean Grange
+SSC21052,Ocean Grove
+SSC21053,Officer
+SSC21054,Olinda (Vic.)
+SSC21055,Omeo
+SSC21056,Orbost
+SSC21057,Ormond
+SSC21058,Orrvale
+SSC21059,Osbornes Flat
+SSC21060,Outtrim
+SSC21061,Ouyen
+SSC21062,Oxley (Vic.)
+SSC21063,Pakenham
+SSC21064,Pakenham South
+SSC21065,Pakenham Upper
+SSC21066,Panmure
+SSC21067,Panton Hill
+SSC21068,Paraparap
+SSC21069,Park Orchards
+SSC21070,Parkdale
+SSC21071,Parkville (Vic.)
+SSC21072,Parwan
+SSC21073,Pascoe Vale
+SSC21074,Pascoe Vale South
+SSC21075,Patchewollock
+SSC21076,Patterson Lakes
+SSC21077,Paynesville (Vic.)
+SSC21078,Pearcedale
+SSC21079,Peechelba
+SSC21080,Penshurst (Vic.)
+SSC21081,Pental Island
+SSC21082,Peterborough (Vic.)
+SSC21083,Pheasant Creek (Vic.)
+SSC21084,Piangil
+SSC21085,Picola
+SSC21086,Pimpinio
+SSC21087,Pine Grove (Vic.)
+SSC21088,Pine Lodge (Vic.)
+SSC21089,Pioneer Bay
+SSC21090,Pirron Yallock
+SSC21091,Plenty (Vic.)
+SSC21092,Plumpton (Vic.)
+SSC21093,Point Cook
+SSC21094,Point Leo
+SSC21095,Point Lonsdale
+SSC21096,Pomborneit
+SSC21097,Pomonal
+SSC21098,Poowong
+SSC21099,Poowong North
+SSC21100,Porepunkah
+SSC21101,Port Albert
+SSC21102,Port Campbell
+SSC21103,Port Fairy
+SSC21104,Port Melbourne
+SSC21105,Port Welshpool
+SSC21106,Portarlington
+SSC21107,Portland (Vic.)
+SSC21108,Portland North
+SSC21109,Portland West
+SSC21110,Portsea
+SSC21111,Powelltown
+SSC21112,Prahran
+SSC21113,Preston (Vic.)
+SSC21114,Princes Hill
+SSC21115,Princetown
+SSC21116,Puckapunyal
+SSC21117,Purnim
+SSC21118,Pyalong
+SSC21119,Pyramid Hill
+SSC21120,Quambatook
+SSC21121,Quantong
+SSC21122,Quarry Hill
+SSC21123,Queenscliff (Vic.)
+SSC21124,Raglan (Vic.)
+SSC21125,Rainbow
+SSC21126,Ravenhall
+SSC21127,Ravenswood (Vic.)
+SSC21128,Rawson
+SSC21129,Raymond Island
+SSC21130,Raywood
+SSC21131,Red Cliffs
+SSC21132,Red Hill (Vic.)
+SSC21133,Red Hill South
+SSC21134,Redan
+SSC21135,Redesdale
+SSC21136,Reedy Creek (Vic.)
+SSC21137,Reedy Flat
+SSC21138,Research
+SSC21139,Reservoir (Vic.)
+SSC21140,Rheola
+SSC21141,Rhyll
+SSC21142,Richmond (Vic.)
+SSC21143,Riddells Creek
+SSC21144,Ringwood (Vic.)
+SSC21145,Ringwood East
+SSC21146,Ringwood North
+SSC21147,Ripplebrook
+SSC21148,Rippleside
+SSC21149,Ripponlea
+SSC21150,Riverside (Vic.)
+SSC21151,Robertsons Beach
+SSC21152,Robinvale
+SSC21153,Robinvale Irrigation District Section B
+SSC21154,Robinvale Irrigation District Section C
+SSC21155,Robinvale Irrigation District Section E
+SSC21156,Rochester (Vic.)
+SSC21157,Rockbank
+SSC21158,Rokeby (Vic.)
+SSC21159,Rokewood
+SSC21160,Romsey
+SSC21161,Rosanna
+SSC21162,Rosebrook (Vic.)
+SSC21163,Rosebud
+SSC21164,Rosebud West
+SSC21165,Rosedale (Vic.)
+SSC21166,Rosewhite
+SSC21167,Ross Creek (Vic.)
+SSC21168,Rowsley
+SSC21169,Rowville
+SSC21170,Roxburgh Park
+SSC21171,Ruffy
+SSC21172,Rupanyup
+SSC21173,Rushworth
+SSC21174,Russells Bridge
+SSC21175,Rutherglen
+SSC21176,Rye
+SSC21177,Safety Beach (Vic.)
+SSC21178,Sailors Gully
+SSC21179,Sale
+SSC21180,San Remo (Vic.)
+SSC21181,Sandford (Vic.)
+SSC21182,Sandhurst
+SSC21183,Sandon (Vic.)
+SSC21184,Sandringham (Vic.)
+SSC21185,Sandy Point (Vic.)
+SSC21186,Sarsfield
+SSC21187,Sassafras (Vic.)
+SSC21188,Scarsdale
+SSC21189,Scoresby
+SSC21190,Scotts Creek (Vic.)
+SSC21191,Sea Lake
+SSC21192,Seabrook
+SSC21193,Seaford (Vic.)
+SSC21194,Seaholme
+SSC21195,Seaspray
+SSC21196,Seaton (Vic.)
+SSC21197,Sebastian
+SSC21198,Sebastopol (Vic.)
+SSC21199,Seddon (Vic.)
+SSC21200,Sedgwick
+SSC21201,Selby
+SSC21202,Serpentine (Vic.)
+SSC21203,Serviceton
+SSC21204,Seville
+SSC21205,Seville East
+SSC21206,Seymour (Vic.)
+SSC21207,Shady Creek
+SSC21208,She Oaks
+SSC21209,Shelbourne
+SSC21210,Shelford
+SSC21211,Shepparton
+SSC21212,Shepparton East
+SSC21213,Shepparton North
+SSC21214,Sherbrooke
+SSC21215,Shoreham
+SSC21216,Silvan
+SSC21217,Silverleaves
+SSC21218,Simpson (Vic.)
+SSC21219,Skenes Creek
+SSC21220,Skipton
+SSC21221,Skye (Vic.)
+SSC21222,Smeaton
+SSC21223,Smiths Beach
+SSC21224,Smiths Gully
+SSC21225,Smythes Creek
+SSC21226,Smythesdale
+SSC21227,Snake Valley
+SSC21228,Soldiers Hill (Vic.)
+SSC21229,Somers
+SSC21230,Somerton (Vic.)
+SSC21231,Somerville (Vic.)
+SSC21232,Sorrento (Vic.)
+SSC21233,South Dudley
+SSC21234,South Geelong
+SSC21235,South Kingsville
+SSC21236,South Melbourne
+SSC21237,South Morang
+SSC21238,South Purrumbete
+SSC21239,South Wharf
+SSC21240,South Yarra
+SSC21241,Southbank
+SSC21242,Spotswood
+SSC21243,Spring Gully (Vic.)
+SSC21244,Springbank
+SSC21245,Springhurst
+SSC21246,Springvale (Vic.)
+SSC21247,Springvale South
+SSC21248,St Albans (Vic.)
+SSC21249,St Albans Park
+SSC21250,St Andrews (Vic.)
+SSC21251,St Andrews Beach
+SSC21252,St Arnaud
+SSC21253,St Helena
+SSC21254,St James (Vic.)
+SSC21255,St Kilda (Vic.)
+SSC21256,St Kilda East
+SSC21257,St Kilda West
+SSC21258,St Leonards (Vic.)
+SSC21259,Staghorn Flat
+SSC21260,Stanhope (Vic.)
+SSC21261,Stanley (Vic.)
+SSC21262,Stawell
+SSC21263,Steels Creek
+SSC21264,Stony Creek (South Gippsland - Vic.)
+SSC21265,Stradbroke
+SSC21266,Stratford (Vic.)
+SSC21267,Strath Creek
+SSC21268,Strathbogie
+SSC21269,Strathdale
+SSC21270,Strathdownie
+SSC21271,Strathewen
+SSC21272,Strathfieldsaye
+SSC21273,Strathmerton
+SSC21274,Strathmore (Vic.)
+SSC21275,Strathmore Heights
+SSC21276,Streatham
+SSC21277,Strzelecki (Vic.)
+SSC21278,Sugarloaf Creek
+SSC21279,Sulky
+SSC21280,Sunbury
+SSC21281,Sunset Strip (Vic.)
+SSC21282,Sunshine (Vic.)
+SSC21283,Sunshine North
+SSC21284,Sunshine West
+SSC21285,Surf Beach (Vic.)
+SSC21286,Surrey Hills
+SSC21287,Swan Hill
+SSC21288,Swan Marsh
+SSC21289,Swan Reach (Vic.)
+SSC21290,Swanpool
+SSC21291,Swifts Creek
+SSC21292,Sydenham (Vic.)
+SSC21293,Taggerty
+SSC21294,Talbot (Vic.)
+SSC21295,Talgarno
+SSC21296,Tallangatta
+SSC21297,Tallangatta South
+SSC21298,Tallangatta Valley
+SSC21299,Tallarook
+SSC21300,Tallygaroopna
+SSC21301,Tambo Upper
+SSC21302,Taminick
+SSC21303,Tangambalanga
+SSC21304,Tanjil Bren
+SSC21305,Tanjil South
+SSC21306,Taradale (Vic.)
+SSC21307,Tarnagulla
+SSC21308,Tarneit
+SSC21309,Tarrawingee
+SSC21310,Tarrington
+SSC21311,Tarwin Lower
+SSC21312,Tatong
+SSC21313,Tatura
+SSC21314,Tatura East
+SSC21315,Tatyoon
+SSC21316,Tawonga
+SSC21317,Tawonga South
+SSC21318,Taylor Bay
+SSC21319,Taylors Hill
+SSC21320,Taylors Lakes
+SSC21321,Tecoma
+SSC21322,Teesdale (Vic.)
+SSC21323,Telopea Downs
+SSC21324,Templestowe
+SSC21325,Templestowe Lower
+SSC21326,Tenby Point
+SSC21327,Terang
+SSC21328,The Basin (Vic.)
+SSC21329,The Gurdies
+SSC21330,The Patch
+SSC21331,Thomastown
+SSC21332,Thomson (Greater Geelong - Vic.)
+SSC21333,Thornbury
+SSC21334,Thornton (Vic.)
+SSC21335,Thorpdale
+SSC21336,Three Bridges
+SSC21337,Timboon
+SSC21338,Tinamba
+SSC21339,Tol Tol
+SSC21340,Tolmie
+SSC21341,Tom Groggin
+SSC21342,Tongala
+SSC21343,Tonimbuk
+SSC21344,Tooborac
+SSC21345,Toolamba
+SSC21346,Toolangi
+SSC21347,Toolern Vale
+SSC21348,Toolleen
+SSC21349,Toolondo
+SSC21350,Toongabbie (Vic.)
+SSC21351,Toora (Vic.)
+SSC21352,Toora North
+SSC21353,Tooradin
+SSC21354,Toorak
+SSC21355,Toorloo Arm
+SSC21356,Tootgarook
+SSC21357,Torquay (Vic.)
+SSC21358,Torrumbarry
+SSC21359,Tottenham (Vic.)
+SSC21360,Trafalgar (Vic.)
+SSC21361,Trafalgar East
+SSC21362,Trafalgar South
+SSC21363,Tragowel
+SSC21364,Traralgon
+SSC21365,Traralgon East
+SSC21366,Traralgon South
+SSC21367,Travancore
+SSC21368,Trawalla
+SSC21369,Tremont
+SSC21370,Trentham
+SSC21371,Tresco
+SSC21372,Truganina
+SSC21373,Tuerong
+SSC21374,Tullamarine
+SSC21375,Tungamah
+SSC21376,Tyabb
+SSC21377,Tyers
+SSC21378,Tylden
+SSC21379,Tynong
+SSC21380,Tynong North
+SSC21381,Tyntynder
+SSC21382,Tyntynder South
+SSC21383,Tyrendarra
+SSC21384,Ultima
+SSC21385,Undera
+SSC21386,Underbool
+SSC21387,Upper Ferntree Gully
+SSC21388,Upper Gundowring
+SSC21389,Upper Plenty
+SSC21390,Upwey
+SSC21391,Vectis
+SSC21392,Ventnor (Vic.)
+SSC21393,Venus Bay (Vic.)
+SSC21394,Vermont
+SSC21395,Vermont South
+SSC21396,Viewbank
+SSC21397,Vinifera
+SSC21398,Violet Town
+SSC21399,Waaia
+SSC21400,Wahgunyah
+SSC21401,Wahring
+SSC21402,Waldara
+SSC21403,Walkerville (Vic.)
+SSC21404,Wallan
+SSC21405,Wallington
+SSC21406,Walmer (Vic.)
+SSC21407,Walpa
+SSC21408,Walpeup
+SSC21409,Walwa
+SSC21410,Wandana Heights
+SSC21411,Wandiligong
+SSC21412,Wandin East
+SSC21413,Wandin North
+SSC21414,Wando Vale
+SSC21415,Wandong
+SSC21416,Wangandary
+SSC21417,Wangaratta (Vic.)
+SSC21418,Wangaratta South
+SSC21419,Wantirna
+SSC21420,Wantirna South
+SSC21421,Waranga Shores
+SSC21422,Warburton (Vic.)
+SSC21423,Warncoort
+SSC21424,Warneet
+SSC21425,Warracknabeal
+SSC21426,Warragul
+SSC21427,Warragul South
+SSC21428,Warrandyte
+SSC21429,Warrandyte South
+SSC21430,Warranwood
+SSC21431,Warrenbayne
+SSC21432,Warrenheip
+SSC21433,Warrion
+SSC21434,Warrnambool
+SSC21435,Warrong
+SSC21436,Wartook
+SSC21437,Watchem
+SSC21438,Waterford Park
+SSC21439,Waterways
+SSC21440,Watsonia
+SSC21441,Watsonia North
+SSC21442,Wattle Bank
+SSC21443,Wattle Glen
+SSC21444,Waubra
+SSC21445,Waurn Ponds
+SSC21446,Wedderburn (Vic.)
+SSC21447,Wellsford
+SSC21448,Welshmans Reef
+SSC21449,Welshpool (Vic.)
+SSC21450,Wemen
+SSC21451,Wendouree
+SSC21452,Werribee
+SSC21453,Werribee South
+SSC21454,Werrimull
+SSC21455,Wesburn
+SSC21456,West Bendigo
+SSC21457,West Footscray
+SSC21458,West Melbourne
+SSC21459,West Wodonga
+SSC21460,Westmeadows
+SSC21461,Wharparilla
+SSC21462,Wheatsheaf
+SSC21463,Wheelers Hill
+SSC21464,White Hills (Vic.)
+SSC21465,Whiteheads Creek
+SSC21466,Whitfield (Vic.)
+SSC21467,Whittington
+SSC21468,Whittlesea
+SSC21469,Whorouly
+SSC21470,Wilby
+SSC21471,Wildwood
+SSC21472,Willaura
+SSC21473,Williams Landing
+SSC21474,Williamstown (Vic.)
+SSC21475,Williamstown North
+SSC21476,Willow Grove
+SSC21477,Willowmavin
+SSC21478,Willung South
+SSC21479,Wilsons Promontory
+SSC21480,Wimbledon Heights
+SSC21481,Winchelsea
+SSC21482,Winchelsea South
+SSC21483,Windermere (Vic.)
+SSC21484,Windsor (Vic.)
+SSC21485,Winslow
+SSC21486,Winton (Vic.)
+SSC21487,Wodonga
+SSC21488,Wollert
+SSC21489,Won Wron
+SSC21490,Wonga Park
+SSC21491,Wonthaggi
+SSC21492,Wood Wood
+SSC21493,Woodend (Vic.)
+SSC21494,Woodend North
+SSC21495,Woodford (Vic.)
+SSC21496,Woodside (Vic.)
+SSC21497,Woodstock (Vic.)
+SSC21498,Woodvale (Vic.)
+SSC21499,Woolamai
+SSC21500,Woolsthorpe
+SSC21501,Woomelang
+SSC21502,Wooragee
+SSC21503,Woorarra West
+SSC21504,Woori Yallock
+SSC21505,Woorinen
+SSC21506,Woorinen South
+SSC21507,Woorndoo
+SSC21508,Wunghnu
+SSC21509,Wurruk
+SSC21510,Wy Yung
+SSC21511,Wycheproof
+SSC21512,Wye River
+SSC21513,Wyndham Vale
+SSC21514,Wyuna (Vic.)
+SSC21515,Yabba North
+SSC21516,Yackandandah
+SSC21517,Yalca
+SSC21518,Yallambie
+SSC21519,Yallourn
+SSC21520,Yallourn North
+SSC21521,Yambuk
+SSC21522,Yan Yean
+SSC21523,Yanakie
+SSC21524,Yandoit
+SSC21525,Yannathan
+SSC21526,Yapeen
+SSC21527,Yarck
+SSC21528,Yarra Glen
+SSC21529,Yarra Junction
+SSC21530,Yarragon
+SSC21531,Yarragon South
+SSC21532,Yarram
+SSC21533,Yarrambat
+SSC21534,Yarraville
+SSC21535,Yarrawonga (Vic.)
+SSC21536,Yarroweyah
+SSC21537,Yea
+SSC21538,Yellingbo
+SSC21539,Yelta (Vic.)
+SSC21540,Yendon
+SSC21541,Yinnar
+SSC21542,Yinnar South
+SSC21543,Yulecart
+SSC21544,Yuroke
+SSC29191,Unclassified (Vic.)
+SSC29494,No Usual Address (Vic.)
+SSC29797,Migratory - Offshore - Shipping (Vic.)
+SSC30001,Abergowrie
+SSC30002,Acacia Ridge
+SSC30003,Acland
+SSC30004,Adare
+SSC30005,Adelaide Park
+SSC30006,Advancetown
+SSC30007,Aeroglen
+SSC30008,Agnes Water
+SSC30009,Airlie Beach
+SSC30010,Airville
+SSC30011,Aitkenvale
+SSC30012,Alabama Hill
+SSC30013,Albany Creek
+SSC30014,Alberton (Qld)
+SSC30015,Albion (Brisbane - Qld)
+SSC30016,Alderley
+SSC30017,Aldershot
+SSC30018,Alexandra (Qld)
+SSC30019,Alexandra Headland
+SSC30020,Alexandra Hills
+SSC30021,Algester
+SSC30022,Alice River
+SSC30023,Allandale (Qld)
+SSC30024,Allenstown
+SSC30025,Alligator Creek (Mackay - Qld)
+SSC30026,Alligator Creek (Townsville - Qld)
+SSC30027,Allora
+SSC30028,Alloway
+SSC30029,Aloomba
+SSC30030,Alpha
+SSC30031,Alton Downs
+SSC30032,Alva
+SSC30033,Amamoor
+SSC30034,Amberley
+SSC30035,Ambrose
+SSC30036,Amby
+SSC30037,Amiens
+SSC30038,Amity
+SSC30039,Andergrove
+SSC30040,Annandale (Qld)
+SSC30041,Annerley
+SSC30042,Anstead
+SSC30043,Antigua
+SSC30044,Apple Tree Creek
+SSC30045,Applethorpe
+SSC30046,Arafura Sea
+SSC30047,Araluen (Qld)
+SSC30048,Aramac
+SSC30049,Arana Hills
+SSC30050,Aratula (Qld)
+SSC30051,Arcadia (Qld)
+SSC30052,Archerfield
+SSC30053,Arcturus
+SSC30054,Argoon (Qld)
+SSC30055,Armstrong Beach
+SSC30056,Armstrong Creek
+SSC30057,Aroona
+SSC30058,Arriga
+SSC30059,Arundel
+SSC30060,Ascot (Brisbane - Qld)
+SSC30061,Ashfield (Qld)
+SSC30062,Ashgrove
+SSC30063,Ashmore
+SSC30064,Aspley
+SSC30065,Atherton
+SSC30066,Athol
+SSC30067,Atkinsons Dam
+SSC30068,Aubigny
+SSC30069,Auchenflower
+SSC30070,Augathella
+SSC30071,Augustine Heights
+SSC30072,Aurukun
+SSC30073,Austinville
+SSC30074,Avenell Heights
+SSC30075,Avoca (Qld)
+SSC30076,Avondale (Qld)
+SSC30077,Ayr
+SSC30078,Babinda (Qld)
+SSC30079,Back Plains
+SSC30080,Badu Island
+SSC30081,Bahrs Scrub
+SSC30082,Bajool
+SSC30083,Bakers Creek (Qld)
+SSC30084,Balberra
+SSC30085,Bald Hills (Qld)
+SSC30086,Bald Knob
+SSC30087,Balgal Beach
+SSC30088,Ball Bay
+SSC30089,Ballandean
+SSC30090,Ballogie
+SSC30091,Balmoral (Qld)
+SSC30092,Balmoral Ridge
+SSC30093,Balnagowan
+SSC30094,Bamaga
+SSC30095,Bambaroo
+SSC30096,Banana
+SSC30097,Bangalee (Qld)
+SSC30098,Banksia Beach
+SSC30099,Bannockburn (Qld)
+SSC30100,Banyo
+SSC30101,Baralaba
+SSC30102,Barcaldine
+SSC30103,Bardon
+SSC30104,Baree
+SSC30105,Barellan Point
+SSC30106,Bargara
+SSC30107,Barlows Hill
+SSC30108,Barmaryee
+SSC30109,Barmoya
+SSC30110,Barney Point
+SSC30111,Barrine
+SSC30112,Barron Gorge
+SSC30113,Bartle Frere
+SSC30114,Basalt (Qld)
+SSC30115,Basilisk
+SSC30116,Basin Pocket
+SSC30117,Battery Hill
+SSC30118,Bauple
+SSC30119,Bauple Forest
+SSC30120,Bayview Heights
+SSC30121,Beach Holm
+SSC30122,Beachmere
+SSC30123,Beaconsfield (Qld)
+SSC30124,Beatrice
+SSC30125,Beaudesert
+SSC30126,Bedourie
+SSC30127,Beecher
+SSC30128,Beechmont
+SSC30129,Beenleigh
+SSC30130,Beerburrum
+SSC30131,Beerwah
+SSC30132,Belgian Gardens
+SSC30133,Belivah
+SSC30134,Bell (Qld)
+SSC30135,Bellara
+SSC30136,Bellbird Park
+SSC30137,Bellbowrie
+SSC30138,Bellenden Ker
+SSC30139,Belli Park
+SSC30140,Bellmere
+SSC30141,Bells Bridge
+SSC30142,Bells Creek
+SSC30143,Belmont (Qld)
+SSC30144,Belvedere
+SSC30145,Belyando
+SSC30146,Bemerside
+SSC30147,Benaraby
+SSC30148,Benarkin North
+SSC30149,Benowa
+SSC30150,Bentley Park
+SSC30151,Berrinba
+SSC30152,Berserker
+SSC30153,Bethania
+SSC30154,Biboohra
+SSC30155,Biddaddaba
+SSC30156,Biddeston
+SSC30157,Bidwill (Qld)
+SSC30158,Biggenden
+SSC30159,Biggera Waters
+SSC30160,Bilinga
+SSC30161,Biloela
+SSC30162,Bilyana
+SSC30163,Bingil Bay
+SSC30164,Binjour
+SSC30165,Birkalla
+SSC30166,Birkdale
+SSC30167,Birtinya
+SSC30168,Black Duck Creek
+SSC30169,Black Mountain (Qld)
+SSC30170,Black River (Qld)
+SSC30171,Blackall
+SSC30172,Blackbutt (Qld)
+SSC30173,Blackbutt North
+SSC30174,Blackrock
+SSC30175,Blacks Beach
+SSC30176,Blackstone
+SSC30177,Blackwater
+SSC30178,Blanchview
+SSC30179,Blenheim
+SSC30180,Bli Bli
+SSC30181,Bloomfield
+SSC30182,Bloomsbury
+SSC30183,Blue Mountain Heights
+SSC30184,Bluewater
+SSC30185,Bluewater Park
+SSC30186,Bluff
+SSC30187,Bohle
+SSC30188,Bohle Plains
+SSC30189,Boigu Island
+SSC30190,Bokarina
+SSC30191,Bollier
+SSC30192,Bollon
+SSC30193,Bondoola
+SSC30194,Bongaree
+SSC30195,Bongeen
+SSC30196,Bonnie Doon (Qld)
+SSC30197,Bonogin
+SSC30198,Booie
+SSC30199,Boompa
+SSC30200,Boonah (Qld)
+SSC30201,Boondall
+SSC30202,Boonooroo
+SSC30203,Booral (Qld)
+SSC30204,Booroobin
+SSC30205,Booval
+SSC30206,Booyal
+SSC30207,Boreen Point
+SSC30208,Boronia Heights
+SSC30209,Bororen
+SSC30210,Bouldercombe
+SSC30211,Boulia
+SSC30212,Bowen
+SSC30213,Bowen Hills
+SSC30214,Bowenville
+SSC30215,Boyland
+SSC30216,Boyne Island
+SSC30217,Boyne Valley
+SSC30218,Boynewood
+SSC30219,Bracalba
+SSC30220,Bracewell
+SSC30221,Bracken Ridge
+SSC30222,Braemeadows
+SSC30223,Braemore
+SSC30224,Bramston Beach
+SSC30225,Brandon
+SSC30226,Branyan
+SSC30227,Brassall
+SSC30228,Bray Park (Qld)
+SSC30229,Breddan
+SSC30230,Brendale
+SSC30231,Bridgeman Downs
+SSC30232,Bridges
+SSC30233,Brigalow
+SSC30234,Brighton (Qld)
+SSC30235,Brightview
+SSC30236,Brinsmead
+SSC30237,Brisbane City
+SSC30238,Broadbeach
+SSC30239,Broadbeach Waters
+SSC30240,Broadwater (Qld)
+SSC30241,Bromelton
+SSC30242,Brookfield (Qld)
+SSC30243,Brooklands
+SSC30244,Brookstead
+SSC30245,Brookwater
+SSC30246,Brooloo
+SSC30247,Brooweena
+SSC30248,Broughton (Qld)
+SSC30249,Browns Plains (Qld)
+SSC30250,Bucasia
+SSC30251,Bucca (Qld)
+SSC30252,Buccan
+SSC30253,Buddina
+SSC30254,Buderim
+SSC30255,Bulgun
+SSC30256,Bulimba
+SSC30257,Bundaberg Central
+SSC30258,Bundaberg East
+SSC30259,Bundaberg North
+SSC30260,Bundaberg South
+SSC30261,Bundaberg West
+SSC30262,Bundall
+SSC30263,Bundamba
+SSC30264,Bungadoo
+SSC30265,Bungalow
+SSC30266,Bungundarra
+SSC30267,Bungunya
+SSC30268,Bunya
+SSC30269,Burbank
+SSC30270,Burdell
+SSC30271,Burketown
+SSC30272,Burleigh Heads
+SSC30273,Burleigh Waters
+SSC30274,Burnett Heads
+SSC30275,Burnside (Qld)
+SSC30276,Burpengary
+SSC30277,Burpengary East
+SSC30278,Burra Burri
+SSC30279,Burrum Heads
+SSC30280,Burrum River
+SSC30281,Burua
+SSC30282,Bushland Beach
+SSC30283,Buxton (Qld)
+SSC30284,Byellee
+SSC30285,Byfield
+SSC30286,Cabarlah
+SSC30287,Caboolture
+SSC30288,Caboolture South
+SSC30289,Cairns City
+SSC30290,Cairns North
+SSC30291,Calamvale
+SSC30292,Calavos
+SSC30293,Calen
+SSC30294,Calico Creek
+SSC30295,Callemondah
+SSC30296,Calliope (Qld)
+SSC30297,Caloundra
+SSC30298,Caloundra West
+SSC30299,Calvert (Qld)
+SSC30300,Cambooya
+SSC30301,Cambroon
+SSC30302,Camira (Qld)
+SSC30303,Camooweal
+SSC30304,Camp Creek (Qld)
+SSC30305,Camp Hill
+SSC30306,Camp Mountain
+SSC30307,Campaspe
+SSC30308,Campwin Beach
+SSC30309,Cania
+SSC30310,Canina
+SSC30311,Canningvale
+SSC30312,Cannon Hill
+SSC30313,Cannon Valley
+SSC30314,Cannonvale
+SSC30315,Canungra
+SSC30316,Capalaba
+SSC30317,Cape Cleveland
+SSC30318,Cape Conway
+SSC30319,Cape Tribulation
+SSC30320,Capella
+SSC30321,Captain Creek
+SSC30322,Captains Mountain
+SSC30323,Caravonica
+SSC30324,Carbrook
+SSC30325,Cardwell
+SSC30326,Carina (Qld)
+SSC30327,Carina Heights
+SSC30328,Carindale
+SSC30329,Carmila
+SSC30330,Carmoo
+SSC30331,Carole Park
+SSC30332,Carpendale
+SSC30333,Carrara
+SSC30334,Carruchan
+SSC30335,Carseldine
+SSC30336,Carters Ridge
+SSC30337,Cashmere
+SSC30338,Castaways Beach
+SSC30339,Castle Hill (Qld)
+SSC30340,Cawarral
+SSC30341,Cecil Plains
+SSC30342,Cedar Creek (Gold Coast - Qld)
+SSC30343,Cedar Creek (Moreton Bay - Qld)
+SSC30344,Cedar Grove
+SSC30345,Cedar Pocket
+SSC30346,Cedar Vale
+SSC30347,Centenary Heights
+SSC30348,Chambers Flat
+SSC30349,Chances Plain
+SSC30350,Chandler (Qld)
+SSC30351,Chapel Hill (Qld)
+SSC30352,Charleville
+SSC30353,Charlwood
+SSC30354,Chatsworth (Qld)
+SSC30355,Chelmer
+SSC30356,Cherbourg
+SSC30357,Chermside
+SSC30358,Chermside West
+SSC30359,Chevallum
+SSC30360,Chewko
+SSC30361,Childers (Qld)
+SSC30362,Chillagoe
+SSC30363,Chinchilla
+SSC30364,Churchable
+SSC30365,Churchill (Qld)
+SSC30366,Chuwar
+SSC30367,Cinnabar
+SSC30368,Clagiraba
+SSC30369,Clare (Qld)
+SSC30370,Clarendon (Qld)
+SSC30371,Clayfield
+SSC30372,Clear Island Waters
+SSC30373,Clear Mountain
+SSC30374,Clermont
+SSC30375,Cleveland (Qld)
+SSC30376,Clifton (Qld)
+SSC30377,Clifton Beach (Qld)
+SSC30378,Clinton (Qld)
+SSC30379,Cloncurry
+SSC30380,Clontarf (Moreton Bay - Qld)
+SSC30381,Closeburn
+SSC30382,Cloyna
+SSC30383,Cluden
+SSC30384,Coalfalls
+SSC30385,Coalstoun Lakes
+SSC30386,Coconuts
+SSC30387,Coen
+SSC30388,Coes Creek
+SSC30389,Coleyville
+SSC30390,Collingwood Park (Qld)
+SSC30391,Collinsville (Qld)
+SSC30392,Colosseum
+SSC30393,Comet
+SSC30394,Cona Creek
+SSC30395,Condamine
+SSC30396,Condon
+SSC30397,Conondale
+SSC30398,Conway
+SSC30399,Coochiemudlo Island
+SSC30400,Coochin
+SSC30401,Coochin Creek
+SSC30402,Cooee Bay
+SSC30403,Cooktown
+SSC30404,Coolabunia
+SSC30405,Coolana
+SSC30406,Coolangatta (Qld)
+SSC30407,Coolmunda
+SSC30408,Cooloola
+SSC30409,Cooloola Cove
+SSC30410,Cooloolabin
+SSC30411,Coolum Beach
+SSC30412,Coombabah
+SSC30413,Coomera
+SSC30414,Coominya
+SSC30415,Coonarr
+SSC30416,Coopers Plains
+SSC30417,Cooran
+SSC30418,Cooranga
+SSC30419,Cooroibah
+SSC30420,Cooroy
+SSC30421,Coorparoo
+SSC30422,Coorumba
+SSC30423,Cootharaba
+SSC30424,Coowonga
+SSC30425,Cooya Beach
+SSC30426,Cooyar
+SSC30427,Coppabella (Qld)
+SSC30428,Coral Cove
+SSC30429,Coral Sea (Gladstone - Qld)
+SSC30430,Coral Sea (Whitsunday - Qld)
+SSC30431,Cordalba
+SSC30432,Cordelia
+SSC30433,Corfield
+SSC30434,Corinda
+SSC30435,Cornubia
+SSC30436,Cotswold Hills
+SSC30437,Cottonvale (Qld)
+SSC30438,Cow Bay
+SSC30439,Cowley Beach
+SSC30440,Cracow
+SSC30441,Craiglie
+SSC30442,Craignish
+SSC30443,Cranbrook (Qld)
+SSC30444,Cranley
+SSC30445,Crediton
+SSC30446,Cremorne (Qld)
+SSC30447,Crestmead
+SSC30448,Croftby
+SSC30449,Crohamhurst
+SSC30450,Crossdale
+SSC30451,Crossroads
+SSC30452,Crows Nest (Qld)
+SSC30453,Croydon (Qld)
+SSC30454,Cullinane
+SSC30455,Cungulla
+SSC30456,Cunnamulla
+SSC30457,Curra
+SSC30458,Currajong
+SSC30459,Currimundi
+SSC30460,Currumbin
+SSC30461,Currumbin Valley
+SSC30462,Currumbin Waters
+SSC30463,Cushnie
+SSC30464,D'Aguilar
+SSC30465,Daintree
+SSC30466,Daisy Hill (Qld)
+SSC30467,Dajarra
+SSC30468,Dakabin
+SSC30469,Dalby
+SSC30470,Dalcouth
+SSC30471,Dallarnil
+SSC30472,Dalveen
+SSC30473,Dalysford
+SSC30474,Dargal Road
+SSC30475,Darling Heights
+SSC30476,Darlington (Qld)
+SSC30477,Darra
+SSC30478,Dauan Island
+SSC30479,Dayboro
+SSC30480,Deagon
+SSC30481,Deception Bay
+SSC30482,Deebing Heights
+SSC30483,Deepwater (Qld)
+SSC30484,Deeragun
+SSC30485,Degilbo
+SSC30486,Delan
+SSC30487,Delaneys Creek
+SSC30488,Depot Hill
+SSC30489,Deuchar
+SSC30490,Diamond Valley
+SSC30491,Dicky Beach
+SSC30492,Didcot
+SSC30493,Diddillibah
+SSC30494,Dimbulah
+SSC30495,Dingo
+SSC30496,Dingo Beach
+SSC30497,Dingo Pocket
+SSC30498,Dinmore
+SSC30499,Dirranbandi
+SSC30500,Dolphin Heads
+SSC30501,Donnybrook (Qld)
+SSC30502,Doolandella
+SSC30503,Doomadgee
+SSC30504,Doonan
+SSC30505,Douglas (Townsville - Qld)
+SSC30506,Draper
+SSC30507,Drayton
+SSC30508,Drewvale
+SSC30509,Drillham
+SSC30510,Duaringa
+SSC30511,Duckinwilla
+SSC30512,Ducklo
+SSC30513,Dugandan
+SSC30514,Dulacca
+SSC30515,Dulong
+SSC30516,Dululu
+SSC30517,Dumbleton
+SSC30518,Dundathu
+SSC30519,Dundowran
+SSC30520,Dundowran Beach
+SSC30521,Dunk
+SSC30522,Dunkeld (Qld)
+SSC30523,Dunnrock
+SSC30524,Dunwich
+SSC30525,Durack (Qld)
+SSC30526,Durong
+SSC30527,Dutton Park
+SSC30528,Dynevor
+SSC30529,Dysart (Qld)
+SSC30530,Eagle Farm
+SSC30531,Eagleby
+SSC30532,Earlville
+SSC30533,East Barron
+SSC30534,East Brisbane
+SSC30535,East Deep Creek
+SSC30536,East Feluga
+SSC30537,East Greenmount
+SSC30538,East Innisfail
+SSC30539,East Ipswich
+SSC30540,East Mackay
+SSC30541,East Nanango
+SSC30542,East Palmerston
+SSC30543,East Toowoomba
+SSC30544,East Trinity
+SSC30545,Eastern Heights
+SSC30546,Eatons Hill
+SSC30547,Ebbw Vale
+SSC30548,Ebenezer (Qld)
+SSC30549,Edens Landing
+SSC30550,Edge Hill
+SSC30551,Edmonton
+SSC30552,Eerwah Vale
+SSC30553,Eidsvold
+SSC30554,Eidsvold West
+SSC30555,Eight Mile Plains
+SSC30556,Eimeo
+SSC30557,El Arish
+SSC30558,Elanora
+SSC30559,Eli Waters
+SSC30560,Elimbah
+SSC30561,Ellangowan (Qld)
+SSC30562,Ellen Grove
+SSC30563,Ellerbeck
+SSC30564,Ellesmere
+SSC30565,Elliott (Qld)
+SSC30566,Elliott Heads
+SSC30567,Emerald (Qld)
+SSC30568,Emu Creek (Qld)
+SSC30569,Emu Park
+SSC30570,Emu Vale
+SSC30571,England Creek
+SSC30572,Enoggera
+SSC30573,Enoggera Reservoir
+SSC30574,Erakala
+SSC30575,Eromanga
+SSC30576,Erub Island
+SSC30577,Esk (Qld)
+SSC30578,Etna Creek
+SSC30579,Eton
+SSC30580,Etty Bay
+SSC30581,Eubenangee
+SSC30582,Eudlo
+SSC30583,Eukey
+SSC30584,Euleilah
+SSC30585,Eumamurrin
+SSC30586,Eumundi
+SSC30587,Eungella (Qld)
+SSC30588,Euramo
+SSC30589,Eurimbula
+SSC30590,Euthulla
+SSC30591,Evans Landing
+SSC30592,Evelyn
+SSC30593,Everton Hills
+SSC30594,Everton Park
+SSC30595,Fairfield (Qld)
+SSC30596,Fairney View
+SSC30597,Fairy Bower
+SSC30598,Farleigh
+SSC30599,Farnborough
+SSC30600,Federal (Qld)
+SSC30601,Felton
+SSC30602,Feluga
+SSC30603,Fernvale (Qld)
+SSC30604,Ferny Grove
+SSC30605,Ferny Hills
+SSC30606,Fig Tree Pocket
+SSC30607,Finch Hatton
+SSC30608,Fisher (Qld)
+SSC30609,Fishery Falls
+SSC30610,Fitzgerald Creek
+SSC30611,Fitzgibbon
+SSC30612,Flagstone Creek
+SSC30613,Flametree
+SSC30614,Flaxton
+SSC30615,Flinders View
+SSC30616,Flying Fish Point
+SSC30617,Forest Glen (Qld)
+SSC30618,Forest Hill (Qld)
+SSC30619,Forest Lake
+SSC30620,Forestdale
+SSC30621,Forrest Beach (Qld)
+SSC30622,Forsayth
+SSC30623,Fortitude Valley
+SSC30624,Fraser Island
+SSC30625,Fredericksfield
+SSC30626,Freestone
+SSC30627,Frenches Creek
+SSC30628,Frenchville
+SSC30629,Freshwater (Qld)
+SSC30630,Freshwater Point
+SSC30631,Gaeta
+SSC30632,Gailes
+SSC30633,Garbutt
+SSC30634,Gargett
+SSC30635,Garradunga
+SSC30636,Gatton
+SSC30637,Gaven
+SSC30638,Gayndah
+SSC30639,Gaythorne
+SSC30640,Geebung
+SSC30641,Geham
+SSC30642,Georgetown (Qld)
+SSC30643,Gheerulla
+SSC30644,Gilston
+SSC30645,Gin Gin (Qld)
+SSC30646,Gindie
+SSC30647,Gindoran
+SSC30648,Giru
+SSC30649,Gladstone Central
+SSC30650,Gladstone Harbour
+SSC30651,Glamorgan Vale
+SSC30652,Glan Devon
+SSC30653,Glass House Mountains
+SSC30654,Glastonbury
+SSC30655,Glen Aplin
+SSC30656,Glen Eden
+SSC30657,Glen Isla
+SSC30658,Glenaven
+SSC30659,Glencoe (Qld)
+SSC30660,Glendale (Qld)
+SSC30661,Glenden
+SSC30662,Gleneagle
+SSC30663,Glenella
+SSC30664,Glenlee (Qld)
+SSC30665,Glenore Grove
+SSC30666,Glenrae
+SSC30667,Glenvale
+SSC30668,Glenview
+SSC30669,Glenwood (Qld)
+SSC30670,Godwin Beach
+SSC30671,Gogango
+SSC30672,Golden Beach (Qld)
+SSC30673,Goldsborough (Qld)
+SSC30674,Gooburrum
+SSC30675,Goodger
+SSC30676,Goodna
+SSC30677,Goodwood (Qld)
+SSC30678,Goomboorian
+SSC30679,Goombungee
+SSC30680,Goomburra
+SSC30681,Goomeri
+SSC30682,Goondi Bend
+SSC30683,Goondi Hill
+SSC30684,Goondiwindi
+SSC30685,Goovigen
+SSC30686,Gordon Park
+SSC30687,Gordonbrook
+SSC30688,Gordonvale
+SSC30689,Gowrie Junction
+SSC30690,Gowrie Mountain
+SSC30691,Gracemere
+SSC30692,Graceville
+SSC30693,Grand Secret
+SSC30694,Grandchester
+SSC30695,Grange (Qld)
+SSC30696,Grantham
+SSC30697,Granville (Qld)
+SSC30698,Grasstree Beach
+SSC30699,Green Hill
+SSC30700,Greenbank
+SSC30701,Greenlands (Qld)
+SSC30702,Greenmount (Mackay - Qld)
+SSC30703,Greenmount (Toowoomba - Qld)
+SSC30704,Greens Creek (Qld)
+SSC30705,Greenslopes
+SSC30706,Greenvale (Qld)
+SSC30707,Gregory River (Whitsunday - Qld)
+SSC30708,Griffin
+SSC30709,Groomsville
+SSC30710,Grosmont
+SSC30711,Guanaba
+SSC30712,Gulliver
+SSC30713,Gulngai
+SSC30714,Gumdale
+SSC30715,Gumlow
+SSC30716,Gunalda
+SSC30717,Guthalungra
+SSC30718,Gympie
+SSC30719,Habana
+SSC30720,Haden
+SSC30721,Haigslea
+SSC30722,Halifax
+SSC30723,Haly Creek
+SSC30724,Hamilton (Qld)
+SSC30725,Hamilton Plains
+SSC30726,Hampden (Qld)
+SSC30727,Hampton (Qld)
+SSC30728,Hannaford
+SSC30729,Happy Valley (Qld)
+SSC30730,Harlaxton
+SSC30731,Harlin
+SSC30732,Harristown
+SSC30733,Harrisville
+SSC30734,Hatton Vale
+SSC30735,Hawkins Creek
+SSC30736,Hawthorne
+SSC30737,Hay Point
+SSC30738,Hazeldean
+SSC30739,Healy
+SSC30740,Heathwood
+SSC30741,Heatley
+SSC30742,Helensvale
+SSC30743,Helidon
+SSC30744,Helidon Spa
+SSC30745,Hemmant
+SSC30746,Hendon (Qld)
+SSC30747,Hendra
+SSC30748,Herberton
+SSC30749,Heritage Park
+SSC30750,Hermit Park
+SSC30751,Herston
+SSC30752,Hervey Range (Charters Towers - Qld)
+SSC30753,Hidden Valley (Qld)
+SSC30754,Highfields (Qld)
+SSC30755,Highgate Hill
+SSC30756,Highland Park
+SSC30757,Highvale
+SSC30758,Highworth
+SSC30759,Hillcrest (Qld)
+SSC30760,Hinchinbrook (Qld)
+SSC30761,Hirstglen
+SSC30762,Hivesville
+SSC30763,Hodgson Vale
+SSC30764,Holland Park
+SSC30765,Holland Park West
+SSC30766,Holloways Beach
+SSC30767,Hollywell
+SSC30768,Holmview
+SSC30769,Home Hill
+SSC30770,Homebush (Qld)
+SSC30771,Hope Island
+SSC30772,Hope Vale
+SSC30773,Horn
+SSC30774,Horse Camp
+SSC30775,Horse Creek
+SSC30776,Horseshoe Bay
+SSC30777,Horton
+SSC30778,Howard
+SSC30779,Hoya
+SSC30780,Hudson
+SSC30781,Hughenden
+SSC30782,Hunchy
+SSC30783,Hyde Park (Qld)
+SSC30784,Iama Island
+SSC30785,Idalia
+SSC30786,Ideraway
+SSC30787,Ilbilbie
+SSC30788,Ilfracombe
+SSC30789,Ilkley
+SSC30790,Illinbah
+SSC30791,Image Flat
+SSC30792,Imbil
+SSC30793,Inala
+SSC30794,Indooroopilly
+SSC30795,Ingham
+SSC30796,Inglestone
+SSC30797,Inglewood (Qld)
+SSC30798,Injinoo
+SSC30799,Injune
+SSC30800,Inkerman (Qld)
+SSC30801,Innes Park
+SSC30802,Innisfail
+SSC30803,Innisfail Estate
+SSC30804,Innisplain
+SSC30805,Innot Hot Springs
+SSC30806,Inverlaw
+SSC30807,Inverness
+SSC30808,Ipswich
+SSC30809,Ironbark (Qld)
+SSC30810,Irongate
+SSC30811,Ironpot (Rockhampton - Qld)
+SSC30812,Ironpot (South Burnett - Qld)
+SSC30813,Isis Central
+SSC30814,Isisford
+SSC30815,Isla
+SSC30816,Jacobs Well
+SSC30817,Jamboree Heights
+SSC30818,Jandowae
+SSC30819,Jarvisfield
+SSC30820,Jensen
+SSC30821,Jericho (Qld)
+SSC30822,Jerona
+SSC30823,Jimboomba
+SSC30824,Jindalee (Qld)
+SSC30825,Jondaryan
+SSC30826,Jones Hill
+SSC30827,Josephville
+SSC30828,Joyner
+SSC30829,Jubilee Pocket
+SSC30830,Julago
+SSC30831,Julatten
+SSC30832,Julia Creek
+SSC30833,Junabee
+SSC30834,Kaban
+SSC30835,Kabra
+SSC30836,Kaimkillenbun
+SSC30837,Kairi
+SSC30838,Kalbar
+SSC30839,Kalkie
+SSC30840,Kallangur
+SSC30841,Kalpowar
+SSC30842,Kamerunga
+SSC30843,Kandanga
+SSC30844,Kandanga Creek
+SSC30845,Kangaroo Point (Qld)
+SSC30846,Kanigan
+SSC30847,Kanimbla (Qld)
+SSC30848,Karalee
+SSC30849,Karana Downs
+SSC30850,Karara
+SSC30851,Karawatha
+SSC30852,Karrabin
+SSC30853,Karragarra Island
+SSC30854,Karumba
+SSC30855,Kawana
+SSC30856,Kawungan
+SSC30857,Kearneys Spring
+SSC30858,Kedron
+SSC30859,Kelsey Creek
+SSC30860,Kelso (Qld)
+SSC30861,Kelvin Grove
+SSC30862,Kenilworth
+SSC30863,Kenmore
+SSC30864,Kenmore Hills
+SSC30865,Kensington (Qld)
+SSC30866,Kensington Grove
+SSC30867,Keperra
+SSC30868,Kepnock
+SSC30869,Keppel Sands
+SSC30870,Keriri Island
+SSC30871,Kerry
+SSC30872,Kewarra Beach
+SSC30873,Kholo
+SSC30874,Kia Ora (Qld)
+SSC30875,Kianga (Qld)
+SSC30876,Kiels Mountain
+SSC30877,Kilcoy
+SSC30878,Kilcummin
+SSC30879,Kilkivan
+SSC30880,Killarney (Qld)
+SSC30881,Kin Kin
+SSC30882,Kin Kora
+SSC30883,King Scrub
+SSC30884,Kingaroy
+SSC30885,Kings Beach
+SSC30886,Kingsholme
+SSC30887,Kingsthorpe
+SSC30888,Kingston (Qld)
+SSC30889,Kinka Beach
+SSC30890,Kinkuna
+SSC30891,Kinnoul
+SSC30892,Kippa-Ring
+SSC30893,Kirkwood
+SSC30894,Kirwan
+SSC30895,Kleinton
+SSC30896,Koah
+SSC30897,Kobble Creek
+SSC30898,Kogan
+SSC30899,Koongal
+SSC30900,Kooralbyn
+SSC30901,Kooringal (Qld)
+SSC30902,Kooroomool
+SSC30903,Koumala
+SSC30904,Kowanyama
+SSC30905,Kulangoor
+SSC30906,Kullogum
+SSC30907,Kuluin
+SSC30908,Kumbia
+SSC30909,Kunda Park
+SSC30910,Kuraby
+SSC30911,Kuranda
+SSC30912,Kureelpa
+SSC30913,Kureen
+SSC30914,Kurrimine Beach
+SSC30915,Kurwongbah
+SSC30916,Kuttabul
+SSC30917,Kybong
+SSC30918,Labrador
+SSC30919,Laceys Creek
+SSC30920,Lagoon Pocket
+SSC30921,Laguna Quays
+SSC30922,Laidley
+SSC30923,Laidley Heights
+SSC30924,Laidley South
+SSC30925,Lake Barrine
+SSC30926,Lake Clarendon
+SSC30927,Lake Eacham
+SSC30928,Lake Macdonald
+SSC30929,Lake Mary
+SSC30930,Lakefield
+SSC30931,Lakeland
+SSC30932,Lakes Creek
+SSC30933,Lamb Island
+SSC30934,Lamb Range
+SSC30935,Lammermoor
+SSC30936,Landers Shoot
+SSC30937,Landsborough (Qld)
+SSC30938,Lanefield
+SSC30939,Langshaw
+SSC30940,Larapinta (Qld)
+SSC30941,Laravale
+SSC30942,Laura (Qld)
+SSC30943,Lawes
+SSC30944,Lawgi Dawes
+SSC30945,Lawn Hill
+SSC30946,Lawnton
+SSC30947,Leichhardt (Qld)
+SSC30948,Leslie Dam
+SSC30949,Leyburn
+SSC30950,Limestone Creek
+SSC30951,Linthorpe
+SSC30952,Linville
+SSC30953,Lissner
+SSC30954,Little Mountain
+SSC30955,Little Mulgrave
+SSC30956,Loch Lomond
+SSC30957,Lockhart River
+SSC30958,Lockrose
+SSC30959,Lockyer Waters
+SSC30960,Logan Central
+SSC30961,Logan Reserve
+SSC30962,Logan Village
+SSC30963,Loganholme
+SSC30964,Loganlea
+SSC30965,Lonesome Creek
+SSC30966,Long Pocket
+SSC30967,Longreach (Qld)
+SSC30968,Lota
+SSC30969,Low Isles
+SSC30970,Lower Beechmont
+SSC30971,Lower Tenthill
+SSC30972,Lower Wonga
+SSC30973,Lowmead
+SSC30974,Lowood
+SSC30975,Lucinda
+SSC30976,Lumholtz
+SSC30977,Lundavra
+SSC30978,Luscombe
+SSC30979,Lutwyche
+SSC30980,Lytton
+SSC30981,Ma Ma Creek
+SSC30982,Maaroom
+SSC30983,Mabuiag Island
+SSC30984,Macalister
+SSC30985,Macalister Range
+SSC30986,Macgregor (Qld)
+SSC30987,Machans Beach
+SSC30988,Mackay
+SSC30989,Mackay Harbour
+SSC30990,Mackenzie (Brisbane - Qld)
+SSC30991,Mackenzie River
+SSC30992,Macknade
+SSC30993,Maclagan
+SSC30994,Macleay Island
+SSC30995,Maidenwell
+SSC30996,Main Beach
+SSC30997,Majors Creek (Qld)
+SSC30998,Malanda
+SSC30999,Maleny
+SSC31000,Mandalay
+SSC31001,Maneroo
+SSC31002,Mango Hill
+SSC31003,Manly (Qld)
+SSC31004,Manly West
+SSC31005,Manoora (Qld)
+SSC31006,Mansfield (Qld)
+SSC31007,Manunda
+SSC31008,Mapleton
+SSC31009,Mapoon
+SSC31010,Marburg
+SSC31011,Marcoola
+SSC31012,Marcus Beach
+SSC31013,Mareeba
+SSC31014,Margate (Qld)
+SSC31015,Maria Creeks
+SSC31016,Marian
+SSC31017,Marmor
+SSC31018,Maroochy River
+SSC31019,Maroochydore
+SSC31020,Maroondan
+SSC31021,Marsden
+SSC31022,Maryborough (Qld)
+SSC31023,Maryborough West
+SSC31024,Maryvale (Southern Downs - Qld)
+SSC31025,Masig Island
+SSC31026,Maudsland
+SSC31027,McDesme
+SSC31028,McDowall
+SSC31029,McEwens Beach
+SSC31030,McIlwraith
+SSC31031,McKinlay
+SSC31032,Meadowbrook
+SSC31033,Meadowvale
+SSC31034,Meandarra
+SSC31035,Meikleville Hill
+SSC31036,Meldale
+SSC31037,Memerambi
+SSC31038,Mena Creek
+SSC31039,Menzies (Qld)
+SSC31040,Mer Island
+SSC31041,Meridan Plains
+SSC31042,Meringandan
+SSC31043,Meringandan West
+SSC31044,Mermaid Beach
+SSC31045,Mermaid Waters
+SSC31046,Merrimac
+SSC31047,Miallo
+SSC31048,Miami
+SSC31049,Mica Creek
+SSC31050,Middle Park (Qld)
+SSC31051,Middle Ridge
+SSC31052,Middlemount
+SSC31053,Midge Point
+SSC31054,Mighell
+SSC31055,Milbong
+SSC31056,Miles
+SSC31057,Miles End
+SSC31058,Millaa Millaa
+SSC31059,Millaroo
+SSC31060,Millbank (Qld)
+SSC31061,Millchester
+SSC31062,Millmerran
+SSC31063,Millmerran Downs
+SSC31064,Millstream (Qld)
+SSC31065,Milman
+SSC31066,Milton (Qld)
+SSC31067,Minden
+SSC31068,Minyama
+SSC31069,Mirani
+SSC31070,Miriam Vale
+SSC31071,Mirriwinni
+SSC31072,Mission Beach
+SSC31073,Mission River
+SSC31074,Mitchell (Qld)
+SSC31075,Mitchelton
+SSC31076,Moa Island
+SSC31077,Moffat Beach
+SSC31078,Moffatdale
+SSC31079,Moggill
+SSC31080,Molendinar
+SSC31081,Mondure
+SSC31082,Monkland
+SSC31083,Mons
+SSC31084,Monto
+SSC31085,Montville
+SSC31086,Moodlu
+SSC31087,Moogerah
+SSC31088,Moolboolaman
+SSC31089,Mooloolaba
+SSC31090,Mooloolah Valley
+SSC31091,Moonford
+SSC31092,Moonie
+SSC31093,Moore
+SSC31094,Moore Park Beach
+SSC31095,Moores Pocket
+SSC31096,Moorina (Qld)
+SSC31097,Moorland (Qld)
+SSC31098,Mooroobool
+SSC31099,Moorooka
+SSC31100,Moranbah
+SSC31101,Morayfield
+SSC31102,Moresby (Qld)
+SSC31103,Moreton Bay
+SSC31104,Morganville
+SSC31105,Morningside
+SSC31106,Mornington (Qld)
+SSC31107,Morton Vale
+SSC31108,Morven (Qld)
+SSC31109,Mosman Park (Qld)
+SSC31110,Mossman
+SSC31111,Mossman Gorge
+SSC31112,Mothar Mountain
+SSC31113,Mount Abundance
+SSC31114,Mount Alford
+SSC31115,Mount Archer (Rockhampton - Qld)
+SSC31116,Mount Beppo
+SSC31117,Mount Britton
+SSC31118,Mount Carbine
+SSC31119,Mount Chalmers
+SSC31120,Mount Coolon
+SSC31121,Mount Coolum
+SSC31122,Mount Coot-tha
+SSC31123,Mount Cotton
+SSC31124,Mount Crosby
+SSC31125,Mount Delaney
+SSC31126,Mount Elliot (Qld)
+SSC31127,Mount Forbes
+SSC31128,Mount Garnet
+SSC31129,Mount Glorious
+SSC31130,Mount Gravatt
+SSC31131,Mount Gravatt East
+SSC31132,Mount Hallen
+SSC31133,Mount Isa
+SSC31134,Mount Isa City
+SSC31135,Mount Jukes
+SSC31136,Mount Julian
+SSC31137,Mount Kelly
+SSC31138,Mount Kilcoy
+SSC31139,Mount Kynoch
+SSC31140,Mount Larcom
+SSC31141,Mount Lofty
+SSC31142,Mount Louisa
+SSC31143,Mount Low
+SSC31144,Mount Marshall
+SSC31145,Mount Martin
+SSC31146,Mount Mee
+SSC31147,Mount Mellum
+SSC31148,Mount Molloy
+SSC31149,Mount Morgan
+SSC31150,Mount Mort
+SSC31151,Mount Murchison
+SSC31152,Mount Nathan
+SSC31153,Mount Nebo
+SSC31154,Mount Ommaney
+SSC31155,Mount Ossa
+SSC31156,Mount Pelion
+SSC31157,Mount Perry
+SSC31158,Mount Pleasant (Mackay - Qld)
+SSC31159,Mount Pleasant (Moreton Bay - Qld)
+SSC31160,Mount Rascal
+SSC31161,Mount Rooper
+SSC31162,Mount Samson
+SSC31163,Mount Sheridan (Qld)
+SSC31164,Mount Stuart (Qld)
+SSC31165,Mount Surprise
+SSC31166,Mount Sylvia
+SSC31167,Mount Tarampa
+SSC31168,Mount Tyson
+SSC31169,Mount Warren Park
+SSC31170,Mount Whitestone
+SSC31171,Mountain Creek (Qld)
+SSC31172,Moura
+SSC31173,Mourilyan
+SSC31174,Mowbray (Qld)
+SSC31175,Mudgeeraba
+SSC31176,Mudjimba
+SSC31177,Muirlea
+SSC31178,Mulambin
+SSC31179,Mulgowie
+SSC31180,Munbilla
+SSC31181,Munbura
+SSC31182,Mundingburra
+SSC31183,Mundoo
+SSC31184,Mundoolun
+SSC31185,Mundowran
+SSC31186,Mundubbera
+SSC31187,Mungabunda
+SSC31188,Mungar
+SSC31189,Munruben
+SSC31190,Murarrie
+SSC31191,Murgon
+SSC31192,Murphys Creek (Qld)
+SSC31193,Murray
+SSC31194,Murray Upper
+SSC31195,Murrumba Downs
+SSC31196,Mutdapilly
+SSC31197,Muttaburra
+SSC31198,Mysterton
+SSC31199,Nahrunda
+SSC31200,Nambour
+SSC31201,Nanango
+SSC31202,Nandi
+SSC31203,Nankin
+SSC31204,Nanum
+SSC31205,Narangba
+SSC31206,Nathan
+SSC31207,Nebo
+SSC31208,Neerdie
+SSC31209,Nelly Bay
+SSC31210,Nerang
+SSC31211,Nerimbera
+SSC31212,Neurum
+SSC31213,New Auckland
+SSC31214,New Beith
+SSC31215,New Chum
+SSC31216,New Farm
+SSC31217,New Harbourline
+SSC31218,New Mapoon
+SSC31219,Newell
+SSC31220,Newmarket
+SSC31221,Newport (Qld)
+SSC31222,Newstead (Qld)
+SSC31223,Newtown (Ipswich - Qld)
+SSC31224,Newtown (Toowoomba - Qld)
+SSC31225,Nikenbah
+SSC31226,Ninderry
+SSC31227,Ningi
+SSC31228,Nobby
+SSC31229,Nome
+SSC31230,Noorindoo
+SSC31231,Noosa Heads
+SSC31232,Noosa North Shore
+SSC31233,Noosaville
+SSC31234,Norman Gardens
+SSC31235,Norman Park
+SSC31236,Normanton
+SSC31237,North Arm (Qld)
+SSC31238,North Booval
+SSC31239,North Deep Creek
+SSC31240,North Eton
+SSC31241,North Ipswich
+SSC31242,North Isis
+SSC31243,North Lakes
+SSC31244,North Mackay
+SSC31245,North Maclean
+SSC31246,North Maleny
+SSC31247,North Stradbroke Island
+SSC31248,North Talwood
+SSC31249,North Toowoomba
+SSC31250,North Ward
+SSC31251,Northgate (Qld)
+SSC31252,Norville
+SSC31253,Norwell
+SSC31254,Nudgee
+SSC31255,Nudgee Beach
+SSC31256,Numinbah Valley
+SSC31257,Nundah
+SSC31258,O'Connell (Qld)
+SSC31259,Oak Beach
+SSC31260,Oak Valley
+SSC31261,Oakenden
+SSC31262,Oakey
+SSC31263,Oakhurst (Qld)
+SSC31264,Oakwood (Qld)
+SSC31265,Obi Obi
+SSC31266,Ocean View
+SSC31267,One Mile (Qld)
+SSC31268,Oonoonba
+SSC31269,Ooralea
+SSC31270,Orange Creek
+SSC31271,Ormeau
+SSC31272,Ormeau Hills
+SSC31273,Ormiston
+SSC31274,Osborne (Qld)
+SSC31275,Owanyilla
+SSC31276,Oxenford
+SSC31277,Oxley (Qld)
+SSC31278,Pacific Haven
+SSC31279,Pacific Heights
+SSC31280,Pacific Paradise
+SSC31281,Pacific Pines
+SSC31282,Paddington (Qld)
+SSC31283,Paddys Green
+SSC31284,Paget
+SSC31285,Palen Creek
+SSC31286,Pallara
+SSC31287,Pallarenda
+SSC31288,Palm Beach (Qld)
+SSC31289,Palm Cove
+SSC31290,Palm Grove (Qld)
+SSC31291,Palm Island
+SSC31292,Palmview
+SSC31293,Palmwoods (Qld)
+SSC31294,Palmyra (Qld)
+SSC31295,Paradise Point
+SSC31296,Park Avenue
+SSC31297,Park Ridge
+SSC31298,Park Ridge South
+SSC31299,Parkhurst
+SSC31300,Parkinson
+SSC31301,Parklands (Qld)
+SSC31302,Parkside (Qld)
+SSC31303,Parkwood (Qld)
+SSC31304,Parramatta Park
+SSC31305,Parrearra
+SSC31306,Paterson (Qld)
+SSC31307,Patrick Estate
+SSC31308,Peachester
+SSC31309,Peak Crossing
+SSC31310,Peeramon
+SSC31311,Pelican Waters
+SSC31312,Peranga
+SSC31313,Peregian Beach
+SSC31314,Peregian Springs
+SSC31315,Perwillowen
+SSC31316,Petrie
+SSC31317,Petrie Terrace
+SSC31318,Pialba
+SSC31319,Picnic Bay
+SSC31320,Pie Creek
+SSC31321,Pierces Creek
+SSC31322,Pimlico (Qld)
+SSC31323,Pimpama
+SSC31324,Pinbarren
+SSC31325,Pine Creek (Qld)
+SSC31326,Pine Mountain (Qld)
+SSC31327,Pinjarra Hills
+SSC31328,Pink Lily
+SSC31329,Pinkenba
+SSC31330,Pinnacle (Qld)
+SSC31331,Pinnacles
+SSC31332,Pioneer (Qld)
+SSC31333,Pittsworth
+SSC31334,Piturie
+SSC31335,Placid Hills
+SSC31336,Plainland
+SSC31337,Pleystowe
+SSC31338,Point Arkwright
+SSC31339,Point Lookout
+SSC31340,Point Vernon
+SSC31341,Pomona (Qld)
+SSC31342,Poona
+SSC31343,Pormpuraaw
+SSC31344,Port Curtis
+SSC31345,Port Douglas
+SSC31346,Portsmith
+SSC31347,Poruma Island
+SSC31348,Postmans Ridge
+SSC31349,Pozieres
+SSC31350,Prairie (Qld)
+SSC31351,Pratten
+SSC31352,Prenzlau
+SSC31353,Preston (Toowoomba - Qld)
+SSC31354,Preston (Whitsunday - Qld)
+SSC31355,Priestdale
+SSC31356,Prince Henry Heights
+SSC31357,Prince Of Wales
+SSC31358,Proserpine
+SSC31359,Prospect (Qld)
+SSC31360,Proston
+SSC31361,Pullenvale
+SSC31362,Punsand
+SSC31363,Purga
+SSC31364,Queenton
+SSC31365,Quilpie
+SSC31366,Quinalow
+SSC31367,Qunaba
+SSC31368,Racecourse
+SSC31369,Raceview
+SSC31370,Railway Estate
+SSC31371,Rainbow Beach
+SSC31372,Ramsay (Qld)
+SSC31373,Rangeville
+SSC31374,Rangewood
+SSC31375,Ransome
+SSC31376,Rasmussen
+SSC31377,Rathdowney
+SSC31378,Ravensbourne
+SSC31379,Ravenshoe
+SSC31380,Ravenswood (Qld)
+SSC31381,Red Hill (Brisbane - Qld)
+SSC31382,Red Hill (Western Downs - Qld)
+SSC31383,Redbank (Qld)
+SSC31384,Redbank Creek
+SSC31385,Redbank Plains
+SSC31386,Redcliffe (Qld)
+SSC31387,Redland Bay
+SSC31388,Redlynch
+SSC31389,Redridge
+SSC31390,Redwood
+SSC31391,Reedy Creek (Qld)
+SSC31392,Reesville
+SSC31393,Regency Downs
+SSC31394,Regents Park (Qld)
+SSC31395,Rewan
+SSC31396,Richlands (Qld)
+SSC31397,Richmond (Mackay - Qld)
+SSC31398,Richmond (Richmond - Qld)
+SSC31399,Richmond Hill (Qld)
+SSC31400,Ridgelands
+SSC31401,Ridgewood (Qld)
+SSC31402,Ringtail Creek
+SSC31403,Riordanvale
+SSC31404,Ripley
+SSC31405,River Heads
+SSC31406,River Ranch
+SSC31407,Riverhills
+SSC31408,Riverview (Qld)
+SSC31409,Roadvale
+SSC31410,Robertson (Qld)
+SSC31411,Robina
+SSC31412,Roche Creek
+SSC31413,Rochedale
+SSC31414,Rochedale South
+SSC31415,Rockhampton City
+SSC31416,Rocklea (Qld)
+SSC31417,Rockmount
+SSC31418,Rocksberg
+SSC31419,Rockville
+SSC31420,Rocky Point (Weipa Town - Qld)
+SSC31421,Rockyview
+SSC31422,Rolleston
+SSC31423,Rollingstone
+SSC31424,Roma
+SSC31425,Ropeley
+SSC31426,Rosedale (Qld)
+SSC31427,Rosehill (Qld)
+SSC31428,Rosemount
+SSC31429,Roseneath
+SSC31430,Rosenthal Heights
+SSC31431,Rosevale (Qld)
+SSC31432,Rosewood (Qld)
+SSC31433,Rosslea
+SSC31434,Rosslyn
+SSC31435,Rothwell
+SSC31436,Rowes Bay
+SSC31437,Royston
+SSC31438,Rubyanna
+SSC31439,Runaway Bay
+SSC31440,Runcorn
+SSC31441,Runnymede (Qld)
+SSC31442,Rural View
+SSC31443,Russell Island
+SSC31444,Sadliers Crossing
+SSC31445,Saibai Island
+SSC31446,Salisbury (Qld)
+SSC31447,Samford Valley
+SSC31448,Samford Village
+SSC31449,Samsonvale
+SSC31450,Sandgate (Qld)
+SSC31451,Sandiford
+SSC31452,Sandstone Point
+SSC31453,Sandy Creek (Qld)
+SSC31454,Sarina
+SSC31455,Sarina Beach
+SSC31456,Sarina Range
+SSC31457,Saunders Beach
+SSC31458,Scarborough (Qld)
+SSC31459,Scarness
+SSC31460,Scottville
+SSC31461,Scrubby Mountain
+SSC31462,Seaforth (Qld)
+SSC31463,Seisia
+SSC31464,Seven Hills (Qld)
+SSC31465,Seventeen Mile Rocks
+SSC31466,Seventeen Seventy
+SSC31467,Seventy Mile
+SSC31468,Severnlea
+SSC31469,Shailer Park
+SSC31470,Shannonvale (Qld)
+SSC31471,Sharon
+SSC31472,Shelburne
+SSC31473,Sheldon
+SSC31474,Shelly Beach (Sunshine Coast - Qld)
+SSC31475,Sherwood (Qld)
+SSC31476,Shoal Point
+SSC31477,Shorncliffe
+SSC31478,Shute Harbour
+SSC31479,Silkstone
+SSC31480,Silkwood
+SSC31481,Silky Oak
+SSC31482,Sinnamon Park
+SSC31483,Sippy Downs
+SSC31484,Slacks Creek
+SSC31485,Slade Point
+SSC31486,Sladevale
+SSC31487,Smithfield (Qld)
+SSC31488,Smoky Creek
+SSC31489,Soldiers Hill (Qld)
+SSC31490,Somerset (Qld)
+SSC31491,Somerset Dam
+SSC31492,South Bingera
+SSC31493,South Brisbane
+SSC31494,South East Nanango
+SSC31495,South Gladstone
+SSC31496,South Innisfail
+SSC31497,South Isis
+SSC31498,South Johnstone
+SSC31499,South Kolan
+SSC31500,South Mackay
+SSC31501,South Maclean
+SSC31502,South Mission Beach
+SSC31503,South Nanango
+SSC31504,South Ripley
+SSC31505,South Stradbroke
+SSC31506,South Toowoomba
+SSC31507,South Townsville
+SSC31508,South Trees
+SSC31509,Southbrook
+SSC31510,Southern Cross (Qld)
+SSC31511,Southern Moreton Bay Islands
+SSC31512,Southport (Qld)
+SSC31513,Southside
+SSC31514,Speewah
+SSC31515,Spring Creek (Lockyer Valley - Qld)
+SSC31516,Spring Creek (Toowoomba - Qld)
+SSC31517,Spring Hill (Qld)
+SSC31518,Spring Mountain (Qld)
+SSC31519,Springbrook
+SSC31520,Springfield (Ipswich - Qld)
+SSC31521,Springfield Central
+SSC31522,Springfield Lakes
+SSC31523,Springsure
+SSC31524,Springwood (Qld)
+SSC31525,St George (Qld)
+SSC31526,St Helena Island
+SSC31527,St Helens Beach
+SSC31528,St Lawrence
+SSC31529,St Lucia
+SSC31530,Stafford
+SSC31531,Stafford Heights
+SSC31532,Stamford
+SSC31533,Stanage
+SSC31534,Stanmore (Qld)
+SSC31535,Stanthorpe
+SSC31536,Stanwell
+SSC31537,Stapylton
+SSC31538,Steiglitz (Qld)
+SSC31539,Stockleigh
+SSC31540,Stockyard (Rockhampton - Qld)
+SSC31541,Stoneleigh (Qld)
+SSC31542,Stony Creek (Qld)
+SSC31543,Stratford (Qld)
+SSC31544,Strathdickie
+SSC31545,Strathpine
+SSC31546,Stretton
+SSC31547,Struck Oil
+SSC31548,Stuart (Qld)
+SSC31549,Summerholm
+SSC31550,Sumner
+SSC31551,Sun Valley (Qld)
+SSC31552,Sundown (Cassowary Coast - Qld)
+SSC31553,Sunnybank
+SSC31554,Sunnybank Hills
+SSC31555,Sunrise Beach
+SSC31556,Sunset
+SSC31557,Sunshine Acres
+SSC31558,Sunshine Beach
+SSC31559,Surat
+SSC31560,Surfers Paradise
+SSC31561,Svensson Heights
+SSC31562,Taabinga
+SSC31563,Tablelands (South Burnett - Qld)
+SSC31564,Taigum
+SSC31565,Takura
+SSC31566,Tallai
+SSC31567,Tallebudgera
+SSC31568,Tallebudgera Valley
+SSC31569,Tallegalla
+SSC31570,Tam O'Shanter
+SSC31571,Tamaree
+SSC31572,Tambo
+SSC31573,Tamborine
+SSC31574,Tamborine Mountain
+SSC31575,Tanah Merah
+SSC31576,Tanawha
+SSC31577,Tanby
+SSC31578,Tandur
+SSC31579,Tannum Sands
+SSC31580,Tannymorel
+SSC31581,Tansey
+SSC31582,Tara (Qld)
+SSC31583,Tarampa
+SSC31584,Taranganba
+SSC31585,Taringa
+SSC31586,Tarome
+SSC31587,Taromeo
+SSC31588,Taroom
+SSC31589,Taroomball
+SSC31590,Tarragindi
+SSC31591,Tarzali
+SSC31592,Taylors Beach (Qld)
+SSC31593,Te Kowai
+SSC31594,Teddington
+SSC31595,Telina
+SSC31596,Tellebang
+SSC31597,Teneriffe
+SSC31598,Tennyson (Qld)
+SSC31599,Tewantin
+SSC31600,Texas (Qld)
+SSC31601,Thabeban
+SSC31602,Thagoona
+SSC31603,Thallon
+SSC31604,Thangool
+SSC31605,Thargomindah
+SSC31606,The Cape
+SSC31607,The Caves
+SSC31608,The Common
+SSC31609,The Dawn
+SSC31610,The Falls
+SSC31611,The Gap (Brisbane - Qld)
+SSC31612,The Gap (Mount Isa - Qld)
+SSC31613,The Gemfields
+SSC31614,The Keppels
+SSC31615,The Leap
+SSC31616,The Mine
+SSC31617,The Palms
+SSC31618,The Percy Group
+SSC31619,The Range (Qld)
+SSC31620,The Summit
+SSC31621,Theebine
+SSC31622,Theodore (Qld)
+SSC31623,Theresa Creek (Qld)
+SSC31624,Thoopara
+SSC31625,Thorneside
+SSC31626,Thornlands
+SSC31627,Thornton (Qld)
+SSC31628,Three Moon
+SSC31629,Thulimbah
+SSC31630,Thuringowa Central
+SSC31631,Thursday Island
+SSC31632,Tiaro
+SSC31633,Tieri
+SSC31634,Tin Can Bay
+SSC31635,Tinana
+SSC31636,Tinana South
+SSC31637,Tinaroo
+SSC31638,Tinbeerwah
+SSC31639,Tingalpa
+SSC31640,Tingoora
+SSC31641,Tingun
+SSC31642,Tinnanbar
+SSC31643,Tirroan
+SSC31644,Tivoli
+SSC31645,Tolga
+SSC31646,Toll
+SSC31647,Toobanna
+SSC31648,Toobeah
+SSC31649,Toogoolawah
+SSC31650,Toogoom
+SSC31651,Toolakea
+SSC31652,Toolooa
+SSC31653,Toomulla
+SSC31654,Toorbul
+SSC31655,Toowong
+SSC31656,Toowoomba City
+SSC31657,Top Camp
+SSC31658,Topaz
+SSC31659,Torbanlea
+SSC31660,Torquay (Qld)
+SSC31661,Torres Strait
+SSC31662,Torrington (Qld)
+SSC31663,Towen Mountain
+SSC31664,Towers Hill
+SSC31665,Town Common
+SSC31666,Townsville City
+SSC31667,Townview
+SSC31668,Traveston
+SSC31669,Trebonne
+SSC31670,Trinity Beach
+SSC31671,Trinity Park
+SSC31672,Trunding
+SSC31673,Tugun
+SSC31674,Tully
+SSC31675,Tully Heads
+SSC31676,Tummaville
+SSC31677,Tungamull
+SSC31678,Turkey Beach
+SSC31679,Twin Waters
+SSC31680,Ugar Island
+SSC31681,Umagico
+SSC31682,Underwood (Qld)
+SSC31683,Upper Barron
+SSC31684,Upper Brookfield
+SSC31685,Upper Caboolture
+SSC31686,Upper Coomera
+SSC31687,Upper Kedron
+SSC31688,Upper Lockyer
+SSC31689,Upper Mount Gravatt
+SSC31690,Upper Tenthill
+SSC31691,Urangan
+SSC31692,Urraween
+SSC31693,Valdora
+SSC31694,Vale View
+SSC31695,Valentine Plains
+SSC31696,Valkyrie
+SSC31697,Varsity Lakes
+SSC31698,Vasa Views
+SSC31699,Veresdale Scrub
+SSC31700,Verrierdale
+SSC31701,Veteran
+SSC31702,Victoria Plains
+SSC31703,Victoria Plantation
+SSC31704,Victoria Point (Qld)
+SSC31705,Victory Heights (Qld)
+SSC31706,Villeneuve
+SSC31707,Vincent
+SSC31708,Virginia (Qld)
+SSC31709,Wacol
+SSC31710,Wakerley
+SSC31711,Walkamin
+SSC31712,Walkerston
+SSC31713,Walkervale
+SSC31714,Wallangarra
+SSC31715,Wallaville
+SSC31716,Walligan
+SSC31717,Walloon
+SSC31718,Wallu
+SSC31719,Wallumbilla
+SSC31720,Wallumbilla North
+SSC31721,Wallumbilla South
+SSC31722,Walter Hill
+SSC31723,Wamuran
+SSC31724,Wandal
+SSC31725,Wandoan
+SSC31726,Wangan
+SSC31727,Wanora
+SSC31728,Warana
+SSC31729,Warner
+SSC31730,Warra
+SSC31731,Warraber Islet
+SSC31732,Warrill View
+SSC31733,Warwick (Qld)
+SSC31734,Waterford (Qld)
+SSC31735,Waterford West
+SSC31736,Watsonville
+SSC31737,Wattle Camp
+SSC31738,Wavell Heights
+SSC31739,Webb
+SSC31740,Welcome Creek
+SSC31741,Wellcamp
+SSC31742,Wellesley Islands
+SSC31743,Wellington Point
+SSC31744,Welsby
+SSC31745,Weranga
+SSC31746,West End (Brisbane - Qld)
+SSC31747,West End (Townsville - Qld)
+SSC31748,West Gladstone
+SSC31749,West Ipswich
+SSC31750,West Mackay
+SSC31751,West Point
+SSC31752,West Rockhampton
+SSC31753,West Stowe
+SSC31754,West Woombye
+SSC31755,Westbrook (Qld)
+SSC31756,Westcourt
+SSC31757,Westlake
+SSC31758,Westwood (Qld)
+SSC31759,Weyba Downs
+SSC31760,Wheatlands
+SSC31761,White Patch
+SSC31762,White Rock (Cairns - Qld)
+SSC31763,Whiteside
+SSC31764,Whitfield (Qld)
+SSC31765,Whitsundays
+SSC31766,Whyanbeel
+SSC31767,Widgee
+SSC31768,Wights Mountain
+SSC31769,Willawong
+SSC31770,Willow Vale (Qld)
+SSC31771,Willowbank
+SSC31772,Willows
+SSC31773,Willowvale (Qld)
+SSC31774,Wilsons Pocket
+SSC31775,Wilsonton
+SSC31776,Wilsonton Heights
+SSC31777,Wilston
+SSC31778,Windaroo
+SSC31779,Windorah
+SSC31780,Windsor (Qld)
+SSC31781,Winfield
+SSC31782,Winston
+SSC31783,Winton (Qld)
+SSC31784,Wishart (Qld)
+SSC31785,Withcott
+SSC31786,Witheren
+SSC31787,Witta
+SSC31788,Wivenhoe Pocket
+SSC31789,Wolffdene
+SSC31790,Wolvi
+SSC31791,Wondai
+SSC31792,Wondecla
+SSC31793,Wondunna
+SSC31794,Wonga (Qld)
+SSC31795,Wongabel
+SSC31796,Wongaling Beach
+SSC31797,Wongawallan
+SSC31798,Wonglepong
+SSC31799,Woodbury (Qld)
+SSC31800,Woodend (Qld)
+SSC31801,Wooderson
+SSC31802,Woodford (Qld)
+SSC31803,Woodgate
+SSC31804,Woodhill (Qld)
+SSC31805,Woodridge (Qld)
+SSC31806,Woodstock (Qld)
+SSC31807,Woodwark
+SSC31808,Woody Point
+SSC31809,Woolloongabba
+SSC31810,Woolooga
+SSC31811,Wooloowin
+SSC31812,Woombye
+SSC31813,Woongarra
+SSC31814,Woongoolba
+SSC31815,Woorabinda
+SSC31816,Woorim
+SSC31817,Wooroolin
+SSC31818,Wooroonooran (Cairns - Qld)
+SSC31819,Wootha
+SSC31820,Woree
+SSC31821,Worongary
+SSC31822,Wowan
+SSC31823,Wrights Creek (Qld)
+SSC31824,Wujal Wujal
+SSC31825,Wulguru
+SSC31826,Wulkuraka
+SSC31827,Wurdong Heights
+SSC31828,Wurtulla
+SSC31829,Wyaralong
+SSC31830,Wynnum
+SSC31831,Wynnum West
+SSC31832,Wyreema
+SSC31833,Yabulu
+SSC31834,Yalboroo
+SSC31835,Yamanto
+SSC31836,Yandaran
+SSC31837,Yandilla
+SSC31838,Yandina
+SSC31839,Yandina Creek
+SSC31840,Yangan
+SSC31841,Yaroomba
+SSC31842,Yarrabah
+SSC31843,Yarraman (Qld)
+SSC31844,Yarrol
+SSC31845,Yarwun
+SSC31846,Yatala
+SSC31847,Yeerongpilly
+SSC31848,Yelarbon
+SSC31849,Yengarie
+SSC31850,Yeppoon
+SSC31851,Yeronga
+SSC31852,Yerra
+SSC31853,Yorkeys Knob
+SSC31854,Yowah
+SSC31855,Yugar
+SSC31856,Yuleba
+SSC31857,Yungaburra
+SSC31858,Zillmere
+SSC31859,Zilzie
+SSC39494,No Usual Address (Qld)
+SSC39797,Migratory - Offshore - Shipping (Qld)
+SSC40001,Aberfoyle Park
+SSC40002,Adelaide
+SSC40003,Adelaide Airport
+SSC40004,Albert Park (SA)
+SSC40005,Alberton (SA)
+SSC40006,Aldgate
+SSC40007,Aldinga
+SSC40008,Aldinga Beach
+SSC40009,Allenby Gardens
+SSC40010,Allendale East
+SSC40011,Alma (SA)
+SSC40012,Altona (SA)
+SSC40013,American River
+SSC40014,Andamooka
+SSC40015,Andrews Farm
+SSC40016,Angaston
+SSC40017,Angle Park
+SSC40018,Angle Vale
+SSC40019,Ardrossan
+SSC40020,Armagh
+SSC40021,Arno Bay
+SSC40022,Arthurton
+SSC40023,Ascot Park
+SSC40024,Ashbourne (SA)
+SSC40025,Ashford (SA)
+SSC40026,Ashton
+SSC40027,Athelstone
+SSC40028,Athol Park
+SSC40029,Auburn (SA)
+SSC40030,Auldana
+SSC40031,Balaklava
+SSC40032,Balgowan (SA)
+SSC40033,Balhannah
+SSC40034,Banksia Park
+SSC40035,Barmera
+SSC40036,Basket Range
+SSC40037,Beachport
+SSC40038,Beaumont (SA)
+SSC40039,Bedford Park
+SSC40040,Belair
+SSC40041,Bellevue Heights
+SSC40042,Berri
+SSC40043,Bethany
+SSC40044,Beulah Park
+SSC40045,Beverley (SA)
+SSC40046,Bibaringa
+SSC40047,Birdwood (SA)
+SSC40048,Birkenhead
+SSC40049,Black Forest
+SSC40050,Black Point
+SSC40051,Blackwood (SA)
+SSC40052,Blair Athol (SA)
+SSC40053,Blakeview
+SSC40054,Blakiston
+SSC40055,Blanchetown
+SSC40056,Blewitt Springs
+SSC40057,Blyth
+SSC40058,Bolivar
+SSC40059,Booborowie
+SSC40060,Booleroo Centre
+SSC40061,Bordertown
+SSC40062,Boston
+SSC40063,Bowden
+SSC40064,Bowmans
+SSC40065,Bradbury (SA)
+SSC40066,Brahma Lodge
+SSC40067,Bridgewater (SA)
+SSC40068,Brighton (SA)
+SSC40069,Brinkworth
+SSC40070,Broadview
+SSC40071,Brompton
+SSC40072,Brooklyn Park
+SSC40073,Brown Hill Creek
+SSC40074,Brownlow Ki
+SSC40075,Brukunga
+SSC40076,Buchfelde
+SSC40077,Buckland Park
+SSC40078,Bugle Hut
+SSC40079,Bugle Ranges
+SSC40080,Burdett
+SSC40081,Burnside (SA)
+SSC40082,Burra (SA)
+SSC40083,Burton (SA)
+SSC40084,Bute
+SSC40085,Cadell
+SSC40086,Callington
+SSC40087,Caloote
+SSC40088,Caltowie
+SSC40089,Cambrai
+SSC40090,Camden Park (SA)
+SSC40091,Campbelltown (SA)
+SSC40092,Cape Jaffa
+SSC40093,Cape Jervis
+SSC40094,Carey Gully
+SSC40095,Carpenter Rocks
+SSC40096,Carrickalinga
+SSC40097,Ceduna
+SSC40098,Chaffey
+SSC40099,Chandlers Hill
+SSC40100,Chapel Hill (SA)
+SSC40101,Charleston
+SSC40102,Cheltenham (SA)
+SSC40103,Cherry Gardens
+SSC40104,Christie Downs
+SSC40105,Christies Beach
+SSC40106,Clapham
+SSC40107,Clare (SA)
+SSC40108,Clarence Gardens
+SSC40109,Clarence Park
+SSC40110,Clarendon (SA)
+SSC40111,Clayton Bay
+SSC40112,Clearview
+SSC40113,Cleland
+SSC40114,Cleve
+SSC40115,Clinton (SA)
+SSC40116,Clovelly Park
+SSC40117,Cobdogla
+SSC40118,Cockatoo Valley
+SSC40119,Coffin Bay
+SSC40120,College Park
+SSC40121,Collinswood
+SSC40122,Colonel Light Gardens
+SSC40123,Commissariat Point
+SSC40124,Compton
+SSC40125,Concordia
+SSC40126,Coober Pedy
+SSC40127,Coobowie
+SSC40128,Cooltong
+SSC40129,Coonalpyn
+SSC40130,Coonamia
+SSC40131,Coonawarra (SA)
+SSC40132,Copley (SA)
+SSC40133,Corny Point
+SSC40134,Coromandel East
+SSC40135,Coromandel Valley
+SSC40136,Cowandilla
+SSC40137,Cowell
+SSC40138,Crafers
+SSC40139,Crafers West
+SSC40140,Craigburn Farm
+SSC40141,Craigmore
+SSC40142,Croydon (SA)
+SSC40143,Croydon Park (SA)
+SSC40144,Crystal Brook (SA)
+SSC40145,Cudlee Creek
+SSC40146,Cumberland Park
+SSC40147,Cummins
+SSC40148,Curramulka
+SSC40149,Currency Creek
+SSC40150,Darke Peak
+SSC40151,Darlington (SA)
+SSC40152,Davoren Park
+SSC40153,Daw Park
+SSC40154,Dawesley
+SSC40155,Denial Bay
+SSC40156,Dernancourt
+SSC40157,Devon Park (SA)
+SSC40158,Donovans
+SSC40159,Dover Gardens
+SSC40160,Dry Creek (SA)
+SSC40161,Dublin
+SSC40162,Duck Ponds
+SSC40163,Dudley Park (SA)
+SSC40164,Dulwich
+SSC40165,Eastwood (SA)
+SSC40166,Ebenezer (SA)
+SSC40167,Echunga
+SSC40168,Eden Hills
+SSC40169,Eden Valley
+SSC40170,Edillilie
+SSC40171,Edinburgh
+SSC40172,Edithburgh
+SSC40173,Edwardstown
+SSC40174,Elizabeth
+SSC40175,Elizabeth Downs
+SSC40176,Elizabeth East
+SSC40177,Elizabeth Grove
+SSC40178,Elizabeth North
+SSC40179,Elizabeth Park
+SSC40180,Elizabeth South
+SSC40181,Elizabeth Vale
+SSC40182,Elizabeth West
+SSC40183,Elliston
+SSC40184,Encounter Bay
+SSC40185,Enfield (SA)
+SSC40186,Erindale
+SSC40187,Ethelton
+SSC40188,Eudunda
+SSC40189,Evandale (SA)
+SSC40190,Evanston
+SSC40191,Evanston Gardens
+SSC40192,Evanston Park
+SSC40193,Everard Park
+SSC40194,Exeter (SA)
+SSC40195,Fairview Park
+SSC40196,False Bay
+SSC40197,Farrell Flat
+SSC40198,Felixstow
+SSC40199,Ferryden Park
+SSC40200,Findon
+SSC40201,Finniss
+SSC40202,Firle
+SSC40203,Fisherman Bay
+SSC40204,Fitzroy (SA)
+SSC40205,Flagstaff Hill
+SSC40206,Flaxley
+SSC40207,Flaxman Valley
+SSC40208,Flinders Park
+SSC40209,Forest Range
+SSC40210,Forestville (SA)
+SSC40211,Forreston
+SSC40212,Freeling
+SSC40213,Frewville
+SSC40214,Fulham (SA)
+SSC40215,Fulham Gardens
+SSC40216,Fullarton
+SSC40217,Garden Island (SA)
+SSC40218,Gawler (SA)
+SSC40219,Gawler Belt
+SSC40220,Gawler East
+SSC40221,Gawler River
+SSC40222,Gawler South
+SSC40223,Gawler West
+SSC40224,Georgetown (SA)
+SSC40225,Gepps Cross
+SSC40226,Germein Bay
+SSC40227,Gilberton (SA)
+SSC40228,Gilles Plains
+SSC40229,Gladstone (SA)
+SSC40230,Glandore
+SSC40231,Glanville
+SSC40232,Glen Osmond
+SSC40233,Glenalta
+SSC40234,Glenburnie
+SSC40235,Glencoe (SA)
+SSC40236,Glendambo
+SSC40237,Glenelg (SA)
+SSC40238,Glenelg East
+SSC40239,Glenelg North
+SSC40240,Glenelg South
+SSC40241,Glengowrie
+SSC40242,Glenside
+SSC40243,Glenunga
+SSC40244,Globe Derby Park
+SSC40245,Glossop
+SSC40246,Glynde
+SSC40247,Golden Grove
+SSC40248,Golden Heights
+SSC40249,Goodwood (SA)
+SSC40250,Goolwa
+SSC40251,Goolwa Beach
+SSC40252,Goolwa North
+SSC40253,Goolwa South
+SSC40254,Gould Creek
+SSC40255,Grange (SA)
+SSC40256,Green Fields
+SSC40257,Greenacres
+SSC40258,Greenhill (SA)
+SSC40259,Greenock
+SSC40260,Greenwith
+SSC40261,Gulfview Heights
+SSC40262,Gumeracha
+SSC40263,Hackham
+SSC40264,Hackham West
+SSC40265,Hackney
+SSC40266,Hahndorf
+SSC40267,Halbury
+SSC40268,Hallett
+SSC40269,Hallett Cove
+SSC40270,Hamley Bridge
+SSC40271,Hampden (SA)
+SSC40272,Hampstead Gardens
+SSC40273,Happy Valley (SA)
+SSC40274,Hardwicke Bay
+SSC40275,Harrogate
+SSC40276,Hatherleigh
+SSC40277,Hawker (SA)
+SSC40278,Hawson
+SSC40279,Hawthorn (SA)
+SSC40280,Hawthorndene
+SSC40281,Hayborough
+SSC40282,Hazelwood Park
+SSC40283,Heathfield
+SSC40284,Heathpool
+SSC40285,Hectorville
+SSC40286,Hendon (SA)
+SSC40287,Henley Beach
+SSC40288,Henley Beach South
+SSC40289,Hewett
+SSC40290,Highbury (SA)
+SSC40291,Highgate (SA)
+SSC40292,Highland Valley
+SSC40293,Hillbank
+SSC40294,Hillcrest (SA)
+SSC40295,Hillier
+SSC40296,Hilltown
+SSC40297,Hilton (SA)
+SSC40298,Hindmarsh (SA)
+SSC40299,Hindmarsh Island
+SSC40300,Hindmarsh Valley
+SSC40301,Holden Hill
+SSC40302,Hope Valley (SA)
+SSC40303,Horsnell Gully
+SSC40304,Houghton
+SSC40305,Hove
+SSC40306,Humbug Scrub
+SSC40307,Huntfield Heights
+SSC40308,Hyde Park (SA)
+SSC40309,Ingle Farm
+SSC40310,Inglewood (SA)
+SSC40311,Inman Valley
+SSC40312,Inneston
+SSC40313,Iron Knob
+SSC40314,Ironbank
+SSC40315,Island Beach
+SSC40316,James Well
+SSC40317,Jamestown
+SSC40318,Jerusalem
+SSC40319,Joanna
+SSC40320,Joslin
+SSC40321,Jupiter Creek
+SSC40322,Kadina
+SSC40323,Kalangadoo
+SSC40324,Kalbeeba
+SSC40325,Kangarilla
+SSC40326,Kanmantoo
+SSC40327,Kapunda
+SSC40328,Karoonda
+SSC40329,Katarapko
+SSC40330,Keilira
+SSC40331,Keith
+SSC40332,Kelly
+SSC40333,Kensington (SA)
+SSC40334,Kensington Gardens
+SSC40335,Kensington Park
+SSC40336,Kent Town
+SSC40337,Kersbrook
+SSC40338,Keswick
+SSC40339,Keyneton
+SSC40340,Kidman Park
+SSC40341,Kilburn
+SSC40342,Kilkenny
+SSC40343,Kimba
+SSC40344,Kings Park (SA)
+SSC40345,Kingscote
+SSC40346,Kingston On Murray
+SSC40347,Kingston Park
+SSC40348,Kingston SE
+SSC40349,Kingswood (SA)
+SSC40350,Klemzig
+SSC40351,Kongorong
+SSC40352,Koonibba
+SSC40353,Korunye
+SSC40354,Kudla
+SSC40355,Kuitpo
+SSC40356,Kurralta Park
+SSC40357,Lameroo
+SSC40358,Langhorne Creek
+SSC40359,Largs Bay
+SSC40360,Largs North
+SSC40361,Laura (SA)
+SSC40362,Leabrook
+SSC40363,Leigh Creek (SA)
+SSC40364,Lenswood
+SSC40365,Lewiston
+SSC40366,Light Pass
+SSC40367,Lincoln National Park
+SSC40368,Linden Park
+SSC40369,Lipson
+SSC40370,Littlehampton
+SSC40371,Lobethal
+SSC40372,Lochaber
+SSC40373,Lochiel (SA)
+SSC40374,Lock
+SSC40375,Lockleys
+SSC40376,Longwood (SA)
+SSC40377,Lonsdale
+SSC40378,Louth Bay
+SSC40379,Loveday
+SSC40380,Lower Inman Valley
+SSC40381,Lower Light
+SSC40382,Lower Mitcham
+SSC40383,Loxton
+SSC40384,Loxton North
+SSC40385,Lucindale
+SSC40386,Lyndoch
+SSC40387,Lynton
+SSC40388,Lyrup
+SSC40389,Macclesfield (SA)
+SSC40390,Macdonald Park
+SSC40391,Magill
+SSC40392,Maitland (SA)
+SSC40393,Mallala
+SSC40394,Malvern (SA)
+SSC40395,Mannanarie
+SSC40396,Manningham
+SSC40397,Mannum
+SSC40398,Manoora (SA)
+SSC40399,Mansfield Park
+SSC40400,Marama
+SSC40401,Marananga
+SSC40402,Marden
+SSC40403,Marino
+SSC40404,Marion
+SSC40405,Marion Bay (SA)
+SSC40406,Marks Landing
+SSC40407,Marleston
+SSC40408,Marrabel
+SSC40409,Marree
+SSC40410,Marryatville
+SSC40411,Maslin Beach
+SSC40412,Mawson Lakes
+SSC40413,Maylands (SA)
+SSC40414,McCracken
+SSC40415,McLaren Flat
+SSC40416,McLaren Vale
+SSC40417,Meadows
+SSC40418,Medindie
+SSC40419,Medindie Gardens
+SSC40420,Melrose (SA)
+SSC40421,Melrose Park (SA)
+SSC40422,Meningie
+SSC40423,Menzies (SA)
+SSC40424,Middleton (SA)
+SSC40425,Mil-Lel
+SSC40426,Milang
+SSC40427,Mile End
+SSC40428,Mile End South
+SSC40429,Millicent
+SSC40430,Millswood
+SSC40431,Mingbool
+SSC40432,Minlaton
+SSC40433,Minnipa
+SSC40434,Mintaro
+SSC40435,Miranda (SA)
+SSC40436,Mitcham (SA)
+SSC40437,Mitchell Park (SA)
+SSC40438,Moana
+SSC40439,Moculta
+SSC40440,Modbury
+SSC40441,Modbury Heights
+SSC40442,Modbury North
+SSC40443,Monarto
+SSC40444,Monarto South
+SSC40445,Monash (SA)
+SSC40446,Montacute
+SSC40447,Moonta
+SSC40448,Moonta Bay
+SSC40449,Moonta Mines
+SSC40450,Moorak
+SSC40451,Moorook South
+SSC40452,Moppa
+SSC40453,Morgan
+SSC40454,Morphett Vale
+SSC40455,Morphettville
+SSC40456,Mount Barker (SA)
+SSC40457,Mount Barker Springs
+SSC40458,Mount Burr
+SSC40459,Mount Compass
+SSC40460,Mount Crawford
+SSC40461,Mount Gambier
+SSC40462,Mount George (SA)
+SSC40463,Mount Osmond
+SSC40464,Mount Pleasant (SA)
+SSC40465,Mount Schank
+SSC40466,Mount Torrens
+SSC40467,Mullaquana
+SSC40468,Mundulla
+SSC40469,Munno Para
+SSC40470,Munno Para Downs
+SSC40471,Munno Para West
+SSC40472,Murray Bridge
+SSC40473,Murray Bridge East
+SSC40474,Murtho
+SSC40475,Mylor
+SSC40476,Mypolonga
+SSC40477,Myponga
+SSC40478,Myrtle Bank (SA)
+SSC40479,Nailsworth
+SSC40480,Nairne
+SSC40481,Nangwarry
+SSC40482,Napperby
+SSC40483,Naracoorte
+SSC40484,Narrung (SA)
+SSC40485,Nelshaby
+SSC40486,Nene Valley
+SSC40487,Nepabunna
+SSC40488,Nepean Bay
+SSC40489,Netherby (SA)
+SSC40490,Netley
+SSC40491,New Port
+SSC40492,New Residence
+SSC40493,New Town (SA)
+SSC40494,Newton
+SSC40495,Ngarkat
+SSC40496,Nildottie
+SSC40497,Ninnes
+SSC40498,Noarlunga Centre
+SSC40499,Noarlunga Downs
+SSC40500,Nora Creina
+SSC40501,Normanville (SA)
+SSC40502,North Adelaide
+SSC40503,North Beach (SA)
+SSC40504,North Brighton
+SSC40505,North Haven (SA)
+SSC40506,North Moonta
+SSC40507,North Plympton
+SSC40508,North Shields
+SSC40509,Northern Heights
+SSC40510,Northfield
+SSC40511,Northgate (SA)
+SSC40512,Norton Summit
+SSC40513,Norwood (SA)
+SSC40514,Novar Gardens
+SSC40515,Nuriootpa
+SSC40516,O'Halloran Hill
+SSC40517,O'Sullivan Beach
+SSC40518,Oakbank
+SSC40519,Oakden
+SSC40520,Oaklands Park
+SSC40521,Ob Flat
+SSC40522,Old Calperum
+SSC40523,Old Noarlunga
+SSC40524,Old Reynella
+SSC40525,Olympic Dam
+SSC40526,One Tree Hill
+SSC40527,Onkaparinga Hills
+SSC40528,Oodnadatta
+SSC40529,Orroroo
+SSC40530,Osborne (SA)
+SSC40531,Ottoway
+SSC40532,Outer Harbor
+SSC40533,Ovingham
+SSC40534,Owen
+SSC40535,Padthaway
+SSC40536,Paechtown
+SSC40537,Paisley
+SSC40538,Palmer (SA)
+SSC40539,Panorama
+SSC40540,Para Hills
+SSC40541,Para Hills West
+SSC40542,Para Vista
+SSC40543,Paracombe
+SSC40544,Paradise (SA)
+SSC40545,Parafield
+SSC40546,Parafield Gardens
+SSC40547,Paralowie
+SSC40548,Parham
+SSC40549,Parilla
+SSC40550,Paringa
+SSC40551,Paris Creek
+SSC40552,Park Holme
+SSC40553,Parkside (SA)
+SSC40554,Parndana
+SSC40555,Parrakie
+SSC40556,Paruna
+SSC40557,Pasadena
+SSC40558,Paskeville
+SSC40559,Payneham
+SSC40560,Payneham South
+SSC40561,Peake
+SSC40562,Pekina
+SSC40563,Penfield
+SSC40564,Penfield Gardens
+SSC40565,Penneshaw
+SSC40566,Pennington
+SSC40567,Penola
+SSC40568,Penong
+SSC40569,Penrice
+SSC40570,Perlubie
+SSC40571,Peterborough (SA)
+SSC40572,Peterhead
+SSC40573,Piccadilly (SA)
+SSC40574,Pinks Beach
+SSC40575,Pinnaroo
+SSC40576,Plympton
+SSC40577,Plympton Park
+SSC40578,Point Lowly
+SSC40579,Point Pearce
+SSC40580,Point Turton
+SSC40581,Pooraka
+SSC40582,Port Adelaide
+SSC40583,Port Augusta
+SSC40584,Port Augusta West
+SSC40585,Port Broughton
+SSC40586,Port Elliot
+SSC40587,Port Flinders
+SSC40588,Port Germein
+SSC40589,Port Hughes
+SSC40590,Port Lincoln
+SSC40591,Port Macdonnell
+SSC40592,Port Mannum
+SSC40593,Port Moorowie
+SSC40594,Port Neill
+SSC40595,Port Noarlunga
+SSC40596,Port Noarlunga South
+SSC40597,Port Paterson
+SSC40598,Port Pirie
+SSC40599,Port Pirie South
+SSC40600,Port Pirie West
+SSC40601,Port Victoria
+SSC40602,Port Vincent
+SSC40603,Port Wakefield
+SSC40604,Port Willunga
+SSC40605,Price
+SSC40606,Prospect (SA)
+SSC40607,Prospect Hill
+SSC40608,Punyelroo
+SSC40609,Queenstown (SA)
+SSC40610,Quorn
+SSC40611,Redbanks
+SSC40612,Redhill
+SSC40613,Redwood Park
+SSC40614,Regency Park
+SSC40615,Renmark
+SSC40616,Renmark North
+SSC40617,Renmark South
+SSC40618,Renmark West
+SSC40619,Renown Park
+SSC40620,Reynella
+SSC40621,Reynella East
+SSC40622,Richmond (SA)
+SSC40623,Ridgehaven
+SSC40624,Ridleyton
+SSC40625,Risdon Park
+SSC40626,Risdon Park South
+SSC40627,Riverglades
+SSC40628,Riverton (SA)
+SSC40629,Robe
+SSC40630,Robertstown
+SSC40631,Rocky Camp
+SSC40632,Rose Park
+SSC40633,Rosewater
+SSC40634,Roseworthy
+SSC40635,Rosslyn Park
+SSC40636,Rostrevor
+SSC40637,Roxby Downs
+SSC40638,Royal Park
+SSC40639,Royston Park
+SSC40640,Rudall
+SSC40641,Saddleworth
+SSC40642,Salisbury (SA)
+SSC40643,Salisbury Downs
+SSC40644,Salisbury East
+SSC40645,Salisbury Heights
+SSC40646,Salisbury North
+SSC40647,Salisbury Park
+SSC40648,Salisbury Plain
+SSC40649,Salisbury South
+SSC40650,Sandy Creek (SA)
+SSC40651,Scott Creek
+SSC40652,Seacliff
+SSC40653,Seacliff Park
+SSC40654,Seacombe Gardens
+SSC40655,Seacombe Heights
+SSC40656,Seaford (SA)
+SSC40657,Seaford Meadows
+SSC40658,Seaford Rise
+SSC40659,Seaton (SA)
+SSC40660,Seaview Downs
+SSC40661,Sefton Park
+SSC40662,Sellicks Beach
+SSC40663,Sellicks Hill
+SSC40664,Semaphore
+SSC40665,Semaphore Park
+SSC40666,Semaphore South
+SSC40667,Sevenhill
+SSC40668,Shea-Oak Log
+SSC40669,Sheidow Park
+SSC40670,Sherwood (SA)
+SSC40671,Skye (SA)
+SSC40672,Smithfield (SA)
+SSC40673,Smithfield Plains
+SSC40674,Smoky Bay
+SSC40675,Snowtown
+SSC40676,Solomontown
+SSC40677,Somerton Park
+SSC40678,South Brighton
+SSC40679,South Plympton
+SSC40680,Southend
+SSC40681,Spalding (SA)
+SSC40682,Springfield (SA)
+SSC40683,Springton
+SSC40684,St Agnes (SA)
+SSC40685,St Georges
+SSC40686,St Marys (SA)
+SSC40687,St Morris
+SSC40688,St Peters (SA)
+SSC40689,Stanley Flat
+SSC40690,Stansbury
+SSC40691,Stepney
+SSC40692,Stirling (SA)
+SSC40693,Stirling North
+SSC40694,Stockport
+SSC40695,Stockwell
+SSC40696,Stonyfell
+SSC40697,Strathalbyn (SA)
+SSC40698,Streaky Bay
+SSC40699,Sturt (SA)
+SSC40700,Summertown
+SSC40701,Sunlands
+SSC40702,Sunnyside (SA)
+SSC40703,Surrey Downs
+SSC40704,Suttontown
+SSC40705,Swanport
+SSC40706,Tailem Bend
+SSC40707,Taldra
+SSC40708,Tantanoola
+SSC40709,Tanunda
+SSC40710,Taperoo
+SSC40711,Taplan
+SSC40712,Tarlee
+SSC40713,Tarpeena
+SSC40714,Tatachilla
+SSC40715,Taylorville
+SSC40716,Tea Tree Gully
+SSC40717,Tennyson (SA)
+SSC40718,Teringie
+SSC40719,Terowie
+SSC40720,Thebarton
+SSC40721,Thevenard
+SSC40722,Thompson Beach
+SSC40723,Tickera
+SSC40724,Tiddy Widdy Beach
+SSC40725,Tintinara
+SSC40726,Tooperang
+SSC40727,Toorak Gardens
+SSC40728,Torrens Park
+SSC40729,Torrensville
+SSC40730,Tranmere (SA)
+SSC40731,Trinity Gardens
+SSC40732,Trott Park
+SSC40733,Truro
+SSC40734,Tulka
+SSC40735,Tumby Bay
+SSC40736,Tungkillo
+SSC40737,Tusmore
+SSC40738,Two Wells
+SSC40739,Uleybury
+SSC40740,Underdale
+SSC40741,Ungarra
+SSC40742,Unley
+SSC40743,Unley Park
+SSC40744,Upper Hermitage
+SSC40745,Upper Sturt
+SSC40746,Uraidla
+SSC40747,Urrbrae
+SSC40748,Vale Park
+SSC40749,Valley View
+SSC40750,Venus Bay (SA)
+SSC40751,Verdun
+SSC40752,Victor Harbor
+SSC40753,Virginia (SA)
+SSC40754,Vista
+SSC40755,Vivonne Bay
+SSC40756,Waikerie
+SSC40757,Waitpinga
+SSC40758,Walker Flat
+SSC40759,Walkerville (SA)
+SSC40760,Walkley Heights
+SSC40761,Wallaroo (SA)
+SSC40762,Wallaroo Mines
+SSC40763,Wallaroo Plain
+SSC40764,Wami Kata
+SSC40765,Wanbi
+SSC40766,Wandearah East
+SSC40767,Wandilo
+SSC40768,Wangary
+SSC40769,Warburto
+SSC40770,Warnertown
+SSC40771,Warooka
+SSC40772,Warradale
+SSC40773,Warramboo
+SSC40774,Wasleys
+SSC40775,Waterloo (SA)
+SSC40776,Waterloo Corner
+SSC40777,Watervale
+SSC40778,Wattle Park
+SSC40779,Wattle Range
+SSC40780,Wauraltee
+SSC40781,Wayville
+SSC40782,Welland
+SSC40783,Wellington (SA)
+SSC40784,Wellington East
+SSC40785,West Beach (SA)
+SSC40786,West Croydon
+SSC40787,West Hindmarsh
+SSC40788,West Lakes
+SSC40789,West Lakes Shore
+SSC40790,West Richmond
+SSC40791,Westbourne Park
+SSC40792,Western Flat
+SSC40793,Whites Valley
+SSC40794,Whitwarta
+SSC40795,Whyalla
+SSC40796,Whyalla Jenkins
+SSC40797,Whyalla Norrie
+SSC40798,Whyalla Playford
+SSC40799,Whyalla Stuart
+SSC40800,Wild Dog Valley (SA)
+SSC40801,Willalooka
+SSC40802,Willaston
+SSC40803,Williamstown (SA)
+SSC40804,Willunga
+SSC40805,Willunga Hill
+SSC40806,Willunga South
+SSC40807,Willyaroo
+SSC40808,Wilmington
+SSC40809,Windsor (SA)
+SSC40810,Windsor Gardens
+SSC40811,Wingfield
+SSC40812,Winkie
+SSC40813,Wirrabara
+SSC40814,Wirrina Cove
+SSC40815,Wistow
+SSC40816,Wolseley
+SSC40817,Woodchester
+SSC40818,Woodcroft (SA)
+SSC40819,Woodforde
+SSC40820,Woodleigh (SA)
+SSC40821,Woods Point (SA)
+SSC40822,Woodside (SA)
+SSC40823,Woodville (SA)
+SSC40824,Woodville Gardens
+SSC40825,Woodville North
+SSC40826,Woodville Park
+SSC40827,Woodville South
+SSC40828,Woodville West
+SSC40829,Wool Bay
+SSC40830,Woomera
+SSC40831,Worrolong
+SSC40832,Wudinna
+SSC40833,Wunkar
+SSC40834,Wynn Vale
+SSC40835,Yacka
+SSC40836,Yahl
+SSC40837,Yalata
+SSC40838,Yankalilla
+SSC40839,Yatala Vale
+SSC40840,Yattalunga (SA)
+SSC40841,Yeelanna
+SSC40842,Yongala
+SSC40843,Yorketown
+SSC40844,Younghusband
+SSC40845,Yumali
+SSC40846,Yunta
+SSC49191,Unclassified (SA)
+SSC49494,No Usual Address (SA)
+SSC49797,Migratory - Offshore - Shipping (SA)
+SSC50001,Abbey
+SSC50002,Acton Park (WA)
+SSC50003,Ajana
+SSC50004,Albany
+SSC50005,Alexander Heights
+SSC50006,Alfred Cove
+SSC50007,Allanson
+SSC50008,Ambergate
+SSC50009,Amelup
+SSC50010,Anketell
+SSC50011,Applecross
+SSC50012,Ardross
+SSC50013,Argyle (WA)
+SSC50014,Armadale (WA)
+SSC50015,Arrowsmith East
+SSC50016,Arthur River (WA)
+SSC50017,Ascot (WA)
+SSC50018,Ashby (WA)
+SSC50019,Ashfield (WA)
+SSC50020,Attadale
+SSC50021,Atwell
+SSC50022,Aubin Grove
+SSC50023,Augusta
+SSC50024,Australind
+SSC50025,Aveley
+SSC50026,Avon Valley National Park
+SSC50027,Badgingarra
+SSC50028,Bakers Hill
+SSC50029,Balcatta
+SSC50030,Baldivis
+SSC50031,Balga
+SSC50032,Balingup
+SSC50033,Ballajura
+SSC50034,Bally Bally
+SSC50035,Bandy Creek
+SSC50036,Banjup
+SSC50037,Banksia Grove
+SSC50038,Barragup
+SSC50039,Baskerville
+SSC50040,Bassendean (WA)
+SSC50041,Bateman
+SSC50042,Baudin
+SSC50043,Baynton (WA)
+SSC50044,Bayonet Head
+SSC50045,Bayswater (WA)
+SSC50046,Beachlands
+SSC50047,Beacon
+SSC50048,Beaconsfield (WA)
+SSC50049,Beckenham
+SSC50050,Bedford
+SSC50051,Bedfordale
+SSC50052,Beechboro
+SSC50053,Beeliar
+SSC50054,Bejoording
+SSC50055,Beldon
+SSC50056,Belhus
+SSC50057,Bellevue (WA)
+SSC50058,Belmont (WA)
+SSC50059,Bencubbin
+SSC50060,Bentley (WA)
+SSC50061,Beresford
+SSC50062,Bertram
+SSC50063,Beverley (WA)
+SSC50064,Bibra Lake
+SSC50065,Bickley
+SSC50066,Bicton
+SSC50067,Big Grove
+SSC50068,Bilingurr
+SSC50069,Bindi Bindi
+SSC50070,Bindoon
+SSC50071,Binningup
+SSC50072,Bluff Point
+SSC50073,Boddington
+SSC50074,Bolgart
+SSC50075,Bonniefield
+SSC50076,Boodarie
+SSC50077,Booragoon
+SSC50078,Boranup
+SSC50079,Boulder
+SSC50080,Bouvard
+SSC50081,Bovell
+SSC50082,Bowes
+SSC50083,Boya
+SSC50084,Boyanup
+SSC50085,Boyup Brook
+SSC50086,Bremer Bay
+SSC50087,Brentwood (WA)
+SSC50088,Bridgetown
+SSC50089,Brigadoon
+SSC50090,Broadwater (WA)
+SSC50091,Broadwood
+SSC50092,Brockman
+SSC50093,Brookdale (WA)
+SSC50094,Brookhampton
+SSC50095,Brookton
+SSC50096,Broome
+SSC50097,Broomehill East
+SSC50098,Broomehill Village
+SSC50099,Broomehill West
+SSC50100,Brown Range
+SSC50101,Bruce Rock
+SSC50102,Brunswick (WA)
+SSC50103,Bulgarra
+SSC50104,Bull Creek (WA)
+SSC50105,Bullaring
+SSC50106,Bullfinch
+SSC50107,Bullsbrook
+SSC50108,Bunbury (WA)
+SSC50109,Bunjil
+SSC50110,Buntine
+SSC50111,Burekup
+SSC50112,Burns Beach
+SSC50113,Burracoppin
+SSC50114,Burrup
+SSC50115,Burswood
+SSC50116,Busselton
+SSC50117,Butler (WA)
+SSC50118,Byford
+SSC50119,Cable Beach
+SSC50120,Cadoux
+SSC50121,Calingiri
+SSC50122,Calista
+SSC50123,Camballin
+SSC50124,Camillo
+SSC50125,Canna
+SSC50126,Canning Mills
+SSC50127,Canning Vale
+SSC50128,Cannington
+SSC50129,Cape Burney
+SSC50130,Capel
+SSC50131,Carabooda
+SSC50132,Carbunup River
+SSC50133,Cardiff (WA)
+SSC50134,Cardup
+SSC50135,Carey Park
+SSC50136,Carine
+SSC50137,Carlisle
+SSC50138,Carmel
+SSC50139,Carnamah
+SSC50140,Carnarvon
+SSC50141,Carramar (WA)
+SSC50142,Carrarang
+SSC50143,Castletown
+SSC50144,Casuarina (WA)
+SSC50145,Catterick
+SSC50146,Caversham
+SSC50147,Centennial Park (WA)
+SSC50148,Cervantes
+SSC50149,Chadwick
+SSC50150,Champion Lakes
+SSC50151,Changerup
+SSC50152,Chapman Hill
+SSC50153,Chidlow
+SSC50154,Chittering
+SSC50155,Churchlands
+SSC50156,City Beach
+SSC50157,Clackline
+SSC50158,Claremont (WA)
+SSC50159,Clarkson
+SSC50160,Cloverdale
+SSC50161,Cockburn Central
+SSC50162,College Grove
+SSC50163,Collie (WA)
+SSC50164,Collingwood Heights
+SSC50165,Collingwood Park (WA)
+SSC50166,Como (WA)
+SSC50167,Condingup
+SSC50168,Connolly
+SSC50169,Coodanup
+SSC50170,Coogee (WA)
+SSC50171,Cookernup
+SSC50172,Cooladar Hill
+SSC50173,Coolbellup
+SSC50174,Coolbinia
+SSC50175,Coolgardie (WA)
+SSC50176,Cooloongup
+SSC50177,Coolup
+SSC50178,Coomalbidgup
+SSC50179,Coondle
+SSC50180,Coorow
+SSC50181,Coral Bay
+SSC50182,Corrigin
+SSC50183,Cosmo Newbery
+SSC50184,Cottesloe
+SSC50185,Cowaramup
+SSC50186,Craigie (WA)
+SSC50187,Cranbrook (WA)
+SSC50188,Crawley
+SSC50189,Cuballing
+SSC50190,Cue
+SSC50191,Cullacabardee
+SSC50192,Cundeelee
+SSC50193,Cunderdin
+SSC50194,Currambine
+SSC50195,Cuthbert
+SSC50196,Daglish
+SSC50197,Dale
+SSC50198,Dalkeith
+SSC50199,Dalwallinu
+SSC50200,Dalyellup
+SSC50201,Dampier
+SSC50202,Dampier Peninsula
+SSC50203,Dandaragan
+SSC50204,Dangin
+SSC50205,Darch
+SSC50206,Dardanup
+SSC50207,Dardanup West
+SSC50208,Darkan
+SSC50209,Darling Downs
+SSC50210,Darlington (WA)
+SSC50211,Davenport (WA)
+SSC50212,Dawesville
+SSC50213,Deanmill
+SSC50214,Deepdale
+SSC50215,Denham
+SSC50216,Denmark
+SSC50217,Derby (WA)
+SSC50218,Dianella
+SSC50219,Dingup
+SSC50220,Dinninup
+SSC50221,Djugun
+SSC50222,Dongara
+SSC50223,Donnybrook (WA)
+SSC50224,Doubleview
+SSC50225,Dowerin
+SSC50226,Drummond Cove
+SSC50227,Dudley Park (WA)
+SSC50228,Dumbarton
+SSC50229,Dumberning
+SSC50230,Dumbleyung
+SSC50231,Duncraig
+SSC50232,Dunsborough
+SSC50233,Durack (WA)
+SSC50234,Dwellingup
+SSC50235,Eagle Bay
+SSC50236,East Bunbury
+SSC50237,East Cannington
+SSC50238,East Carnarvon
+SSC50239,East Fremantle
+SSC50240,East Perth
+SSC50241,East Pingelly
+SSC50242,East Rockingham
+SSC50243,East Victoria Park
+SSC50244,Eastbrook
+SSC50245,Eaton (WA)
+SSC50246,Eden Hill
+SSC50247,Edgewater
+SSC50248,Elgin (WA)
+SSC50249,Elleker
+SSC50250,Ellenbrook
+SSC50251,Embleton
+SSC50252,Emu Point
+SSC50253,Eneabba
+SSC50254,Erskine (WA)
+SSC50255,Esperance
+SSC50256,Eucla
+SSC50257,Exmouth
+SSC50258,Falcon
+SSC50259,Ferguson (WA)
+SSC50260,Ferndale (WA)
+SSC50261,Fimiston
+SSC50262,Fitzgerald River National Park
+SSC50263,Fitzroy Crossing
+SSC50264,Floreat
+SSC50265,Forest Grove (WA)
+SSC50266,Forrestdale
+SSC50267,Forrestfield
+SSC50268,Frankland River
+SSC50269,Fremantle
+SSC50270,Furnissdale
+SSC50271,Gabbadah
+SSC50272,Gap Ridge
+SSC50273,Garden Island (WA)
+SSC50274,Gascoyne Junction
+SSC50275,Gascoyne River
+SSC50276,Gelorup
+SSC50277,Geographe
+SSC50278,Geraldton
+SSC50279,Gibson
+SSC50280,Gibson Desert North
+SSC50281,Gibson Desert South
+SSC50282,Gidgegannup
+SSC50283,Gilgering
+SSC50284,Gingin
+SSC50285,Ginginup
+SSC50286,Girrawheen
+SSC50287,Gledhow
+SSC50288,Glen Forrest
+SSC50289,Glen Iris (WA)
+SSC50290,Glendalough
+SSC50291,Glenfield (WA)
+SSC50292,Gnangara
+SSC50293,Gnarabup
+SSC50294,Gnowangerup
+SSC50295,Golden Bay
+SSC50296,Goode Beach
+SSC50297,Goomalling
+SSC50298,Gooseberry Hill
+SSC50299,Gosnells
+SSC50300,Gracetown
+SSC50301,Grass Patch
+SSC50302,Grass Valley
+SSC50303,Green Head
+SSC50304,Greenbushes
+SSC50305,Greenfields
+SSC50306,Greenmount (WA)
+SSC50307,Greenough
+SSC50308,Greenwood (WA)
+SSC50309,Greys Plain
+SSC50310,Guilderton
+SSC50311,Guildford (WA)
+SSC50312,Gwelup
+SSC50313,Halls Creek (WA)
+SSC50314,Halls Head
+SSC50315,Hamel
+SSC50316,Hamersley
+SSC50317,Hamilton Hill
+SSC50318,Hammond Park
+SSC50319,Hannans
+SSC50320,Harrisdale
+SSC50321,Harvey
+SSC50322,Hay (WA)
+SSC50323,Haynes
+SSC50324,Hazelmere
+SSC50325,Heathridge
+SSC50326,Helena Valley
+SSC50327,Henderson
+SSC50328,Henley Brook
+SSC50329,Herdsman
+SSC50330,Herne Hill (WA)
+SSC50331,Herron
+SSC50332,High Wycombe
+SSC50333,Highbury (WA)
+SSC50334,Highgate (WA)
+SSC50335,Hilbert
+SSC50336,Hillarys
+SSC50337,Hillman
+SSC50338,Hilton (WA)
+SSC50339,Hines Hill
+SSC50340,Hocking
+SSC50341,Hope Valley (WA)
+SSC50342,Hopeland (WA)
+SSC50343,Hopetoun (WA)
+SSC50344,Horrocks
+SSC50345,Houtman Abrolhos
+SSC50346,Hovea
+SSC50347,Howatharra
+SSC50348,Huntingdale (WA)
+SSC50349,Hyden
+SSC50350,Iluka (WA)
+SSC50351,Inglewood (WA)
+SSC50352,Innaloo
+SSC50353,Irishtown (WA)
+SSC50354,Jalbarragup
+SSC50355,Jandabup
+SSC50356,Jandakot
+SSC50357,Jane Brook
+SSC50358,Jarrahdale
+SSC50359,Jerdacuttup
+SSC50360,Jerramungup
+SSC50361,Jindalee (WA)
+SSC50362,Jolimont
+SSC50363,Joondalup
+SSC50364,Joondanna
+SSC50365,Julimar
+SSC50366,Jurien Bay
+SSC50367,Kalamunda
+SSC50368,Kalannie
+SSC50369,Kalbarri
+SSC50370,Kalgan
+SSC50371,Kalgoorlie
+SSC50372,Kallaroo
+SSC50373,Kalumburu
+SSC50374,Kambalda East
+SSC50375,Kambalda West
+SSC50376,Kangaroo Gully
+SSC50377,Karawara
+SSC50378,Kardinya
+SSC50379,Karlgarin
+SSC50380,Karlkurla
+SSC50381,Karloo
+SSC50382,Karnup
+SSC50383,Karragullen
+SSC50384,Karrakatta
+SSC50385,Karrakup
+SSC50386,Karratha
+SSC50387,Karratha Industrial Estate
+SSC50388,Karridale
+SSC50389,Karrinyup
+SSC50390,Katanning
+SSC50391,Kellerberrin
+SSC50392,Kelmscott
+SSC50393,Kendenup
+SSC50394,Kensington (WA)
+SSC50395,Kenwick
+SSC50396,Keralup
+SSC50397,Kewdale
+SSC50398,Keysbrook
+SSC50399,Kiara
+SSC50400,King Leopold Ranges
+SSC50401,King River
+SSC50402,Kingsford (WA)
+SSC50403,Kingsley
+SSC50404,Kinross
+SSC50405,Kojonup
+SSC50406,Kondinin
+SSC50407,Konnongorring
+SSC50408,Koondoola
+SSC50409,Koongamia
+SSC50410,Koorda
+SSC50411,Kordabup
+SSC50412,Kronkup
+SSC50413,Kuender
+SSC50414,Kukerin
+SSC50415,Kulin
+SSC50416,Kulin West
+SSC50417,Kununurra
+SSC50418,Kwinana Town Centre
+SSC50419,Lagrange
+SSC50420,Lake Austin
+SSC50421,Lake Clifton
+SSC50422,Lake Grace
+SSC50423,Lake King
+SSC50424,Lakelands (WA)
+SSC50425,Lamington (WA)
+SSC50426,Lancelin
+SSC50427,Landsdale
+SSC50428,Lange
+SSC50429,Langford
+SSC50430,Lathlain
+SSC50431,Laverton (WA)
+SSC50432,Leda
+SSC50433,Ledge Point
+SSC50434,Leederville
+SSC50435,Leeman
+SSC50436,Leeming
+SSC50437,Leeuwin
+SSC50438,Leinster
+SSC50439,Leonora
+SSC50440,Leschenault
+SSC50441,Lesley
+SSC50442,Lesmurdie
+SSC50443,Little Grove
+SSC50444,Lockridge
+SSC50445,Lockyer (WA)
+SSC50446,Lowden
+SSC50447,Lower Chittering
+SSC50448,Lower King
+SSC50449,Ludlow
+SSC50450,Lumeah (WA)
+SSC50451,Lynwood (WA)
+SSC50452,Macleod (WA)
+SSC50453,Maddington
+SSC50454,Madeley
+SSC50455,Madora Bay
+SSC50456,Mahogany Creek
+SSC50457,Mahomets Flats
+SSC50458,Maida Vale
+SSC50459,Malaga
+SSC50460,Mandogalup
+SSC50461,Mandurah
+SSC50462,Manjimup
+SSC50463,Manmanning
+SSC50464,Manning
+SSC50465,Manypeaks
+SSC50466,Marangaroo
+SSC50467,Marbelup
+SSC50468,Marble Bar
+SSC50469,Mardella
+SSC50470,Mardie
+SSC50471,Margaret River (WA)
+SSC50472,Mariginiup
+SSC50473,Marmion
+SSC50474,Marradong
+SSC50475,Martin
+SSC50476,Marvel Loch
+SSC50477,Marybrook
+SSC50478,Mayanup
+SSC50479,Maylands (WA)
+SSC50480,McKail
+SSC50481,Meadow Springs
+SSC50482,Meckering
+SSC50483,Medina
+SSC50484,Meekatharra
+SSC50485,Meelon
+SSC50486,Meerup
+SSC50487,Melaleuca
+SSC50488,Melville (WA)
+SSC50489,Menora
+SSC50490,Menzies (WA)
+SSC50491,Merredin
+SSC50492,Merriwa (WA)
+SSC50493,Middle Swan
+SSC50494,Middlesex (WA)
+SSC50495,Middleton Beach
+SSC50496,Midland
+SSC50497,Midvale
+SSC50498,Miling
+SSC50499,Millars Well
+SSC50500,Millbridge
+SSC50501,Millbrook (WA)
+SSC50502,Millendon
+SSC50503,Milpara
+SSC50504,Mindarie (WA)
+SSC50505,Mingenew
+SSC50506,Minnenooka
+SSC50507,Minyirr
+SSC50508,Mira Mar
+SSC50509,Mirrabooka (WA)
+SSC50510,Mokine
+SSC50511,Molloy Island
+SSC50512,Monjingup
+SSC50513,Moonyoonooka
+SSC50514,Moora (WA)
+SSC50515,Moorine Rock
+SSC50516,Morangup
+SSC50517,Morawa
+SSC50518,Moresby (WA)
+SSC50519,Morgantown
+SSC50520,Morley
+SSC50521,Mosman Park (WA)
+SSC50522,Mount Barker (WA)
+SSC50523,Mount Burges
+SSC50524,Mount Claremont
+SSC50525,Mount Clarence
+SSC50526,Mount Hardey
+SSC50527,Mount Hardman
+SSC50528,Mount Hawthorn
+SSC50529,Mount Helena
+SSC50530,Mount Lawley
+SSC50531,Mount Lindesay (WA)
+SSC50532,Mount Magnet
+SSC50533,Mount Melville
+SSC50534,Mount Nasura
+SSC50535,Mount Pleasant (WA)
+SSC50536,Mount Richon
+SSC50537,Mount Romance
+SSC50538,Mount Tarcoola
+SSC50539,Mount Walker (WA)
+SSC50540,Muchea
+SSC50541,Muckenburra
+SSC50542,Mueller Ranges
+SSC50543,Mukinbudin
+SSC50544,Mulataga
+SSC50545,Mullaloo
+SSC50546,Mullalyup
+SSC50547,Mullewa
+SSC50548,Mullingar
+SSC50549,Muluckine
+SSC50550,Mundaring
+SSC50551,Mundijong
+SSC50552,Munster
+SSC50553,Muradup
+SSC50554,Murdoch
+SSC50555,Myalup
+SSC50556,Myaree
+SSC50557,Myrup
+SSC50558,Nabawa
+SSC50559,Nambeelup
+SSC50560,Nanga Brook
+SSC50561,Nannup
+SSC50562,Nanutarra
+SSC50563,Napier
+SSC50564,Narembeen
+SSC50565,Narrikup
+SSC50566,Narrogin
+SSC50567,Narrogin Valley
+SSC50568,Naval Base
+SSC50569,Nedlands
+SSC50570,Neerabup
+SSC50571,Neergabby
+SSC50572,Neridup
+SSC50573,New Norcia
+SSC50574,Newcarlbeon
+SSC50575,Newdegate
+SSC50576,Newman
+SSC50577,Ngaanyatjarra-Giles
+SSC50578,Nickol
+SSC50579,Nilgen
+SSC50580,Nollamara
+SSC50581,Noranda
+SSC50582,Norseman
+SSC50583,North Beach (WA)
+SSC50584,North Boyanup
+SSC50585,North Coogee
+SSC50586,North Dandalup
+SSC50587,North Fremantle
+SSC50588,North Greenbushes
+SSC50589,North Lake
+SSC50590,North Perth
+SSC50591,North Plantations
+SSC50592,North West Cape
+SSC50593,North Yunderup
+SSC50594,Northam
+SSC50595,Northampton
+SSC50596,Northbridge (WA)
+SSC50597,Northcliffe
+SSC50598,Nowergup
+SSC50599,Nullagine
+SSC50600,Nulsen
+SSC50601,Nungarin
+SSC50602,Nyabing
+SSC50603,O'Connor (WA)
+SSC50604,Oakford
+SSC50605,Ocean Beach
+SSC50606,Ocean Reef
+SSC50607,Oldbury
+SSC50608,Ongerup
+SSC50609,Onslow
+SSC50610,Oombulgurri
+SSC50611,Orana
+SSC50612,Orange Grove (WA)
+SSC50613,Ord River
+SSC50614,Orelia
+SSC50615,Osborne Park
+SSC50616,Osmington
+SSC50617,Padbury
+SSC50618,Pallinup
+SSC50619,Palmyra (WA)
+SSC50620,Pannawonica
+SSC50621,Paraburdoo
+SSC50622,Paradise (WA)
+SSC50623,Pardoo
+SSC50624,Parkerville
+SSC50625,Parkeston
+SSC50626,Parklands (WA)
+SSC50627,Parkwood (WA)
+SSC50628,Parmelia
+SSC50629,Peaceful Bay
+SSC50630,Peak Hill (WA)
+SSC50631,Pearsall
+SSC50632,Pegs Creek
+SSC50633,Pelican Point (WA)
+SSC50634,Pemberton
+SSC50635,Peppermint Grove
+SSC50636,Peppermint Grove Beach
+SSC50637,Perenjori
+SSC50638,Peron
+SSC50639,Perth (WA)
+SSC50640,Perth Airport
+SSC50641,Piara Waters
+SSC50642,Piccadilly (WA)
+SSC50643,Pickering Brook
+SSC50644,Picton East
+SSC50645,Piesse Brook
+SSC50646,Piesseville
+SSC50647,Pingaring
+SSC50648,Pingelly
+SSC50649,Pingrup
+SSC50650,Pinjarra
+SSC50651,Pink Lake
+SSC50652,Pithara
+SSC50653,Plumridge Lakes
+SSC50654,Point Samson
+SSC50655,Popanyinning
+SSC50656,Porongurup
+SSC50657,Port Denison
+SSC50658,Port Hedland
+SSC50659,Port Kennedy
+SSC50660,Preston Beach
+SSC50661,Preston Settlement
+SSC50662,Prevelly
+SSC50663,Quairading
+SSC50664,Quedjinup
+SSC50665,Queens Park (WA)
+SSC50666,Quindalup
+SSC50667,Quinninup
+SSC50668,Quinns Rocks
+SSC50669,Ranford
+SSC50670,Rangeway
+SSC50671,Ravensthorpe
+SSC50672,Ravenswood (WA)
+SSC50673,Red Hill (WA)
+SSC50674,Redcliffe (WA)
+SSC50675,Redmond
+SSC50676,Reinscourt
+SSC50677,Ridgewood (WA)
+SSC50678,Riverton (WA)
+SSC50679,Rivervale
+SSC50680,Robinson
+SSC50681,Rockingham (WA)
+SSC50682,Rocky Gully (WA)
+SSC50683,Roebourne
+SSC50684,Roebuck
+SSC50685,Roelands
+SSC50686,Roleystone
+SSC50687,Rosa Glen
+SSC50688,Rossmoyne
+SSC50689,Rottnest Island
+SSC50690,Rudds Gully
+SSC50691,Safety Bay
+SSC50692,Salmon Gums
+SSC50693,Salter Point
+SSC50694,Samson
+SSC50695,San Remo (WA)
+SSC50696,Sandstone
+SSC50697,Sawyers Valley
+SSC50698,Scarborough (WA)
+SSC50699,Scotsdale
+SSC50700,Seabird
+SSC50701,Secret Harbour
+SSC50702,Serpentine (WA)
+SSC50703,Seville Grove
+SSC50704,Shackleton
+SSC50705,Shadforth (WA)
+SSC50706,Shelley (WA)
+SSC50707,Shenton Park
+SSC50708,Shoalwater (WA)
+SSC50709,Silver Sands
+SSC50710,Sinagra
+SSC50711,Sinclair
+SSC50712,Singleton (WA)
+SSC50713,Somerville (WA)
+SSC50714,Sorrento (WA)
+SSC50715,South Boulder
+SSC50716,South Bunbury
+SSC50717,South Carnarvon
+SSC50718,South Fremantle
+SSC50719,South Guildford
+SSC50720,South Hedland
+SSC50721,South Kalgoorlie
+SSC50722,South Kumminin
+SSC50723,South Lake
+SSC50724,South Murchison
+SSC50725,South Perth
+SSC50726,South Plantations
+SSC50727,South Tammin
+SSC50728,South Yilgarn
+SSC50729,South Yunderup
+SSC50730,Southern Brook
+SSC50731,Southern Cross (WA)
+SSC50732,Southern River
+SSC50733,Spalding (WA)
+SSC50734,Spearwood
+SSC50735,Spencer Park
+SSC50736,Springfield (WA)
+SSC50737,St George Ranges
+SSC50738,St James (WA)
+SSC50739,Stake Hill
+SSC50740,Stirling (WA)
+SSC50741,Stirling Range National Park
+SSC50742,Stoneville
+SSC50743,Stove Hill
+SSC50744,Strathalbyn (WA)
+SSC50745,Stratham
+SSC50746,Stratton
+SSC50747,Sturt Creek
+SSC50748,Subiaco
+SSC50749,Success
+SSC50750,Sunset Beach
+SSC50751,Swan View
+SSC50752,Swanbourne
+SSC50753,Tamala Park
+SSC50754,Tambellup
+SSC50755,Tammin
+SSC50756,Tanami (WA)
+SSC50757,Tapping
+SSC50758,Tarcoola Beach
+SSC50759,Tardun
+SSC50760,Telfer
+SSC50761,Tenterden (WA)
+SSC50762,The Lakes
+SSC50763,The Spectacles
+SSC50764,The Vines
+SSC50765,Thornlie
+SSC50766,Three Springs
+SSC50767,Tom Price
+SSC50768,Toodyay
+SSC50769,Toolibin
+SSC50770,Torbay
+SSC50771,Torndirrup
+SSC50772,Trayning
+SSC50773,Trent
+SSC50774,Trigg
+SSC50775,Tuart Hill
+SSC50776,Tutunup
+SSC50777,Two Rocks
+SSC50778,Uduc
+SSC50779,Upper Capel
+SSC50780,Upper Swan
+SSC50781,Usher
+SSC50782,Utakarra
+SSC50783,Vasse
+SSC50784,Victoria Park
+SSC50785,Victory Heights (WA)
+SSC50786,Vittoria (WA)
+SSC50787,Viveash
+SSC50788,Waggrakine
+SSC50789,Wagin
+SSC50790,Waikiki
+SSC50791,Walkaway
+SSC50792,Walliston
+SSC50793,Walmsley
+SSC50794,Walpole
+SSC50795,Walyunga National Park
+SSC50796,Wandering
+SSC50797,Wandi
+SSC50798,Wandina
+SSC50799,Wanerie
+SSC50800,Wangara
+SSC50801,Wannamal
+SSC50802,Wannanup
+SSC50803,Wanneroo
+SSC50804,Warburton (WA)
+SSC50805,Warmun
+SSC50806,Warnbro
+SSC50807,Waroona
+SSC50808,Warradarge
+SSC50809,Warrenup
+SSC50810,Warwick (WA)
+SSC50811,Waterbank
+SSC50812,Waterford (WA)
+SSC50813,Watermans Bay
+SSC50814,Watheroo
+SSC50815,Wattle Grove (WA)
+SSC50816,Wattleup
+SSC50817,Webberton
+SSC50818,Wedge Island
+SSC50819,Wedgefield
+SSC50820,Wellard
+SSC50821,Wellstead
+SSC50822,Welshpool (WA)
+SSC50823,Wembley
+SSC50824,Wembley Downs
+SSC50825,West Beach (WA)
+SSC50826,West Busselton
+SSC50827,West End (WA)
+SSC50828,West Lamington
+SSC50829,West Leederville
+SSC50830,West Perth
+SSC50831,West Pinjarra
+SSC50832,West Swan
+SSC50833,West Toodyay
+SSC50834,Westminster
+SSC50835,Westonia
+SSC50836,White Gum Valley
+SSC50837,White Peak
+SSC50838,Whiteman
+SSC50839,Wickepin
+SSC50840,Wickham (WA)
+SSC50841,Wilberforce (WA)
+SSC50842,Willagee
+SSC50843,Willare
+SSC50844,Willetton
+SSC50845,Williams
+SSC50846,Williamstown (WA)
+SSC50847,Willyung
+SSC50848,Wilson
+SSC50849,Wiluna
+SSC50850,Wilyabrup
+SSC50851,Windabout
+SSC50852,Winthrop
+SSC50853,Witchcliffe
+SSC50854,Withers
+SSC50855,Wokalup
+SSC50856,Wongan Hills
+SSC50857,Wonthella
+SSC50858,Woodanilling
+SSC50859,Woodbridge (WA)
+SSC50860,Woodlands (WA)
+SSC50861,Woodridge (WA)
+SSC50862,Woodvale (WA)
+SSC50863,Wooroloo
+SSC50864,Woorree
+SSC50865,Wundowie
+SSC50866,Wungong
+SSC50867,Wyalkatchem
+SSC50868,Wyndham (WA)
+SSC50869,Yabberup
+SSC50870,Yakamia
+SSC50871,Yalgoo
+SSC50872,Yallabatharra
+SSC50873,Yallingup
+SSC50874,Yallingup Siding
+SSC50875,Yalyalup
+SSC50876,Yanchep
+SSC50877,Yandanooka
+SSC50878,Yangebup
+SSC50879,Yanmah
+SSC50880,Yarloop
+SSC50881,Yeagarup
+SSC50882,Yealering
+SSC50883,Yokine
+SSC50884,York
+SSC50885,Yornup
+SSC50886,Youngs Siding
+SSC50887,Yourdamung Lake
+SSC59494,No Usual Address (WA)
+SSC59797,Migratory - Offshore - Shipping (WA)
+SSC60001,Aberdeen (Tas.)
+SSC60002,Acacia Hills (Tas.)
+SSC60003,Acton (Tas.)
+SSC60004,Acton Park (Tas.)
+SSC60005,Adventure Bay
+SSC60006,Akaroa
+SSC60007,Allens Rivulet
+SSC60008,Ambleside
+SSC60009,Ansons Bay
+SSC60010,Arthur River (Tas.)
+SSC60011,Austins Ferry
+SSC60012,Avoca (Tas.)
+SSC60013,Bagdad
+SSC60014,Bakers Beach
+SSC60015,Barrington (Tas.)
+SSC60016,Battery Point
+SSC60017,Beaconsfield (Tas.)
+SSC60018,Beaumaris (Tas.)
+SSC60019,Beauty Point
+SSC60020,Beechford
+SSC60021,Bell Bay
+SSC60022,Bellerive
+SSC60023,Bellingham
+SSC60024,Berriedale
+SSC60025,Bicheno
+SSC60026,Binalong Bay
+SSC60027,Birchs Bay
+SSC60028,Birralee
+SSC60029,Blackmans Bay
+SSC60030,Blackstone Heights
+SSC60031,Blackwall (Tas.)
+SSC60032,Boat Harbour Beach
+SSC60033,Bonnet Hill
+SSC60034,Boomer Bay
+SSC60035,Bothwell
+SSC60036,Bracknell
+SSC60037,Branxholm
+SSC60038,Bridgenorth
+SSC60039,Bridgewater (Tas.)
+SSC60040,Bridport
+SSC60041,Brighton (Tas.)
+SSC60042,Broadmarsh
+SSC60043,Brooklyn (Tas.)
+SSC60044,Burnie
+SSC60045,Bushy Park (Tas.)
+SSC60046,Calder
+SSC60047,Cambridge (Tas.)
+SSC60048,Campania
+SSC60049,Campbell Town
+SSC60050,Cape Barren Island
+SSC60051,Carlton (Tas.)
+SSC60052,Carrick (Tas.)
+SSC60053,Caveside
+SSC60054,Chigwell
+SSC60055,Chudleigh
+SSC60056,Claremont (Tas.)
+SSC60057,Clarence Point
+SSC60058,Clarendon Vale
+SSC60059,Claude Road
+SSC60060,Clifton Beach (Tas.)
+SSC60061,Colebrook
+SSC60062,Coles Bay
+SSC60063,Collinsvale
+SSC60064,Conara
+SSC60065,Coningham
+SSC60066,Connellys Marsh
+SSC60067,Cooee
+SSC60068,Crabtree
+SSC60069,Cradoc
+SSC60070,Cremorne (Tas.)
+SSC60071,Cressy (Tas.)
+SSC60072,Cuprona
+SSC60073,Currie
+SSC60074,Cygnet
+SSC60075,Deddington
+SSC60076,Deep Bay
+SSC60077,Deloraine
+SSC60078,Dennes Point
+SSC60079,Derby (Tas.)
+SSC60080,Derwent Park
+SSC60081,Deviot
+SSC60082,Devon Hills
+SSC60083,Devonport
+SSC60084,Dilston
+SSC60085,Dodges Ferry
+SSC60086,Dolphin Sands
+SSC60087,Don
+SSC60088,Douglas-Apsley
+SSC60089,Dover
+SSC60090,Downlands
+SSC60091,Dowsing Point
+SSC60092,Dromedary (Tas.)
+SSC60093,Dulcot
+SSC60094,Dunalley
+SSC60095,Dynnyrne
+SSC60096,Dysart (Tas.)
+SSC60097,Eaglehawk Neck
+SSC60098,East Cam
+SSC60099,East Devonport
+SSC60100,East Launceston
+SSC60101,Eggs And Bacon Bay
+SSC60102,Electrona
+SSC60103,Elizabeth Town
+SSC60104,Ellendale (Tas.)
+SSC60105,Elliott (Tas.)
+SSC60106,Emu Heights (Tas.)
+SSC60107,Evandale (Tas.)
+SSC60108,Exeter (Tas.)
+SSC60109,Falmouth
+SSC60110,Fern Tree
+SSC60111,Fingal (Tas.)
+SSC60112,Florentine
+SSC60113,Flowerdale (Tas.)
+SSC60114,Forcett
+SSC60115,Forest
+SSC60116,Forth
+SSC60117,Frankford
+SSC60118,Franklin (Tas.)
+SSC60119,Gagebrook
+SSC60120,Garden Island Creek
+SSC60121,Gardners Bay
+SSC60122,Gawler (Tas.)
+SSC60123,Geeveston
+SSC60124,Geilston Bay
+SSC60125,George Town
+SSC60126,Glaziers Bay
+SSC60127,Glebe (Tas.)
+SSC60128,Glen Huon
+SSC60129,Glenfern (Tas.)
+SSC60130,Glengarry (Tas.)
+SSC60131,Glenlusk
+SSC60132,Glenorchy (Tas.)
+SSC60133,Golden Valley
+SSC60134,Goodwood (Tas.)
+SSC60135,Gordon (Tas.)
+SSC60136,Granton
+SSC60137,Granville Harbour
+SSC60138,Grasstree Hill
+SSC60139,Grassy
+SSC60140,Gravelly Beach
+SSC60141,Gray (Tas.)
+SSC60142,Greens Beach
+SSC60143,Grindelwald
+SSC60144,Grove
+SSC60145,Hadspen
+SSC60146,Hagley
+SSC60147,Hamilton (Tas.)
+SSC60148,Havenview
+SSC60149,Hawley Beach
+SSC60150,Hayes
+SSC60151,Hellyer
+SSC60152,Henrietta
+SSC60153,Herdsmans Cove
+SSC60154,Heybridge
+SSC60155,Highclere
+SSC60156,Highcroft
+SSC60157,Hillcrest (Tas.)
+SSC60158,Hillwood
+SSC60159,Hobart
+SSC60160,Holwell
+SSC60161,Honeywood
+SSC60162,Howden
+SSC60163,Howrah
+SSC60164,Huntingfield
+SSC60165,Huonville
+SSC60166,Invermay (Tas.)
+SSC60167,Irishtown (Tas.)
+SSC60168,Judbury
+SSC60169,Kaoota
+SSC60170,Karoola
+SSC60171,Kayena
+SSC60172,Kellevie
+SSC60173,Kempton
+SSC60174,Kettering
+SSC60175,Kimberley (Tas.)
+SSC60176,Kindred
+SSC60177,Kings Meadows
+SSC60178,Kingston (Tas.)
+SSC60179,Kingston Beach
+SSC60180,Lachlan
+SSC60181,Lady Barron
+SSC60182,Lanena
+SSC60183,Lapoinya
+SSC60184,Latrobe
+SSC60185,Lauderdale
+SSC60186,Launceston
+SSC60187,Lawitta
+SSC60188,Lebrina
+SSC60189,Legana
+SSC60190,Legerwood
+SSC60191,Leith
+SSC60192,Lenah Valley
+SSC60193,Leslie Vale
+SSC60194,Lewisham (Tas.)
+SSC60195,Liffey
+SSC60196,Lilydale (Tas.)
+SSC60197,Lindisfarne
+SSC60198,Little Swanport
+SSC60199,Longford (Tas.)
+SSC60200,Longley
+SSC60201,Lonnavale
+SSC60202,Low Head
+SSC60203,Lower Longley
+SSC60204,Lower Snug
+SSC60205,Lucaston
+SSC60206,Lutana
+SSC60207,Lymington
+SSC60208,Magra
+SSC60209,Mangalore (Tas.)
+SSC60210,Margate (Tas.)
+SSC60211,Mathinna
+SSC60212,Mawbanna
+SSC60213,Maydena
+SSC60214,Mayfield (Tas.)
+SSC60215,Meander
+SSC60216,Mengha
+SSC60217,Mersey Forest
+SSC60218,Miandetta (Tas.)
+SSC60219,Middleton (Tas.)
+SSC60220,Midway Point
+SSC60221,Miena
+SSC60222,Mole Creek
+SSC60223,Molesworth (Tas.)
+SSC60224,Montagu
+SSC60225,Montagu Bay
+SSC60226,Montello
+SSC60227,Montrose (Tas.)
+SSC60228,Moonah
+SSC60229,Mooreville
+SSC60230,Moriarty
+SSC60231,Mornington (Tas.)
+SSC60232,Mount Hicks
+SSC60233,Mount Nelson
+SSC60234,Mount Rumney
+SSC60235,Mount Stuart (Tas.)
+SSC60236,Mount William
+SSC60237,Mountain River
+SSC60238,Mowbray (Tas.)
+SSC60239,Murdunna
+SSC60240,Nabowla
+SSC60241,National Park
+SSC60242,Natone
+SSC60243,Neika
+SSC60244,New Norfolk
+SSC60245,New Town (Tas.)
+SSC60246,Newnham
+SSC60247,Newstead (Tas.)
+SSC60248,Nicholls Rivulet
+SSC60249,Nook
+SSC60250,North Hobart
+SSC60251,North Motton
+SSC60252,North Scottsdale
+SSC60253,Northdown
+SSC60254,Norwood (Tas.)
+SSC60255,Nubeena
+SSC60256,Nunamara
+SSC60257,Oakdowns
+SSC60258,Oatlands (Tas.)
+SSC60259,Ocean Vista
+SSC60260,Old Beach
+SSC60261,Oldina
+SSC60262,Opossum Bay
+SSC60263,Orford (Tas.)
+SSC60264,Orielton
+SSC60265,Otago
+SSC60266,Ouse
+SSC60267,Oyster Cove (Tas.)
+SSC60268,Paradise (Tas.)
+SSC60269,Parattah
+SSC60270,Park Grove
+SSC60271,Parklands (Tas.)
+SSC60272,Patersonia
+SSC60273,Pegarah
+SSC60274,Pelverata
+SSC60275,Penguin
+SSC60276,Penna
+SSC60277,Perth (Tas.)
+SSC60278,Pioneer (Tas.)
+SSC60279,Pipers River
+SSC60280,Pontville
+SSC60281,Port Arthur (Tas.)
+SSC60282,Port Huon
+SSC60283,Port Sorell
+SSC60284,Preston (Tas.)
+SSC60285,Primrose Sands
+SSC60286,Prospect (Tas.)
+SSC60287,Prospect Vale
+SSC60288,Punchbowl (Tas.)
+SSC60289,Queens Domain
+SSC60290,Queenstown (Tas.)
+SSC60291,Quoiba
+SSC60292,Railton
+SSC60293,Raminea
+SSC60294,Ranelagh
+SSC60295,Ravenswood (Tas.)
+SSC60296,Redpa
+SSC60297,Reedy Marsh
+SSC60298,Relbia
+SSC60299,Riana
+SSC60300,Richmond (Tas.)
+SSC60301,Ridgeway
+SSC60302,Ridgley
+SSC60303,Ringarooma
+SSC60304,Risdon
+SSC60305,Risdon Vale
+SSC60306,Riverside (Tas.)
+SSC60307,Rocherlea
+SSC60308,Roches Beach
+SSC60309,Rocky Cape
+SSC60310,Rokeby (Tas.)
+SSC60311,Romaine
+SSC60312,Rose Bay (Tas.)
+SSC60313,Rosebery (Tas.)
+SSC60314,Rosetta
+SSC60315,Rosevears
+SSC60316,Rosny
+SSC60317,Rosny Park
+SSC60318,Ross (Tas.)
+SSC60319,Saltwater River
+SSC60320,Sandfly
+SSC60321,Sandford (Tas.)
+SSC60322,Sandy Bay
+SSC60323,Sassafras (Tas.)
+SSC60324,Scamander
+SSC60325,Scotchtown
+SSC60326,Scottsdale
+SSC60327,Seven Mile Beach
+SSC60328,Shearwater
+SSC60329,Sheffield
+SSC60330,Shorewell Park
+SSC60331,Sidmouth
+SSC60332,Sisters Beach
+SSC60333,Sisters Creek
+SSC60334,Smithton
+SSC60335,Snug
+SSC60336,Somerset (Tas.)
+SSC60337,Sorell
+SSC60338,South Arm (Tas.)
+SSC60339,South Burnie
+SSC60340,South Hobart
+SSC60341,South Launceston
+SSC60342,South Riana
+SSC60343,South Spreyton
+SSC60344,Southport (Tas.)
+SSC60345,Southwest
+SSC60346,Spreyton
+SSC60347,Spring Beach
+SSC60348,Springfield (Tas.)
+SSC60349,Squeaking Point
+SSC60350,St Helens (Tas.)
+SSC60351,St Leonards (Tas.)
+SSC60352,St Marys (Tas.)
+SSC60353,Stanley (Tas.)
+SSC60354,Staverton
+SSC60355,Stieglitz
+SSC60356,Stony Rise
+SSC60357,Stowport
+SSC60358,Strahan
+SSC60359,Sulphur Creek
+SSC60360,Summerhill
+SSC60361,Surveyors Bay
+SSC60362,Swan Bay (Tas.)
+SSC60363,Swan Point
+SSC60364,Swansea (Tas.)
+SSC60365,Taranna
+SSC60366,Tarleton
+SSC60367,Taroona
+SSC60368,Tea Tree
+SSC60369,Tinderbox
+SSC60370,Tolmans Hill
+SSC60371,Tomahawk
+SSC60372,Tooms Lake
+SSC60373,Tranmere (Tas.)
+SSC60374,Travellers Rest
+SSC60375,Trevallyn
+SSC60376,Triabunna
+SSC60377,Trowutta
+SSC60378,Tugrah
+SSC60379,Tullah
+SSC60380,Tunnack
+SSC60381,Turners Beach
+SSC60382,Turners Marsh
+SSC60383,Ulverstone
+SSC60384,Underwood (Tas.)
+SSC60385,Upper Burnie
+SSC60386,Upper Castra
+SSC60387,Waratah (Tas.)
+SSC60388,Warrane
+SSC60389,Wattle Hill (Tas.)
+SSC60390,Waverley (Tas.)
+SSC60391,Wellington Park
+SSC60392,Wesley Vale
+SSC60393,West Coast
+SSC60394,West Hobart
+SSC60395,West Kentish
+SSC60396,West Launceston
+SSC60397,West Moonah
+SSC60398,West Ulverstone
+SSC60399,Westbury (Tas.)
+SSC60400,Western Junction
+SSC60401,Westerway
+SSC60402,Weymouth
+SSC60403,White Beach
+SSC60404,White Hills (Tas.)
+SSC60405,Whitemark
+SSC60406,Whitemore
+SSC60407,Wilburville
+SSC60408,Wilmot
+SSC60409,Windermere (Tas.)
+SSC60410,Winkleigh
+SSC60411,Winnaleah
+SSC60412,Wivenhoe
+SSC60413,Woodbridge (Tas.)
+SSC60414,Woodsdale
+SSC60415,Wynyard
+SSC60416,Yolla
+SSC60417,York Plains (Tas.)
+SSC60418,York Town
+SSC60419,Youngtown
+SSC60420,Zeehan
+SSC69191,Unclassified (Tas.)
+SSC69494,No Usual Address (Tas.)
+SSC69797,Migratory - Offshore - Shipping (Tas.)
+SSC70001,Acacia Hills (NT)
+SSC70002,Adelaide River
+SSC70003,Alawa
+SSC70004,Ali Curung
+SSC70005,Alice Springs
+SSC70006,Alpurrurulam
+SSC70007,Alyangula
+SSC70008,Amoonguna
+SSC70009,Ampilatwatja
+SSC70010,Angurugu
+SSC70011,Anindilyakwa
+SSC70012,Anmatjere
+SSC70013,Anula
+SSC70014,Araluen (NT)
+SSC70015,Areyonga
+SSC70016,Arumbera
+SSC70017,Baines
+SSC70018,Bakewell
+SSC70019,Barunga
+SSC70020,Batchelor
+SSC70021,Bayview (NT)
+SSC70022,Bees Creek
+SSC70023,Belyuen
+SSC70024,Berrimah
+SSC70025,Berry Springs
+SSC70026,Beswick
+SSC70027,Binjari
+SSC70028,Birdum
+SSC70029,Blackmore
+SSC70030,Borroloola
+SSC70031,Braitling
+SSC70032,Brinkin
+SSC70033,Buchanan (NT)
+SSC70034,Burt Plain
+SSC70035,Calvert (NT)
+SSC70036,Canteen Creek
+SSC70037,Casuarina (NT)
+SSC70038,Chilla Well
+SSC70039,Ciccone
+SSC70040,Coconut Grove
+SSC70041,Connellan
+SSC70042,Coonawarra (NT)
+SSC70043,Cossack (NT)
+SSC70044,Costello
+SSC70045,Daguragu
+SSC70046,Daly River
+SSC70047,Darwin City
+SSC70048,Darwin River
+SSC70049,Davenport (NT)
+SSC70050,Desert Springs
+SSC70051,Douglas-Daly
+SSC70052,Driver
+SSC70053,Dundee Beach
+SSC70054,Durack (NT)
+SSC70055,East Arm
+SSC70056,East Arnhem
+SSC70057,East Point
+SSC70058,East Side
+SSC70059,Eaton (NT)
+SSC70060,Elliott (NT)
+SSC70061,Emungalan
+SSC70062,Engawala
+SSC70063,Fannie Bay
+SSC70064,Farrar
+SSC70065,Finke
+SSC70066,Flying Fox (NT)
+SSC70067,Flynn (NT)
+SSC70068,Galiwinku
+SSC70069,Gapuwiyak
+SSC70070,Ghan
+SSC70071,Gillen
+SSC70072,Girraween (NT)
+SSC70073,Gray (NT)
+SSC70074,Gregory (NT)
+SSC70075,Gunbalanya
+SSC70076,Gunn
+SSC70077,Gunyangara
+SSC70078,Haasts Bluff
+SSC70079,Hart (NT)
+SSC70080,Herbert
+SSC70081,Hermannsburg
+SSC70082,Hidden Valley (NT)
+SSC70083,Holmes
+SSC70084,Holtze
+SSC70085,Howard Springs
+SSC70086,Hugh
+SSC70087,Humpty Doo
+SSC70088,Ilparpa
+SSC70089,Imanpa
+SSC70090,Irlpme
+SSC70091,Jabiru
+SSC70092,Jilkminggan
+SSC70093,Jingili
+SSC70094,Johnston
+SSC70095,Kakadu
+SSC70096,Kalkarindji
+SSC70097,Kaltukatjara
+SSC70098,Karama
+SSC70099,Katherine
+SSC70100,Katherine East
+SSC70101,Katherine South
+SSC70102,Kintore
+SSC70103,Knuckey Lagoon
+SSC70104,Kunparrka
+SSC70105,Lajamanu
+SSC70106,Lake Mackay
+SSC70107,Lambells Lagoon
+SSC70108,Lansdowne (NT)
+SSC70109,Laramba
+SSC70110,Larapinta (NT)
+SSC70111,Larrakeyah
+SSC70112,Leanyer
+SSC70113,Lee Point
+SSC70114,Limmen
+SSC70115,Livingstone
+SSC70116,Ludmilla
+SSC70117,Lyons (NT)
+SSC70118,Malak
+SSC70119,Maningrida
+SSC70120,Marlow Lagoon
+SSC70121,Marrakai
+SSC70122,Marrara
+SSC70123,Mataranka
+SSC70124,McArthur
+SSC70125,McMinns Lagoon
+SSC70126,Milikapiti
+SSC70127,Milingimbi
+SSC70128,Millner
+SSC70129,Milyakburra
+SSC70130,Miniyeri
+SSC70131,Mitchell (NT)
+SSC70132,Moil
+SSC70133,Moulden
+SSC70134,Mount Johns
+SSC70135,Mount Liebig
+SSC70136,Muirhead
+SSC70137,Mutitjulu
+SSC70138,Nakara
+SSC70139,Namatjira
+SSC70140,Nauiyu
+SSC70141,Nemarluk
+SSC70142,Nganmarriyanga
+SSC70143,Ngukurr
+SSC70144,Nhulunbuy
+SSC70145,Nicholson (NT)
+SSC70146,Nightcliff
+SSC70147,Nitmiluk
+SSC70148,Noonamah
+SSC70149,Numbulwar
+SSC70150,Numburindi
+SSC70151,Nyirripi
+SSC70152,Palmerston City
+SSC70153,Papunya
+SSC70154,Parap
+SSC70155,Peppimenarti
+SSC70156,Petermann
+SSC70157,Pigeon Hole
+SSC70158,Pine Creek (NT)
+SSC70159,Pinelands (NT)
+SSC70160,Pirlangimpi
+SSC70161,Ramingining
+SSC70162,Rapid Creek
+SSC70163,Robinson River
+SSC70164,Rosebery (NT)
+SSC70165,Ross (NT)
+SSC70166,Rum Jungle
+SSC70167,Sadadeen
+SSC70168,Sandover
+SSC70169,Santa Teresa
+SSC70170,Shoal Bay (NT)
+SSC70171,Simpson (NT)
+SSC70172,Stuart (NT)
+SSC70173,Stuart Park
+SSC70174,Tanami (NT)
+SSC70175,Tanami East
+SSC70176,Tara (NT)
+SSC70177,Tennant Creek
+SSC70178,Thamarrurr
+SSC70179,The Gap (NT)
+SSC70180,The Gardens (NT)
+SSC70181,The Narrows (NT)
+SSC70182,Ti Tree
+SSC70183,Timber Creek
+SSC70184,Tindal
+SSC70185,Titjikala
+SSC70186,Tiwi
+SSC70187,Tiwi Islands
+SSC70188,Undoolya
+SSC70189,Uralla (NT)
+SSC70190,Venn
+SSC70191,Victoria River
+SSC70192,Virginia (NT)
+SSC70193,Wadeye
+SSC70194,Wagait Beach
+SSC70195,Wagaman
+SSC70196,Wallace Rockhole
+SSC70197,Wanguri
+SSC70198,Warruwi
+SSC70199,West Arnhem
+SSC70200,White Gums
+SSC70201,Wickham (NT)
+SSC70202,Willowra
+SSC70203,Wilora
+SSC70204,Wilton (NT)
+SSC70205,Winnellie
+SSC70206,Woodroffe
+SSC70207,Woolner
+SSC70208,Wulagi
+SSC70209,Wurrumiyanga
+SSC70210,Wutunugurra
+SSC70211,Yarralin
+SSC70212,Yarrawonga (NT)
+SSC70213,Yirrkala
+SSC70214,Yuelamu
+SSC70215,Yuendumu
+SSC70216,Yulara
+SSC79494,No Usual Address (NT)
+SSC79797,Migratory - Offshore - Shipping (NT)
+SSC80001,Acton (ACT)
+SSC80002,Ainslie
+SSC80003,Amaroo (ACT)
+SSC80004,Aranda
+SSC80005,Banks
+SSC80006,Barton
+SSC80007,Belconnen
+SSC80008,Bonner
+SSC80009,Bonython
+SSC80010,Braddon
+SSC80011,Bruce (ACT)
+SSC80012,Calwell
+SSC80013,Campbell
+SSC80014,Casey
+SSC80015,Chapman
+SSC80016,Charnwood
+SSC80017,Chifley (ACT)
+SSC80018,Chisholm (ACT)
+SSC80019,City
+SSC80020,Conder
+SSC80021,Cook
+SSC80022,Crace
+SSC80023,Curtin
+SSC80024,Deakin
+SSC80025,Dickson
+SSC80026,Downer
+SSC80027,Duffy
+SSC80028,Dunlop
+SSC80029,Evatt
+SSC80030,Fadden
+SSC80031,Farrer
+SSC80032,Fisher (ACT)
+SSC80033,Florey
+SSC80034,Flynn (ACT)
+SSC80035,Forde
+SSC80036,Forrest (ACT)
+SSC80037,Franklin (ACT)
+SSC80038,Fraser
+SSC80039,Garran
+SSC80040,Gilmore (ACT)
+SSC80041,Giralang
+SSC80042,Gordon (ACT)
+SSC80043,Gowrie (ACT)
+SSC80044,Greenway
+SSC80045,Griffith (ACT)
+SSC80046,Gungahlin
+SSC80047,Hackett
+SSC80048,Hall
+SSC80049,Harrison
+SSC80050,Hawker (ACT)
+SSC80051,Higgins
+SSC80052,Holder (ACT)
+SSC80053,Holt
+SSC80054,Hughes (ACT)
+SSC80055,Hume
+SSC80056,Isaacs
+SSC80057,Isabella Plains
+SSC80058,Kaleen
+SSC80059,Kambah
+SSC80060,Kingston (ACT)
+SSC80061,Latham (ACT)
+SSC80062,Lawson (ACT)
+SSC80063,Lyneham
+SSC80064,Lyons (ACT)
+SSC80065,Macarthur (ACT)
+SSC80066,Macgregor (ACT)
+SSC80067,Macquarie
+SSC80068,Mawson
+SSC80069,McKellar
+SSC80070,Melba
+SSC80071,Mitchell (ACT)
+SSC80072,Monash (ACT)
+SSC80073,Narrabundah
+SSC80074,Ngunnawal
+SSC80075,Nicholls
+SSC80076,O'Connor (ACT)
+SSC80077,O'Malley
+SSC80078,Oaks Estate
+SSC80079,Oxley (ACT)
+SSC80080,Page
+SSC80081,Palmerston (ACT)
+SSC80082,Parkes (ACT)
+SSC80083,Pearce
+SSC80084,Phillip
+SSC80085,Pialligo
+SSC80086,Red Hill (ACT)
+SSC80087,Reid (ACT)
+SSC80088,Richardson
+SSC80089,Rivett
+SSC80090,Scullin
+SSC80091,Spence (ACT)
+SSC80092,Stirling (ACT)
+SSC80093,Symonston
+SSC80094,Tharwa
+SSC80095,Theodore (ACT)
+SSC80096,Torrens
+SSC80097,Turner
+SSC80098,Wanniassa
+SSC80099,Waramanga
+SSC80100,Watson
+SSC80101,Weetangera
+SSC80102,Weston (ACT)
+SSC80103,Yarralumla
+SSC89191,Unclassified (ACT)
+SSC89494,No Usual Address (ACT)
+SSC89797,Migratory - Offshore - Shipping (ACT)
+SSC90001,Christmas Island
+SSC90002,Directions Island
+SSC90003,Home Island
+SSC90004,Jervis Bay (OT)
+SSC90005,West Keeling Island
+SSC99494,No Usual Address (OT)
+SSC99797,Migratory - Offshore - Shipping (OT)
