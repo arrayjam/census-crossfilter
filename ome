@@ -1,0 +1,91 @@
+* [31m64a2417[m -[33m (HEAD)[m something? [32m(1 seconds ago) [1;34m<Yuri Feldman>[m
+* [31m5022790[m -[33m (origin/gh-pages)[m Fix date dimension. [32m(7 days ago) [1;34m<Jason Davies>[m
+* [31mb163e43[m -[33m[m Update to Crossfilter v1.2.0. [32m(7 weeks ago) [1;34m<Jason Davies>[m
+* [31ma1a24fa[m -[33m[m Upgrade to D3 version 3. [32m(2 months ago) [1;34m<Jason Davies>[m
+* [31m3254c56[m -[33m[m Update Crossfilter. [32m(3 months ago) [1;34m<Jason Davies>[m
+* [31m9fae63d[m -[33m[m Sort results in descending order within days. [32m(3 months ago) [1;34m<Jason Davies>[m
+*   [31m9abf255[m -[33m[m Merge pull request #34 from jasondavies/gh-pages-forkme [32m(8 months ago) [1;34m<Mike Bostock>[m
+[32m|[m[33m\[m  
+[32m|[m * [31m222b491[m -[33m[m Fix "fork me" banner image. [32m(9 months ago) [1;34m<Jason Davies>[m
+[32m|[m[32m/[m  
+* [31m23662d1[m -[33m[m Update. [32m(1 year, 1 month ago) [1;34m<Mike Bostock>[m
+* [31m6d5f54b[m -[33m[m Rename Tesseract to Crossfilter. [32m(1 year, 2 months ago) [1;34m<Mike Bostock>[m
+* [31m7aa6ef6[m -[33m[m Masquerade as JSON for Content-Encoding: gzip. [32m(1 year, 2 months ago) [1;34m<Mike Bostock>[m
+* [31m03eeb31[m -[33m[m Add .gitignore. [32m(1 year, 2 months ago) [1;34m<Mike Bostock>[m
+* [31m0fbbc28[m -[33m[m Delete blank line. [32m(1 year, 2 months ago) [1;34m<Mike Bostock>[m
+* [31m8a06390[m -[33m[m Initial commit. [32m(1 year, 2 months ago) [1;34m<Mike Bostock>[m
+* [31m60b1d81[m -[33m (v1.2.0, origin/master, origin/HEAD, master)[m Version 1.2.0. [32m(7 weeks ago) [1;34m<Jason Davies>[m
+* [31medfaaed[m -[33m[m Revert support for sorting NaN values. [32m(7 weeks ago) [1;34m<Jason Davies>[m
+* [31mae994e8[m -[33m[m Fix typo in comment. [32m(10 weeks ago) [1;34m<Jason Davies>[m
+* [31mf0027e7[m -[33m[m Support filtering by arbitrary functions. [32m(10 weeks ago) [1;34m<Jason Davies>[m
+* [31me18c80b[m -[33m[m Add tests for removing dimensions and groups. [32m(10 weeks ago) [1;34m<Jason Davies>[m
+* [31m77c9993[m -[33m[m Add dimension.remove for removing dimensions. [32m(10 weeks ago) [1;34m<Jason Davies>[m
+* [31mfce6d24[m -[33m[m Add group.remove for removing groups. [32m(10 weeks ago) [1;34m<Jason Davies>[m
+* [31m9b8a493[m -[33m (v1.1.3)[m Update UglifyJS and revert workaround. [32m(3 months ago) [1;34m<Jason Davies>[m
+* [31mb742be6[m -[33m (v1.1.2)[m Fix incorrect sort behavior due to UglifyJS bug. [32m(3 months ago) [1;34m<Jason Davies>[m
+*   [31m4f5f7ab[m -[33m (v1.1.1)[m Merge branch '1.1.1' [32m(3 months ago) [1;34m<Jason Davies>[m
+[35m|[m[36m\[m  
+[35m|[m * [31mc258f39[m -[33m[m Update src/package.js. [32m(3 months ago) [1;34m<Jason Davies>[m
+[35m|[m * [31mc3a1f36[m -[33m[m add .travis.yml for freebie ci [32m(3 months ago) [1;34m<Tom Carden>[m
+[35m|[m * [31mceb3c8f[m -[33m[m add a CONTRIBUTING.md file for github [32m(3 months ago) [1;34m<Tom Carden>[m
+[35m|[m * [31m6b25c83[m -[33m[m add some people to package.json [32m(3 months ago) [1;34m<Tom Carden>[m
+[35m|[m * [31m6c0c2da[m -[33m[m add npm test script [32m(3 months ago) [1;34m<Tom Carden>[m
+[35m|[m *   [31m57d304a[m -[33m[m Merge branch 'bisect-large' into 1.1.1 [32m(3 months ago) [1;34m<Jason Davies>[m
+[35m|[m [1;31m|[m[1;32m\[m  
+[35m|[m [1;31m|[m * [31m3e8d149[m -[33m[m crossfilter.bisect: support very large arrays. [32m(10 months ago) [1;34m<Jason Davies>[m
+[35m|[m * [1;32m|[m [31m4b320e5[m -[33m[m Remove unused argument. [32m(3 months ago) [1;34m<Jason Davies>[m
+[35m|[m * [1;32m|[m [31m2dea05a[m -[33m[m Update dependencies. [32m(3 months ago) [1;34m<Jason Davies>[m
+[35m|[m * [1;32m|[m [31m7ba48ba[m -[33m[m Add support for NaN or undefined group keys. [32m(3 months ago) [1;34m<Jason Davies>[m
+[35m|[m * [1;32m|[m [31m4151240[m -[33m[m Optimise NaN test in insertion sort. [32m(3 months ago) [1;34m<Jason Davies>[m
+[35m|[m * [1;32m|[m [31me961c9e[m -[33m[m Fix NaNs in bisect.left and quicksort_by. [32m(3 months ago) [1;34m<Jason Davies>[m
+[35m|[m * [1;32m|[m [31m6a82b5a[m -[33m[m Fix bisect.right for incomparable values. [32m(3 months ago) [1;34m<Jason Davies>[m
+[35m|[m * [1;32m|[m   [31m0151586[m -[33m[m Merge branch 'master' into sort-nan [32m(3 months ago) [1;34m<Jason Davies>[m
+[35m|[m [1;33m|[m[35m\[m [1;32m\[m  
+[35m|[m [1;33m|[m[35m/[m [1;32m/[m  
+[35m|[m[35m/[m[1;33m|[m [1;32m|[m   
+* [1;33m|[m [1;32m|[m [31m8cfd7ec[m -[33m[m Fix the wiki link. [32m(4 months ago) [1;34m<Mike Bostock>[m
+[1;34m|[m * [1;32m|[m   [31m5e51445[m -[33m[m Merge branch 'master' into sort-nan [32m(5 months ago) [1;34m<Jason Davies>[m
+[1;34m|[m [1;35m|[m[1;34m\[m [1;32m\[m  
+[1;34m|[m [1;35m|[m[1;34m/[m [1;32m/[m  
+[1;34m|[m[1;34m/[m[1;35m|[m [1;32m|[m   
+* [1;35m|[m [1;32m|[m   [31m0a7bf20[m -[33m (v1.1.0)[m Merge branch '1.1.0' [32m(8 months ago) [1;34m<Mike Bostock>[m
+[1;32m|[m[32m\[m [1;35m\[m [1;32m\[m  
+[1;32m|[m [32m|[m[1;32m_[m[1;35m|[m[1;32m/[m  
+[1;32m|[m[1;32m/[m[32m|[m [1;35m|[m   
+[1;32m|[m * [1;35m|[m [31m10eb079[m -[33m[m Add tests for dimension.bottom. [32m(8 months ago) [1;34m<Mike Bostock>[m
+[1;32m|[m * [1;35m|[m [31m9c15373[m -[33m[m Changing topAsc to bottom [32m(11 months ago) [1;34m<John Alexis Guerra Gómez>[m
+[1;32m|[m * [1;35m|[m [31m09243d2[m -[33m[m Adding support for dimension.top() in ascending order [32m(11 months ago) [1;34m<John Alexis Guerra Gómez>[m
+[1;32m|[m * [1;35m|[m [31md1f63f2[m -[33m[m Adding support for dimension.top() in ascending order [32m(11 months ago) [1;34m<John Alexis Guerra Gómez>[m
+[1;32m|[m[1;32m/[m [1;35m/[m  
+* [1;35m|[m [31m47d26fc[m -[33m[m Update README to point to the wiki. [32m(1 year, 1 month ago) [1;34m<Mike Bostock>[m
+* [1;35m|[m   [31m6643849[m -[33m (v1.0.3)[m Merge branch '1.0.3' [32m(1 year, 1 month ago) [1;34m<Mike Bostock>[m
+[33m|[m[34m\[m [1;35m\[m  
+[33m|[m * [1;35m|[m [31m2bfb5f8[m -[33m[m Declare undeclared variables. [32m(1 year, 2 months ago) [1;34m<Matt Smillie>[m
+[33m|[m[33m/[m [1;35m/[m  
+* [1;35m|[m   [31mbdf21b0[m -[33m[m Merge pull request #19 from sdemjanenko/patch-1 [32m(1 year, 2 months ago) [1;34m<Mike Bostock>[m
+[35m|[m[36m\[m [1;35m\[m  
+[35m|[m * [1;35m|[m [31mcd602f8[m -[33m[m Fix failing heapy test since n was undefined. [32m(1 year, 2 months ago) [1;34m<Stephen Demjanenko>[m
+[35m|[m[35m/[m [1;35m/[m  
+* [1;35m|[m [31m25f7eda[m -[33m[m Add .npmignore. [32m(1 year, 2 months ago) [1;34m<Mike Bostock>[m
+* [1;35m|[m [31m21586f8[m -[33m (v1.0.2)[m Update package.json. [32m(1 year, 2 months ago) [1;34m<Mike Bostock>[m
+* [1;35m|[m [31me46041d[m -[33m[m Rename Tesseract to Crossfilter. [32m(1 year, 2 months ago) [1;34m<Mike Bostock>[m
+* [1;35m|[m   [31m69a383d[m -[33m (v1.0.1)[m Merge branch 'release' [32m(1 year, 2 months ago) [1;34m<Mike Bostock>[m
+[1;31m|[m[1;32m\[m [1;35m\[m  
+[1;31m|[m * [1;35m\[m   [31mb6faedb[m -[33m[m Merge branch 'minified' of https://github.com/jasondavies/tesseract into release [32m(1 year, 2 months ago) [1;34m<Mike Bostock>[m
+[1;31m|[m [1;33m|[m[1;34m\[m [1;35m\[m  
+[1;31m|[m [1;33m|[m * [1;35m|[m [31m19e7b4e[m -[33m[m Fix empty tesseract.min.js. [32m(1 year, 2 months ago) [1;34m<Jason Davies>[m
+[1;31m|[m [1;33m|[m[1;31m/[m [1;35m/[m  
+[1;31m|[m[1;31m/[m[1;33m|[m [1;35m|[m   
+[1;31m|[m * [1;35m|[m [31m1d04ffb[m -[33m[m Fix a couple of comment typos. [32m(1 year, 2 months ago) [1;34m<Jason Davies>[m
+[1;31m|[m[1;31m/[m [1;35m/[m  
+[1;31m|[m * [31m836797e[m -[33m[m Fix insertion sort for NaN values. [32m(1 year, 2 months ago) [1;34m<Jason Davies>[m
+[1;31m|[m * [31m52cd6dc[m -[33m[m Simplify. [32m(1 year, 2 months ago) [1;34m<Jason Davies>[m
+[1;31m|[m * [31m93ae981[m -[33m[m Fix sorting of undefined and NaN. [32m(1 year, 2 months ago) [1;34m<Jason Davies>[m
+[1;31m|[m * [31m9800098[m -[33m[m Better test case to demonstrate NaN sorting issue. [32m(1 year, 2 months ago) [1;34m<Jason Davies>[m
+[1;31m|[m * [31m13adea2[m -[33m[m Failing test case for sorting NaN values. [32m(1 year, 2 months ago) [1;34m<Jason Davies>[m
+[1;31m|[m[1;31m/[m  
+* [31m0364576[m -[33m (v1.0.0, semver)[m Set version to 1.0.0. [32m(1 year, 2 months ago) [1;34m<Mike Bostock>[m
+* [31mb09d830[m -[33m[m Add LICENSE. [32m(1 year, 2 months ago) [1;34m<Mike Bostock>[m
+* [31m70555ac[m -[33m[m Fix typed array feature detection. [32m(1 year, 3 months ago) [1;34m<Mike Bostock>[m
+* [31me63b4d8[m -[33m[m Add Dart's AUTHORS file. [32m(1 year, 3 months ago) [1;34m<Mike Bostock>[m
+* [31m39b6353[m -[33m[m Initial commit. [32m(1 year, 3 months ago) [1;34m<Mike Bostock>[m
