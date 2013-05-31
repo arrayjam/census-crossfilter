@@ -198,10 +198,14 @@ aside {
 <script src="queue.min.js"></script>
 <script>
 
+//queue()
+//  .defer(d3.csv, "sa1_to_ssc_converted.csv")
+//  .defer(d3.csv, "suburb_names.csv")
+//  .defer(d3.csv, "frankendata_trimmed_nosmall.csv")
+//  .await(ready);
+
 queue()
-  .defer(d3.csv, "sa1_to_ssc_converted.csv")
-  .defer(d3.csv, "suburb_names.csv")
-  .defer(d3.csv, "frankendata_trimmed.csv")
+  .defer(d3.csv, "2011Census_B02_AUST_SA2_long.vic.csv")
   .await(ready);
 
 function ready(error, sa1_to_ssc, ssc_names, data) {
@@ -262,9 +266,9 @@ function ready(error, sa1_to_ssc, ssc_names, data) {
   age = suburb.dimension(function(d) { return Math.min(80, d.Median_age_of_persons); }),
   ages = age.group(function(d) { return Math.floor(d / 4) * 4; }),
   income = suburb.dimension(function(d) { return Math.max(1, Math.min(2000, d.Median_total_personal_income_weekly)); }),
-  incomes = income.group(function(d) { return Math.floor(d / 100) * 100; }),
+  incomes = income.group(function(d) { return Math.floor(d / 70) * 70; }),
   rent = suburb.dimension(function(d) { return Math.max(1, d.Median_rent_weekly); }),
-  rents = rent.group(function(d) { return Math.floor(d / 75) * 75;}),
+  rents = rent.group(function(d) { return Math.floor(d / 40) * 40;}),
   owned = suburb.dimension(function(d) { return Math.max(1, Math.floor(d.Owned_outright_Total / (d.Total_Persons_Persons + 1) * 100)); }),
   owneds = owned.group(function(d) { return Math.floor(d / 2) * 2; }),
   mortgage = suburb.dimension(function(d) { return Math.max(1, Math.floor(d.Owned_with_a_mortgage_Total / (d.Total_Persons_Persons + 1) * 100)); }),
@@ -290,14 +294,14 @@ function ready(error, sa1_to_ssc, ssc_names, data) {
         .dimension(income)
         .group(incomes)
     .x(d3.scale.linear()
-        .domain([0, 2000])
+        .domain([0, 1400])
         .rangeRound([0, 200])),
 
     barChart()
         .dimension(rent)
         .group(rents)
     .x(d3.scale.linear()
-        .domain([0,1500])
+        .domain([0, 800])
         .rangeRound([0, 200])),
 
     barChart()
@@ -405,6 +409,10 @@ function ready(error, sa1_to_ssc, ssc_names, data) {
       flightEnter.append("div")
       .attr("class", "destination")
       .text(function(d) { return "rent: $" + d.Median_rent_weekly + " p/w"; });
+
+      flightEnter.append("div")
+      .attr("class", "destination")
+      .text(function(d) { return d.Total_Persons_Persons + " people"; });
 
       flight.exit().remove();
 
