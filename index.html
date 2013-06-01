@@ -91,6 +91,12 @@ h1, h2 {
   stroke: #666;
 }
 
+#map path {
+  stroke: black;
+  stroke-width: 0.5px;
+  fill: none;
+}
+
 #hour-chart {
   width: 230px;
 }
@@ -154,9 +160,7 @@ aside {
 
 <div id="body">
 
-<h1>Crossfilter</h1>
-
-
+<svg id="map" style="width: 100%; height: 400px;"></div>
 
 <div id="charts">
   <div id="hour-chart" class="chart">
@@ -194,8 +198,9 @@ aside {
 
 
 <script src="crossfilter.v1.min.js"></script>
-<script src="d3.min.js"></script>
+<script src="d3.js"></script>
 <script src="queue.min.js"></script>
+<script src="topojson.js"></script>
 <script>
 
 //queue()
@@ -206,42 +211,41 @@ aside {
 
 queue()
   .defer(d3.csv, "2011Census_B02_AUST_SA2_long.vic.csv")
+  .defer(d3.json, "sa2.vic.topo.json")
   .await(ready);
 
-function ready(error, sa1_to_ssc, ssc_names, data) {
-  window.statisticalAreaToSuburb = {};
-  sa1_to_ssc.forEach(function(row) {
-    statisticalAreaToSuburb[+row.sa1] = +row.ssc;
-  });
+function ready(error, data, geo) {
+  var sa1 = topojson.feature(geo, geo.objects.sa2);
 
-  console.log(statisticalAreaToSuburb);
+  var projection = d3.geo.mercator()
+    .center([144.96, -37.81])
+    .scale((1<<16) / 2 / Math.PI);
 
-  var suburbCodeToName = {};
-  ssc_names.forEach(function(suburb) {
-    suburbCodeToName[+suburb.region_id.substr(3)] = suburb.suburb_name;
-  });
-  console.log(suburbCodeToName);
+
+
+  var path = d3.geo.path()
+      .projection(projection);
+
+  var svg = d3.select("#map");
+
+  var regionsHash = d3.map();
+
+  var mapdata = sa1.features;
+  var heat = svg.selectAll("path")
+      .data(mapdata)
+    .enter().append("path")
+      .attr("d", path)
+      .each(function(d) { regionsHash.set(d.properties.code, this); });
+
+  console.log(regionsHash);
 
   console.log(data);
-
+  console.log(geo);
   // Various formatters.
   var formatNumber = d3.format(",d");
 
-  var stateFromID = {
-    1: "New South Wales",
-    2: "Victoria",
-    3: "Queensland",
-    4: "South Australia",
-    5: "Western Australia",
-    6: "Tasmania",
-    7: "Northern Territory",
-    8: "Australian Capital Territory",
-    9: "Other Territories"
-  };
-
   var nestBySuburb = d3.nest()
-  .key(function(d) { return d.suburb; });
-
+    .key(function(d) { return d.region_id.toString().substr(1, 1); });
 
   var numeric_fields = d3.set(d3.keys(data[0]));
   numeric_fields.remove("region_id");
@@ -249,8 +253,6 @@ function ready(error, sa1_to_ssc, ssc_names, data) {
   data.forEach(function(d, i) {
     d.index = i;
     d.region_id = +d.region_id
-    d.suburb = statisticalAreaToSuburb[d.region_id];
-    d.state = +(d.suburb + "")[0]
     numeric_fields.forEach(function(field) {
       d[field] = +d[field];
     });
@@ -258,6 +260,7 @@ function ready(error, sa1_to_ssc, ssc_names, data) {
   console.log(data);
   //region_id,Median_age_of_persons,Median_mortgage_repayment_monthly,Median_total_personal_income_weekly,Median_rent_weekly,Median_total_family_income_weekly,Average_number_of_Persons_per_bedroom,Median_total_rent_income_weekly,Average_rent_size
   //region_id,Median_age_of_persons,Median_mortgage_repayment_monthly,Median_total_personal_income_weekly,Median_rent_weekly,Median_total_family_income_weekly,Average_number_of_Persons_per_bedroom,Median_total_household_income_weekly,Average_household_size,Owned_outright_Total,Owned_with_a_mortgage_Total,Total_Persons_Persons
+  //region_id   Median_age_of_persons   Median_mortgage_repayment_monthly       Median_total_personal_income_weekly     Median_rent_weekly      Median_total_family_income_weekly       Average_number_of_Persons_per_bedroom   Median_total_household_income_weekly    Average_household_size  Total_Persons_Persons
 
 
   // Create the crossfilter for the relevant dimensions and groups.
@@ -269,16 +272,14 @@ function ready(error, sa1_to_ssc, ssc_names, data) {
   incomes = income.group(function(d) { return Math.floor(d / 70) * 70; }),
   rent = suburb.dimension(function(d) { return Math.max(1, d.Median_rent_weekly); }),
   rents = rent.group(function(d) { return Math.floor(d / 40) * 40;}),
-  owned = suburb.dimension(function(d) { return Math.max(1, Math.floor(d.Owned_outright_Total / (d.Total_Persons_Persons + 1) * 100)); }),
-  owneds = owned.group(function(d) { return Math.floor(d / 2) * 2; }),
-  mortgage = suburb.dimension(function(d) { return Math.max(1, Math.floor(d.Owned_with_a_mortgage_Total / (d.Total_Persons_Persons + 1) * 100)); }),
-  mortgages = mortgage.group(function(d) { return Math.floor(d / 1.31) * 1.31; });
+  region = suburb.dimension(function(d, i) { return d.region_id; }),
+  regions = region.group(function(id) { return id; }).reduceCount();
 
   window.incomes = incomes;
   window.data = data;
 
 
-  console.log(d3.extent(data, function(d) { return d.Owned_with_a_mortgage_Total / (d.Total_Persons_Persons + 1) * 100; }));
+  //console.log(d3.extent(data, function(d) { return d.Owned_with_a_mortgage_Total / (d.Total_Persons_Persons + 1) * 100; }));
   //console.log(data.map(function(d) { return d.median_total_rent_income; }));
 
   var charts = [
@@ -304,20 +305,6 @@ function ready(error, sa1_to_ssc, ssc_names, data) {
         .domain([0, 800])
         .rangeRound([0, 200])),
 
-    barChart()
-        .dimension(owned)
-        .group(owneds)
-    .x(d3.scale.linear()
-        .domain([0,40])
-        .rangeRound([0, 200])),
-
-    barChart()
-        .dimension(mortgage)
-        .group(mortgages)
-    .x(d3.scale.linear()
-        .domain([0,25])
-        .rangeRound([0, 200])),
-
 
   ];
 
@@ -338,6 +325,20 @@ function ready(error, sa1_to_ssc, ssc_names, data) {
 
   renderAll();
 
+  function updateRegions() {
+    var polygons = regions.all();
+    console.log(polygons);
+    polygons.forEach(function(d) {
+      polygon = regionsHash.get(d.key);
+      if (d.value == 1) {
+        polygon.style.fill = "steelblue";
+      } else {
+        polygon.style.fill = "";
+      }
+    });
+  }
+
+
   // Renders the specified chart or list.
   function render(method) {
     d3.select(this).call(method);
@@ -347,6 +348,7 @@ function ready(error, sa1_to_ssc, ssc_names, data) {
   function renderAll() {
     chart.each(render);
     list.each(render);
+    updateRegions();
     d3.select("#active").text(formatNumber(all.value()));
   }
 
@@ -380,7 +382,7 @@ function ready(error, sa1_to_ssc, ssc_names, data) {
       .attr("class", "date")
       .append("div")
       .attr("class", "day")
-      .text(function(d) { return stateFromID[d.values[0].state]; });
+      .text("hello");
 
       date.exit().remove();
 
@@ -389,10 +391,6 @@ function ready(error, sa1_to_ssc, ssc_names, data) {
 
       var flightEnter = flight.enter().append("div")
       .attr("class", "flight");
-
-      flightEnter.append("div")
-      .attr("class", "time")
-      .text(function(d) { return suburbCodeToName[d.suburb]; });
 
       flightEnter.append("div")
       .attr("class", "time")
@@ -469,6 +467,7 @@ function ready(error, sa1_to_ssc, ssc_names, data) {
           .enter().append("path")
           .attr("class", function(d) { return d + " bar"; })
           .datum(group.all());
+          console.log(group.all());
 
           g.selectAll(".foreground.bar")
           .attr("clip-path", "url(#clip-" + id + ")");
