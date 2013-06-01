@@ -129,6 +129,9 @@ h1, h2 {
   min-height: 20px;
 }
 
+.list {
+  min-height: 400px;
+}
 
 #flight-list .date,
 #flight-list .day {
@@ -177,7 +180,10 @@ aside {
     <h2>Introduction</h2>
     <p>For GovHack, I built this visualisation of the Statistical Area 2 data from the Australian 2011 Census. This tool lets you filter the Victorian data along different dimensions. The fields have been hand-picked, but the data is raw, and the application could be generalised to all the census data.</p>
 
+    <h2>Instructions</h2>
     <p>To use, click and drag the bar charts to filter the data. You can drag multiple charts to refine the query. The map shows which areas have been filtered out, and which ones match the current query. This lets you quickly explore interesting datasets.</p>
+    <p>The list at the bottom shows 100 of the currently selected areas.</p>
+    <p>Chrome has the best svg performance, so use that if you can</p>
 
     <h2>Analysis</h2>
     <p>
@@ -238,7 +244,7 @@ aside {
 
 
 <div id="lists">
-  <div id="flight-list" class="list"></div>
+  <div class="list"></div>
 </div>
 
 </div>
@@ -418,8 +424,8 @@ function ready(error, data, geo) {
   .each(function(chart) { chart.on("brush", renderAll).on("brushend", renderAll); });
 
   // Render the initial lists.
-//  var list = d3.selectAll(".list")
-//  .data([suburbList]);
+ // var list = d3.select(".list")
+ // .data(populations.all());
 
   // Render the total.
   d3.selectAll("#total")
@@ -448,7 +454,8 @@ function ready(error, data, geo) {
   // Whenever the brush moves, re-rendering everything.
   function renderAll() {
     chart.each(render);
-    //list.each(render);
+
+    updateList(population.top(100));
     updateRegions();
     d3.select("#active").text(formatNumber(all.value()));
   }
@@ -473,49 +480,57 @@ function ready(error, data, geo) {
     renderAll();
   };
 
-  function suburbList(div) {
-    div.each(function() {
-      var date = d3.select(this).selectAll(".date")
-      .data(age.top(40), function(d) { return d.key; });
+  function updateList(data) {
+    var list = d3.select(".list").selectAll(".area")
+    .data(data, function(d) { return d.region_id; });
 
-      date.enter().append("div")
-      .attr("class", "date")
-      .append("div")
-      .attr("class", "day")
-      .text("hello");
+    list.enter().append("div")
+    .attr("class", "area")
+    .text(function(d) { return d.SA2_NAME; });
 
-      date.exit().remove();
-
-      var flight = date.order().selectAll(".flight")
-      .data(function(d) { return d.values; }, function(d) { return d.index; });
-
-      var flightEnter = flight.enter().append("div")
-      .attr("class", "flight");
-
-      flightEnter.append("div")
-      .attr("class", "time")
-      .text(function(d) { return d.region_id; });
-
-      flightEnter.append("div")
-      .attr("class", "origin")
-      .text(function(d) { return d.Median_age_of_persons + " years"; });
-
-      flightEnter.append("div")
-      .attr("class", "destination")
-      .text(function(d) { return "$" + d.Median_total_personal_income_weekly + " p/w"; });
-
-      flightEnter.append("div")
-      .attr("class", "destination")
-      .text(function(d) { return "rent: $" + d.Median_rent_weekly + " p/w"; });
-
-      flightEnter.append("div")
-      .attr("class", "destination")
-      .text(function(d) { return d.Total_Persons_Persons + " people"; });
-
-      flight.exit().remove();
-
-      flight.order();
-    });
+    list.exit().remove();
+//    div.each(function() {
+//      var date = d3.select(this).selectAll(".date")
+//      .data(age.top(40), function(d) { return d.key; });
+//
+//      date.enter().append("div")
+//      .attr("class", "date")
+//      .append("div")
+//      .attr("class", "day")
+//      .text("hello");
+//
+//      date.exit().remove();
+//
+//      var flight = date.order().selectAll(".flight")
+//      .data(function(d) { return d.values; }, function(d) { return d.index; });
+//
+//      var flightEnter = flight.enter().append("div")
+//      .attr("class", "flight");
+//
+//      flightEnter.append("div")
+//      .attr("class", "time")
+//      .text(function(d) { return d.region_id; });
+//
+//      flightEnter.append("div")
+//      .attr("class", "origin")
+//      .text(function(d) { return d.Median_age_of_persons + " years"; });
+//
+//      flightEnter.append("div")
+//      .attr("class", "destination")
+//      .text(function(d) { return "$" + d.Median_total_personal_income_weekly + " p/w"; });
+//
+//      flightEnter.append("div")
+//      .attr("class", "destination")
+//      .text(function(d) { return "rent: $" + d.Median_rent_weekly + " p/w"; });
+//
+//      flightEnter.append("div")
+//      .attr("class", "destination")
+//      .text(function(d) { return d.Total_Persons_Persons + " people"; });
+//
+//      flight.exit().remove();
+//
+//      flight.order();
+//    });
   }
 
   function barChart() {
