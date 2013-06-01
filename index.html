@@ -226,16 +226,31 @@ function ready(error, data, geo) {
   var path = d3.geo.path()
       .projection(projection);
 
-  var svg = d3.select("#map");
+  var svg = d3.select("#map").append("g")
+      .call(d3.behavior.zoom()
+        .translate(projection.translate())
+        .scale(projection.scale())
+      .on("zoom", redraw));
 
   var regionsHash = d3.map();
 
   var mapdata = sa1.features;
-  var heat = svg.selectAll("path")
+  heat = svg.selectAll("path")
       .data(mapdata)
-    .enter().append("path")
-      .attr("d", path)
-      .each(function(d) { regionsHash.set(d.properties.code, this); });
+    .enter().append("path").attr("d", path)
+    .each(function(d) {
+      regionsHash.set(d.properties.code, this);
+    });
+  redraw();
+
+  function redraw() {
+    if (d3.event) {
+      projection
+        .translate(d3.event.translate)
+        .scale(d3.event.scale);
+    }
+    svg.selectAll("path")
+  }
 
   console.log(regionsHash);
 
@@ -252,11 +267,13 @@ function ready(error, data, geo) {
   // A little coercion, since the CSV is untyped.
   data.forEach(function(d, i) {
     d.index = i;
-    d.region_id = +d.region_id
+    d.region_id = +d.region_id;
     numeric_fields.forEach(function(field) {
       d[field] = +d[field];
     });
   });
+
+  data = data.filter(function(d) { return d.Total_Persons_Persons > 0; });
   console.log(data);
   //region_id,Median_age_of_persons,Median_mortgage_repayment_monthly,Median_total_personal_income_weekly,Median_rent_weekly,Median_total_family_income_weekly,Average_number_of_Persons_per_bedroom,Median_total_rent_income_weekly,Average_rent_size
   //region_id,Median_age_of_persons,Median_mortgage_repayment_monthly,Median_total_personal_income_weekly,Median_rent_weekly,Median_total_family_income_weekly,Average_number_of_Persons_per_bedroom,Median_total_household_income_weekly,Average_household_size,Owned_outright_Total,Owned_with_a_mortgage_Total,Total_Persons_Persons
@@ -272,14 +289,19 @@ function ready(error, data, geo) {
   incomes = income.group(function(d) { return Math.floor(d / 70) * 70; }),
   rent = suburb.dimension(function(d) { return Math.max(1, d.Median_rent_weekly); }),
   rents = rent.group(function(d) { return Math.floor(d / 40) * 40;}),
+  population = suburb.dimension(function(d) { return ((d.Total_Persons_Persons + 1) / d.AREA_SQKM) + 10; }),
+  populations = population.group(function(d) { return (d); }),
   region = suburb.dimension(function(d, i) { return d.region_id; }),
-  regions = region.group(function(id) { return id; }).reduceCount();
+  regions = region.group(function(id) { return id; }).reduceCount(),
+  volunteer = suburb.dimension(function(d) { return (d.Persons_Total_Volunteer / d.Total_Persons_Persons) * 100; })
+  volunteers = volunteer.group(function(d) { return Math.floor(d); });
+
 
   window.incomes = incomes;
   window.data = data;
 
 
-  //console.log(d3.extent(data, function(d) { return d.Owned_with_a_mortgage_Total / (d.Total_Persons_Persons + 1) * 100; }));
+  console.log(d3.extent(data, function(d) {return d.Total_Persons_Persons;}));
   //console.log(data.map(function(d) { return d.median_total_rent_income; }));
 
   var charts = [
@@ -305,6 +327,12 @@ function ready(error, data, geo) {
         .domain([0, 800])
         .rangeRound([0, 200])),
 
+    barChart()
+        .dimension(volunteer)
+        .group(volunteers)
+    .x(d3.scale.linear()
+        .domain([0, 100])
+        .rangeRound([0, 200])),
 
   ];
 
