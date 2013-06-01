@@ -252,8 +252,6 @@ queue()
   .await(ready);
 
 function ready(error, data, geo) {
-  console.log(data);
-  console.log(geo);
   var projection = d3.geo.mercator()
     .center([144.5, -37.9])
     .scale(10000);
@@ -305,9 +303,7 @@ function ready(error, data, geo) {
     });
   });
 
-  console.log(regionsHash);
   data = data.filter(function(d) { return d.Total_Persons_Persons > 0; });
-  console.log(data);
   //region_id,Median_age_of_persons,Median_mortgage_repayment_monthly,Median_total_personal_income_weekly,Median_rent_weekly,Median_total_family_income_weekly,Average_number_of_Persons_per_bedroom,Median_total_rent_income_weekly,Average_rent_size
   //region_id,Median_age_of_persons,Median_mortgage_repayment_monthly,Median_total_personal_income_weekly,Median_rent_weekly,Median_total_family_income_weekly,Average_number_of_Persons_per_bedroom,Median_total_household_income_weekly,Average_household_size,Owned_outright_Total,Owned_with_a_mortgage_Total,Total_Persons_Persons
   //region_id   Median_age_of_persons   Median_mortgage_repayment_monthly       Median_total_personal_income_weekly     Median_rent_weekly      Median_total_family_income_weekly       Average_number_of_Persons_per_bedroom   Median_total_household_income_weekly    Average_household_size  Total_Persons_Persons
@@ -342,7 +338,7 @@ function ready(error, data, geo) {
   window.data = data;
 
 
-  console.log(d3.extent(data, function(d) {return d.Total_Persons_Persons;}));
+  //console.log(d3.extent(data, function(d) {return d.Total_Persons_Persons;}));
   //console.log(data.map(function(d) { return d.median_total_rent_income; }));
 
   var charts = [
@@ -561,7 +557,6 @@ function ready(error, data, geo) {
           .enter().append("path")
           .attr("class", function(d) { return d + " bar"; })
           .datum(group.all());
-          console.log(group.all());
 
           g.selectAll(".foreground.bar")
           .attr("clip-path", "url(#clip-" + id + ")");
