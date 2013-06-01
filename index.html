@@ -7,9 +7,9 @@
 
 body {
   font-family: "Helvetica Neue";
-  margin: 40px auto;
-  width: 960px;
   min-height: 2000px;
+  margin: 0 auto;
+  width: 960px;
 }
 
 #body {
@@ -55,6 +55,7 @@ h1, h2 {
   display: inline-block;
   height: 151px;
   margin-bottom: 20px;
+  width: 225px;
 }
 
 .reset {
@@ -91,11 +92,16 @@ h1, h2 {
   stroke: #666;
 }
 
-#map path {
-  stroke: black;
-  stroke-width: 0.5px;
-  fill: none;
+#map #map-g {
+  fill: #fff;
+  stroke: #222;
+  stroke-width: 0.2px;
 }
+
+#hover {
+  min-height: 20px;
+}
+
 
 #hour-chart {
   width: 230px;
@@ -158,26 +164,23 @@ aside {
 
 </style>
 
-<div id="body">
 
-<svg id="map" style="width: 100%; height: 400px;"></div>
+<div id="body">
+<svg id="map" style="border: 1px solid #eee; height: 400px;"></div>
+<div id="hover"></div>
 
 <div id="charts">
-  <div id="hour-chart" class="chart">
+  <div class="chart">
     <div class="title">Age</div>
   </div>
-  <div id="delay-chart" class="chart">
-    <div class="title">Weekly Income</div>
+  <div class="chart">
+    <div class="title">Weekly Median Income</div>
   </div>
-  <div id="distance-chart" class="chart">
-    <div class="title">Weekly Rent</div>
+  <div class="chart">
+    <div class="title">Weekly Median Rent</div>
   </div>
-  <br />
-  <div id="date-chart" class="chart">
+  <div class="chart">
     <div class="title">Owned Outright</div>
-  </div>
-  <div id="distance-chart" class="chart">
-    <div class="title">Mortgage</div>
   </div>
 </div>
 
@@ -210,69 +213,65 @@ aside {
 //  .await(ready);
 
 queue()
-  .defer(d3.csv, "2011Census_B02_AUST_SA2_long.vic.csv")
+  .defer(d3.csv, "final_data_vic_no_zero.csv")
   .defer(d3.json, "sa2.vic.topo.json")
   .await(ready);
 
 function ready(error, data, geo) {
-  var sa1 = topojson.feature(geo, geo.objects.sa2);
-
+  console.log(data);
+  console.log(geo);
   var projection = d3.geo.mercator()
-    .center([144.96, -37.81])
-    .scale((1<<16) / 2 / Math.PI);
-
-
+    .center([145.5, -38.2])
+    .scale((1<<14) / 2);
 
   var path = d3.geo.path()
       .projection(projection);
 
-  var svg = d3.select("#map").append("g")
-      .call(d3.behavior.zoom()
-        .translate(projection.translate())
-        .scale(projection.scale())
-      .on("zoom", redraw));
+  var svg = d3.select("#map").append("g").attr("id", "map-g");
 
   var regionsHash = d3.map();
 
-  var mapdata = sa1.features;
-  heat = svg.selectAll("path")
-      .data(mapdata)
-    .enter().append("path").attr("d", path)
+  var color;
+
+  svg.selectAll("path")
+      .data(topojson.feature(geo, geo.objects.sa2).features)
+    .enter().append("path")
+      .attr("d", path)
     .each(function(d) {
       regionsHash.set(d.properties.code, this);
-    });
-  redraw();
+    })
+    .on("mouseover", function(d) { color = this.style.fill; this.style.fill = "#5f3"; updateHover(d.properties); })
+    .on("mouseout", function(d) { this.style.fill = color; deleteHover(); });
 
-  function redraw() {
-    if (d3.event) {
-      projection
-        .translate(d3.event.translate)
-        .scale(d3.event.scale);
-    }
-    svg.selectAll("path")
+  var hover = d3.select("#hover");
+
+  function updateHover(d) {
+    s = "Selected: " + d.name;
+    hover.html(s)
+  };
+
+  function deleteHover() {
+    hover.html("");
   }
 
-  console.log(regionsHash);
 
-  console.log(data);
-  console.log(geo);
   // Various formatters.
   var formatNumber = d3.format(",d");
 
-  var nestBySuburb = d3.nest()
-    .key(function(d) { return d.region_id.toString().substr(1, 1); });
-
   var numeric_fields = d3.set(d3.keys(data[0]));
-  numeric_fields.remove("region_id");
+  numeric_fields.remove("SA2_NAME");
   // A little coercion, since the CSV is untyped.
   data.forEach(function(d, i) {
     d.index = i;
     d.region_id = +d.region_id;
+    var region = regionsHash.get(d.region_id)
     numeric_fields.forEach(function(field) {
       d[field] = +d[field];
+      region.__data__.properties[field] = d[field];
     });
   });
 
+  console.log(regionsHash);
   data = data.filter(function(d) { return d.Total_Persons_Persons > 0; });
   console.log(data);
   //region_id,Median_age_of_persons,Median_mortgage_repayment_monthly,Median_total_personal_income_weekly,Median_rent_weekly,Median_total_family_income_weekly,Average_number_of_Persons_per_bedroom,Median_total_rent_income_weekly,Average_rent_size
@@ -293,6 +292,7 @@ function ready(error, data, geo) {
   populations = population.group(function(d) { return (d); }),
   region = suburb.dimension(function(d, i) { return d.region_id; }),
   regions = region.group(function(id) { return id; }).reduceCount(),
+  school = suburb.dimension(function(d) { return d.Total_Persons_Persons
   volunteer = suburb.dimension(function(d) { return (d.Persons_Total_Volunteer / d.Total_Persons_Persons) * 100; })
   volunteers = volunteer.group(function(d) { return Math.floor(d); });
 
@@ -344,8 +344,8 @@ function ready(error, data, geo) {
   .each(function(chart) { chart.on("brush", renderAll).on("brushend", renderAll); });
 
   // Render the initial lists.
-  var list = d3.selectAll(".list")
-  .data([suburbList]);
+//  var list = d3.selectAll(".list")
+//  .data([suburbList]);
 
   // Render the total.
   d3.selectAll("#total")
@@ -355,13 +355,12 @@ function ready(error, data, geo) {
 
   function updateRegions() {
     var polygons = regions.all();
-    console.log(polygons);
     polygons.forEach(function(d) {
       polygon = regionsHash.get(d.key);
       if (d.value == 1) {
         polygon.style.fill = "steelblue";
       } else {
-        polygon.style.fill = "";
+        polygon.style.fill = ""
       }
     });
   }
@@ -375,7 +374,7 @@ function ready(error, data, geo) {
   // Whenever the brush moves, re-rendering everything.
   function renderAll() {
     chart.each(render);
-    list.each(render);
+    //list.each(render);
     updateRegions();
     d3.select("#active").text(formatNumber(all.value()));
   }
@@ -400,11 +399,9 @@ function ready(error, data, geo) {
   };
 
   function suburbList(div) {
-    var suburbsByState = nestBySuburb.entries(age.top(40));
-
     div.each(function() {
       var date = d3.select(this).selectAll(".date")
-      .data(suburbsByState, function(d) { return d.key; });
+      .data(age.top(40), function(d) { return d.key; });
 
       date.enter().append("div")
       .attr("class", "date")
