@@ -17,7 +17,7 @@ body {
   position: relative;
 }
 
-#text {
+.text {
   margin-bottom: 20px;
 }
 
@@ -52,7 +52,7 @@ h1, h2 {
   text-rendering: optimizeLegibility;
 }
 
-#text > p, #text > h2 {
+.text > p, .text > h2 {
   line-height: 1.5em;
   width: 640px;
   margin: 0 auto;
@@ -104,6 +104,10 @@ h1, h2 {
 .brush .resize path {
   fill: #eee;
   stroke: #666;
+}
+
+.attribution {
+  font-size: smaller;
 }
 
 #map #map-g {
@@ -164,7 +168,7 @@ aside {
 <h1>Census Explorer</h1>
 
 <div id="body">
-  <div id="text">
+  <div class="text">
     <h2>Introduction</h2>
     <p>For GovHack, I built this visualisation of the Statistical Area 2 data from the Australian 2011 Census. This tool lets you filter the Victorian data along different dimensions. The fields have been hand-picked, but the data is raw, and the application could be generalised to all the census data.</p>
 
@@ -220,6 +224,11 @@ aside {
 <div id="hover"></div>
 <svg id="map" style="border: 1px solid #eee; height: 400px;"></div>
 
+<div class="text attribution">
+  <p>
+  By Yuri Feldman (<a href="http://www.twitter.com/arrayjam">@arrayjam</a>) for GovHack 2013. Made with d3.js, crossfilter and topojson. Based on <a href="http://www.abs.gov.au">Australian Bureau of Statistics data</a>.
+  </p>
+</div>
 </div>
 
 
