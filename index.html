@@ -4,6 +4,7 @@
 <style>
 
 @import url(http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700);
+// govhack: 419dce cb345e
 
 body {
   font-family: "Helvetica Neue";
@@ -14,6 +15,11 @@ body {
 
 #body {
   position: relative;
+}
+
+.description {
+  color: #666;
+  font-size: 12px;
 }
 
 footer {
@@ -60,8 +66,7 @@ h1, h2 {
 
 .reset {
   padding-left: 1em;
-  font-size: smaller;
-  color: #ccc;
+  color: #cb345e;
 }
 
 .background.bar {
@@ -69,7 +74,7 @@ h1, h2 {
 }
 
 .foreground.bar {
-  fill: steelblue;
+  fill: #419dce;
 }
 
 .axis path, .axis line {
@@ -83,7 +88,7 @@ h1, h2 {
 }
 
 .brush rect.extent {
-  fill: steelblue;
+  fill: #419dce;
   fill-opacity: .125;
 }
 
@@ -171,16 +176,39 @@ aside {
 
 <div id="charts">
   <div class="chart">
-    <div class="title">Age</div>
+    <div class="title">Median Age</div>
+    <div class="description">Years</div>
   </div>
   <div class="chart">
-    <div class="title">Weekly Median Income</div>
+    <div class="title">Weekly Median Personal Income</div>
+    <div class="description">AUD</div>
   </div>
   <div class="chart">
     <div class="title">Weekly Median Rent</div>
+    <div class="description">AUD</div>
   </div>
   <div class="chart">
-    <div class="title">Owned Outright</div>
+    <div class="title">Year 12 or Equivalent Complete</div>
+    <div class="description">Percentage of population</div>
+  </div>
+
+  <br />
+
+  <div class="chart">
+    <div class="title">Volunteers</div>
+    <div class="description">Percentage of population</div>
+  </div>
+  <div class="chart">
+    <div class="title">Born Outside Australia</div>
+    <div class="description">Percentage of population</div>
+  </div>
+  <div class="chart">
+    <div class="title">Labour Force</div>
+    <div class="description">Percentage of population</div>
+  </div>
+  <div class="chart">
+    <div class="title">Unemployment</div>
+    <div class="description">1/1000 of population</div>
   </div>
 </div>
 
@@ -213,7 +241,7 @@ aside {
 //  .await(ready);
 
 queue()
-  .defer(d3.csv, "final_data_vic_no_zero.csv")
+  .defer(d3.csv, "final_data_vic.csv")
   .defer(d3.json, "sa2.vic.topo.json")
   .await(ready);
 
@@ -240,7 +268,7 @@ function ready(error, data, geo) {
     .each(function(d) {
       regionsHash.set(d.properties.code, this);
     })
-    .on("mouseover", function(d) { color = this.style.fill; this.style.fill = "#5f3"; updateHover(d.properties); })
+    .on("mouseover", function(d) { color = this.style.fill; this.style.fill = "#cb345e"; updateHover(d.properties); })
     .on("mouseout", function(d) { this.style.fill = color; deleteHover(); });
 
   var hover = d3.select("#hover");
@@ -292,9 +320,16 @@ function ready(error, data, geo) {
   populations = population.group(function(d) { return (d); }),
   region = suburb.dimension(function(d, i) { return d.region_id; }),
   regions = region.group(function(id) { return id; }).reduceCount(),
-  school = suburb.dimension(function(d) { return d.Total_Persons_Persons
+  school = suburb.dimension(function(d) { return (d.Persons_Year_12_or_equivalent_Total / d.Total_Persons_Persons) * 100; }),
+  schools = school.group(function(d) { return Math.floor(d / 5) * 5; }),
   volunteer = suburb.dimension(function(d) { return (d.Persons_Total_Volunteer / d.Total_Persons_Persons) * 100; })
-  volunteers = volunteer.group(function(d) { return Math.floor(d); });
+  volunteers = volunteer.group(function(d) { return Math.floor(d / 2) * 2; }),
+  migrant = suburb.dimension(function(d) { return (d.Born_elsewhere_Persons / d.Total_Persons_Persons) * 100; }),
+  migrants = migrant.group(function(d) { return Math.floor(d) ; }),
+  labour = suburb.dimension(function(d) { return (d.Persons_Total_labour_force_Total / d.Total_Persons_Persons) * 100; }),
+  labours = labour.group(function(d) { return Math.floor(d / 4) * 4 ; }),
+  unemployed = suburb.dimension(function(d) { return (d.Persons_Unemployed_looking_for_Total_Total / d.Total_Persons_Persons) * 1000; }),
+  unemployeds = unemployed.group(function(d) { return Math.floor(d / 4) * 4; });
 
 
   window.incomes = incomes;
@@ -328,12 +363,39 @@ function ready(error, data, geo) {
         .rangeRound([0, 200])),
 
     barChart()
-        .dimension(volunteer)
-        .group(volunteers)
+        .dimension(school)
+        .group(schools)
     .x(d3.scale.linear()
         .domain([0, 100])
         .rangeRound([0, 200])),
 
+    barChart()
+        .dimension(volunteer)
+        .group(volunteers)
+    .x(d3.scale.linear()
+        .domain([0, 40])
+        .rangeRound([0, 200])),
+
+    barChart()
+        .dimension(migrant)
+        .group(migrants)
+    .x(d3.scale.linear()
+        .domain([0, 20])
+        .rangeRound([0, 200])),
+
+    barChart()
+        .dimension(labour)
+        .group(labours)
+    .x(d3.scale.linear()
+        .domain([0, 80])
+        .rangeRound([0, 200])),
+
+    barChart()
+        .dimension(unemployed)
+        .group(unemployeds)
+    .x(d3.scale.linear()
+        .domain([0, 80])
+        .rangeRound([0, 200])),
   ];
 
   // Given our array of charts, which we assume are in the same order as the
@@ -358,7 +420,7 @@ function ready(error, data, geo) {
     polygons.forEach(function(d) {
       polygon = regionsHash.get(d.key);
       if (d.value == 1) {
-        polygon.style.fill = "steelblue";
+        polygon.style.fill = "#419dce";
       } else {
         polygon.style.fill = ""
       }
@@ -469,10 +531,10 @@ function ready(error, data, geo) {
 
         // Create the skeletal chart.
         if (g.empty()) {
-          div.select(".title").append("a")
+          div.select(".description").append("a")
           .attr("href", "javascript:reset(" + id + ")")
           .attr("class", "reset")
-          .text("reset")
+          .text("Reset")
           .style("display", "none");
 
           g = div.append("svg")
@@ -512,7 +574,7 @@ function ready(error, data, geo) {
         if (brushDirty) {
           brushDirty = false;
           g.selectAll(".brush").call(brush);
-          div.select(".title a").style("display", brush.empty() ? "none" : null);
+          div.select(".description a").style("display", brush.empty() ? "none" : null);
           if (brush.empty()) {
             g.selectAll("#clip-" + id + " rect")
             .attr("x", 0)
@@ -558,7 +620,7 @@ function ready(error, data, geo) {
 
     brush.on("brushstart.chart", function() {
       var div = d3.select(this.parentNode.parentNode.parentNode);
-      div.select(".title a").style("display", null);
+      div.select(".description a").style("display", null);
     });
 
     brush.on("brush.chart", function() {
@@ -577,7 +639,7 @@ function ready(error, data, geo) {
     brush.on("brushend.chart", function() {
       if (brush.empty()) {
         var div = d3.select(this.parentNode.parentNode.parentNode);
-        div.select(".title a").style("display", "none");
+        div.select(".description a").style("display", "none");
         div.select("#clip-" + id + " rect").attr("x", null).attr("width", "100%");
         dimension.filterAll();
       }
