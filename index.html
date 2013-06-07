@@ -416,6 +416,7 @@ function ready(error, data, geo) {
     barChart()
         .dimension(migrant)
         .group(migrants)
+        .selected(1)
     .x(d3.scale.linear()
         .domain([0, 20])
         .rangeRound([0, 200])),
@@ -561,7 +562,8 @@ function ready(error, data, geo) {
     brushDirty,
     dimension,
     group,
-    round;
+    round,
+    selected;
 
     function chart(div) {
       var width = x.range()[1],
@@ -640,7 +642,7 @@ function ready(error, data, geo) {
           bar.attr("d", barPath);
         });
         g.selectAll(".foreground path")
-            .style("fill", function(d, i) { return linear(i); });
+            .style("fill", function(d, i) { return selected ? linear(i) : "steelblue"; });
       });
 
       function barPath(d) {
@@ -739,6 +741,12 @@ function ready(error, data, geo) {
       round = _;
       return chart;
     };
+
+    chart.selected = function(_) {
+      if (!arguments.length) return selected;
+      selected = _;
+      return chart;
+    }
 
     return d3.rebind(chart, brush, "on");
   }
