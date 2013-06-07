@@ -275,7 +275,11 @@ function ready(error, data, geo) {
   var path = d3.geo.path()
       .projection(projection);
 
-  var svg = d3.select("#map").append("g").attr("id", "map-g");
+  var svg = d3.select("#map").append("g").attr("id", "map-g")
+    .call(d3.behavior.zoom()
+      .translate(projection.translate())
+      .scale(projection.scale())
+      .on("zoom", redraw));
 
   var regionsHash = d3.map();
 
@@ -290,6 +294,16 @@ function ready(error, data, geo) {
     })
     .on("mouseover", function(d) { color = this.style.fill; this.style.fill = "#cb345e"; updateHover(d.properties); })
     .on("mouseout", function(d) { this.style.fill = color; deleteHover(); });
+    redraw();
+
+  function redraw() {
+    if (d3.event) {
+      projection
+      .translate(d3.event.translate)
+      .scale(d3.event.scale);
+    }
+    svg.selectAll("path").attr("d", path);
+  }
 
   var hover = d3.select("#hover");
 
@@ -306,13 +320,16 @@ function ready(error, data, geo) {
   // Various formatters.
   var formatNumber = d3.format(",d");
 
+  var linear = d3.scale.category20()
+
   var numeric_fields = d3.set(d3.keys(data[0]));
   numeric_fields.remove("SA2_NAME");
   // A little coercion, since the CSV is untyped.
   data.forEach(function(d, i) {
     d.index = i;
     d.region_id = +d.region_id;
-    var region = regionsHash.get(d.region_id)
+    var region = regionsHash.get(d.region_id);
+    d.feature = region;
     numeric_fields.forEach(function(field) {
       d[field] = +d[field];
       region.__data__.properties[field] = d[field];
@@ -326,13 +343,13 @@ function ready(error, data, geo) {
 
 
   // Create the crossfilter for the relevant dimensions and groups.
-  var suburb = crossfilter(data),
+  suburb = crossfilter(data),
   all = suburb.groupAll(),
   age = suburb.dimension(function(d) { return Math.min(80, d.Median_age_of_persons); }),
   ages = age.group(function(d) { return Math.floor(d / 4) * 4; }),
-  income = suburb.dimension(function(d) { return Math.max(1, Math.min(2000, d.Median_total_personal_income_weekly)); }),
+  income = suburb.dimension(function(d) { return Math.min(1300, d.Median_total_personal_income_weekly); }),
   incomes = income.group(function(d) { return Math.floor(d / 70) * 70; }),
-  rent = suburb.dimension(function(d) { return Math.max(1, d.Median_rent_weekly); }),
+  rent = suburb.dimension(function(d) { return Math.min(800, d.Median_rent_weekly); }),
   rents = rent.group(function(d) { return Math.floor(d / 40) * 40;}),
   population = suburb.dimension(function(d) { return ((d.Total_Persons_Persons + 1) / d.AREA_SQKM) + 10; }),
   populations = population.group(function(d) { return (d); }),
@@ -347,7 +364,9 @@ function ready(error, data, geo) {
   labour = suburb.dimension(function(d) { return (d.Persons_Total_labour_force_Total / d.Total_Persons_Persons) * 100; }),
   labours = labour.group(function(d) { return Math.floor(d / 4) * 4 ; }),
   unemployed = suburb.dimension(function(d) { return (d.Persons_Unemployed_looking_for_Total_Total / d.Total_Persons_Persons) * 1000; }),
-  unemployeds = unemployed.group(function(d) { return Math.floor(d / 4) * 4; });
+  unemployeds = unemployed.group(function(d) { return Math.floor(d / 4) * 4; }),
+  feature = suburb.dimension(function(d) { return d.feature; }),
+  features = feature.group(function(d) { return d; });
 
 
   window.incomes = incomes;
@@ -434,14 +453,11 @@ function ready(error, data, geo) {
   renderAll();
 
   function updateRegions() {
-    var polygons = regions.all();
+    svg.selectAll("path").each(function(_) { this.style.fill = ""; });
+    var polygons = feature.top(1000);
     polygons.forEach(function(d) {
-      polygon = regionsHash.get(d.key);
-      if (d.value == 1) {
-        polygon.style.fill = "#419dce";
-      } else {
-        polygon.style.fill = ""
-      }
+        //polygon.style.fill = "#419dce";
+        d.feature.style.fill = "#419dce";
     });
   }
 
@@ -454,9 +470,9 @@ function ready(error, data, geo) {
   // Whenever the brush moves, re-rendering everything.
   function renderAll() {
     chart.each(render);
-
-    updateList(population.top(100));
     updateRegions();
+
+    //updateList(population.top(100));
     d3.select("#active").text(formatNumber(all.value()));
   }
 
@@ -579,7 +595,7 @@ function ready(error, data, geo) {
 
           g.selectAll(".bar")
           .data(["background", "foreground"])
-          .enter().append("path")
+          .enter().append("g")
           .attr("class", function(d) { return d + " bar"; })
           .datum(group.all());
 
@@ -614,19 +630,19 @@ function ready(error, data, geo) {
           }
         }
 
-        g.selectAll(".bar").attr("d", barPath);
+        g.selectAll(".bar").each(function(d) {
+          d3.select(this).selectAll("path")
+              .data(d)
+            .enter().append("path")
+            .attr("d", barPath);
+         
+        });
+        g.selectAll(".foreground path")
+            .style("fill", function(d, i) { return linear(i); });
       });
 
-      function barPath(groups) {
-        var path = [],
-        i = -1,
-        n = groups.length,
-        d;
-        while (++i < n) {
-          d = groups[i];
-          path.push("M", x(d.key), ",", height, "V", y(d.value), "h9V", height);
-        }
-        return path.join("");
+      function barPath(d) {
+        return "M" + x(d.key) + "," + height + "V" + y(d.value) + "h9V" + height + "z";
       }
 
       function resizePath(d) {
