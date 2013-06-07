@@ -205,7 +205,7 @@ aside {
     <div class="description">AUD</div>
   </div>
   <div class="chart">
-    <div class="title">Weekly Median Rent</div>
+    <div class="title" style="font-weight: bold">Weekly Median Rent</div>
     <div class="description">AUD</div>
   </div>
   <div class="chart">
@@ -320,7 +320,7 @@ function ready(error, data, geo) {
   // Various formatters.
   var formatNumber = d3.format(",d");
 
-  var linear = d3.scale.category20()
+  var linear = d3.scale.linear().domain([0, 20]).range(["red", "yellow", "green"]);
 
   var numeric_fields = d3.set(d3.keys(data[0]));
   numeric_fields.remove("SA2_NAME");
@@ -457,7 +457,7 @@ function ready(error, data, geo) {
     var polygons = feature.top(1000);
     polygons.forEach(function(d) {
         //polygon.style.fill = "#419dce";
-        d.feature.style.fill = "#419dce";
+        d.feature.style.fill = linear(Math.floor(Math.min(800, d.Median_rent_weekly) / 40) * 40 / 20);
     });
   }
 
@@ -631,11 +631,13 @@ function ready(error, data, geo) {
         }
 
         g.selectAll(".bar").each(function(d) {
-          d3.select(this).selectAll("path")
-              .data(d)
-            .enter().append("path")
+          var bar = d3.select(this).selectAll("path")
+          .data(d, function(x) { return x.key; });
+
+          bar.enter().append("path")
             .attr("d", barPath);
-         
+
+          bar.attr("d", barPath);
         });
         g.selectAll(".foreground path")
             .style("fill", function(d, i) { return linear(i); });
