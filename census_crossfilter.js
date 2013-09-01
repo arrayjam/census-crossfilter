@@ -1,8 +1,9 @@
-//queue()
-//  .defer(d3.csv, "sa1_to_ssc_converted.csv")
-//  .defer(d3.csv, "suburb_names.csv")
-//  .defer(d3.csv, "frankendata_trimmed_nosmall.csv")
-//  .await(ready);
+var height = 400;
+var filteredColor = "#bbb";
+var palette = "OrRd";
+//var palette = "Blues";
+//var palette = "Oranges";
+//var palette = "Purples";
 
 queue()
   .defer(d3.csv, "final_data_vic.csv")
@@ -11,13 +12,14 @@ queue()
 
 function ready(error, data, geo) {
   var projection = d3.geo.mercator()
-    .center([144.5, -37.9])
+    .center([144.5, -38.3])
     .scale(10000);
 
   var path = d3.geo.path()
       .projection(projection);
 
-  var svg = d3.select("#map").append("g").attr("id", "map-g")
+  var svg = d3.select("#map").style("height", height)
+    .append("g").attr("id", "map-g")
     .call(d3.behavior.zoom()
       .translate(projection.translate())
       .scale(projection.scale())
@@ -66,7 +68,7 @@ function ready(error, data, geo) {
   //var linear = d3.scale.linear().domain([0, 20]).range(["yellow", "blue"]);
   var linear = d3.scale.quantile().domain([0, 20]).range(d3.range(9));
   var quantile = d3.scale.quantile().range(d3.range(20));
-  var colorScale = function(x) { return colorbrewer.OrRd[9][linear(x)]; };
+  var colorScale = function(x) { return colorbrewer[palette][9][linear(x)]; };
 
 
   var numeric_fields = d3.set(d3.keys(data[0]));
@@ -197,7 +199,7 @@ function ready(error, data, geo) {
   renderAll();
 
   function updateRegions() {
-    svg.selectAll("path").each(function() { this.style.fill = "#bbb"; });
+    svg.selectAll("path").each(function() { this.style.fill = filteredColor; });
     var polygons;
     if (selectedChart) {
       quantile.domain(selectedChart.domain());
