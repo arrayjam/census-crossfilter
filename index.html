@@ -185,23 +185,6 @@ aside {
 <h1>Census Explorer</h1>
 
 <div id="body">
-  <div class="text">
-    <!--<h2>Introduction</h2>-->
-    <!--<p>For GovHack, I built this visualisation of the Statistical Area 2 data from the Australian 2011 Census. This tool lets you filter the Victorian data along different dimensions. The fields have been hand-picked, but the data is raw, and the application could be generalised to all the census data.</p>-->
-
-    <!--<h2>Instructions</h2>-->
-    <!--<p>To use, click and drag the bar charts to filter the data. You can drag multiple charts to refine the query. The map shows which areas have been filtered out, and which ones match the current query. This lets you quickly explore interesting datasets.</p>-->
-    <!--<p>The list at the bottom shows 100 of the currently selected areas.</p>-->
-    <!--<p>Chrome has the best svg performance, so use that if you can</p>-->
-
-    <!--<h2>Analysis</h2>-->
-    <!--<p>-->
-    <!--Using this, we can see that country residents are <a href="javascript:filter([null, null, null, null, null, [0, 2], null, null])">likely to have been born in Australia</a> and <a href="javascript:filter([null, null, [0, 250], null, null, null, null, null])">pay less rent</a>. It can also show us mutivariate statistical data. We can find the <a href="javascript:filter([[43, 80], [700, 1400], null, null, null, null, null, null])">rich older people</a>, <a href="javascript:filter([null, [0, 400], null, null, null, [2, 20], [0, 50], null])">low-income migrants who are not in the labour force</a>, and the <a href="javascript:filter([[0, 28], [0, 500], null, [50, 100], null, null, null, null])">young educated hipsters</a>. By selecting a range from one dimension and dragging it along the graph, we can see that (obviously) <a href="javascript:filter([null, [300, 400], null, null, null, null, null, null])">income</a> correlates to rent, involvement in the labour force, and education.</p>-->
-
-    <!--<p>-->
-    <!--There are many more stories here, but you have to find them for yourself.-->
-    <!--</p>-->
-  </div>
 
 <a name="vis"></a>
 <div class="charts">
@@ -249,6 +232,18 @@ aside {
   By Yuri Feldman (<a href="http://www.twitter.com/arrayjam">@arrayjam</a>) for GovHack 2013. Made with d3.js, crossfilter and topojson. Based on <a href="http://www.abs.gov.au">Australian Bureau of Statistics data</a>.
   </p>
 </div>
+  <div class="text">
+    <h2>Introduction</h2>
+    <p>For GovHack, I built this visualisation of the Statistical Area 2 data from the Australian 2011 Census. This tool lets you filter the Victorian data along different dimensions. The fields have been hand-picked, but the data is raw, and the application could be generalised to all the census data.</p>
+
+    <h2>Instructions</h2>
+    <p>To use, click and drag the bar charts to filter the data. You can drag multiple charts to refine the query. The map shows which areas have been filtered out, and which ones match the current query. This lets you quickly explore interesting datasets.</p>
+    <p>You can also click on a chart title to select it. This lets you always see the values of that dimension on the map as a choropleth</p>
+
+    <h2>Analysis</h2>
+    <p>
+    Using this, we can see that country residents are <a href="javascript:filter([null, null, null, null, null, [0, 2], null, null])">likely to have been born in Australia</a> and <a href="javascript:filter([null, null, [0, 250], null, null, null, null, null])">pay less rent</a>. It can also show us mutivariate statistical data. We can find the <a href="javascript:filter([[43, 80], [700, 1400], null, null, null, null, null, null])">rich older people</a>, <a href="javascript:filter([null, [0, 400], null, null, null, [2, 20], [0, 50], null])">low-income migrants who are not in the labour force</a>, and the <a href="javascript:filter([[0, 28], [0, 500], null, [50, 100], null, null, null, null])">young educated hipsters</a>. By selecting a range from one dimension and dragging it along the graph, we can see that (obviously) <a href="javascript:filter([null, [300, 400], null, null, null, null, null, null])">income</a> correlates to rent, involvement in the labour force, and education.</p>
+  </div>
 </div>
 
 

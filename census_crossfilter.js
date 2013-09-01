@@ -34,8 +34,8 @@ function ready(error, data, geo) {
     .each(function(d) {
       regionsHash.set(d.properties.code, this);
     })
-    .on("mouseover", function(d) { color = this.style.fill; this.style.fill = "#cb345e"; updateHover(d.properties); })
-    .on("mouseout", function(d) { this.style.fill = color; deleteHover(); });
+    .on("mouseover", function(d) { color = this.style.opacity; this.style.opacity = "0.8"; updateHover(d.properties); })
+    .on("mouseout", function(d) { this.style.opacity = color; deleteHover(); });
 
   redraw();
 
@@ -201,21 +201,9 @@ function ready(error, data, geo) {
       polygons = selectedChart.dimension().top(Infinity);
       var dfunc = selectedChart.dimensionFunction();
       var gfunc = selectedChart.groupFunction();
-      //selectedChart
-      //console.log(dfunc);
-      //console.log(polygons[0]);
-      //polygons.forEach(function(d) { console.log(dfunc(d)); console.log(gfunc(d)); console.log(gfunc(dfunc(d))); console.log(dfunc(gfunc(d))); d.feature.style.fill = colorScale(gfunc(d)); });
-      window.sel = selectedChart.group();
-      //console.log(selectedChart.domain());
-      //console.log(sel.top(1)[0].value);
+
       polygons.forEach(function(d) {
-        //console.log(dfunc(d));
-        console.log(dfunc(d));
-        console.log(gfunc(dfunc(d)));
-        console.log(quantile(gfunc(dfunc(d))));
-        var a = quantile(gfunc(dfunc(d)));
-        //console.log(a);
-        d.feature.style.fill = colorScale(a );
+        d.feature.style.fill = colorScale(quantile(gfunc(dfunc(d))));
       });
     } else {
       polygons = feature.top(Infinity);
