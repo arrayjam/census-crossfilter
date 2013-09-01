@@ -197,7 +197,7 @@ function ready(error, data, geo) {
   renderAll();
 
   function updateRegions() {
-    svg.selectAll("path").each(function() { this.style.fill = ""; });
+    svg.selectAll("path").each(function() { this.style.fill = "#bbb"; });
     var polygons;
     if (selectedChart) {
       quantile.domain(selectedChart.domain());
