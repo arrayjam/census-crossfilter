@@ -190,8 +190,11 @@ function ready(error, data, geo) {
   d3.selectAll("#total")
   .text(formatNumber(c.size()));
 
-  renderAll();
   var selectedChart;
+  renderAll();
+
+  charts[1].select();
+  renderAll();
 
   function updateRegions() {
     svg.selectAll("path").each(function() { this.style.fill = ""; });
