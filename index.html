@@ -171,27 +171,36 @@ aside {
   font-size: smaller;
 }
 
+.title:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.chart.selected .title {
+  font-weight: bold;
+}
+
 </style>
 
 <h1>Census Explorer</h1>
 
 <div id="body">
   <div class="text">
-    <h2>Introduction</h2>
-    <p>For GovHack, I built this visualisation of the Statistical Area 2 data from the Australian 2011 Census. This tool lets you filter the Victorian data along different dimensions. The fields have been hand-picked, but the data is raw, and the application could be generalised to all the census data.</p>
+    <!--<h2>Introduction</h2>-->
+    <!--<p>For GovHack, I built this visualisation of the Statistical Area 2 data from the Australian 2011 Census. This tool lets you filter the Victorian data along different dimensions. The fields have been hand-picked, but the data is raw, and the application could be generalised to all the census data.</p>-->
 
-    <h2>Instructions</h2>
-    <p>To use, click and drag the bar charts to filter the data. You can drag multiple charts to refine the query. The map shows which areas have been filtered out, and which ones match the current query. This lets you quickly explore interesting datasets.</p>
-    <p>The list at the bottom shows 100 of the currently selected areas.</p>
-    <p>Chrome has the best svg performance, so use that if you can</p>
+    <!--<h2>Instructions</h2>-->
+    <!--<p>To use, click and drag the bar charts to filter the data. You can drag multiple charts to refine the query. The map shows which areas have been filtered out, and which ones match the current query. This lets you quickly explore interesting datasets.</p>-->
+    <!--<p>The list at the bottom shows 100 of the currently selected areas.</p>-->
+    <!--<p>Chrome has the best svg performance, so use that if you can</p>-->
 
-    <h2>Analysis</h2>
-    <p>
-    Using this, we can see that country residents are <a href="javascript:filter([null, null, null, null, null, [0, 2], null, null])">likely to have been born in Australia</a> and <a href="javascript:filter([null, null, [0, 250], null, null, null, null, null])">pay less rent</a>. It can also show us mutivariate statistical data. We can find the <a href="javascript:filter([[43, 80], [700, 1400], null, null, null, null, null, null])">rich older people</a>, <a href="javascript:filter([null, [0, 400], null, null, null, [2, 20], [0, 50], null])">low-income migrants who are not in the labour force</a>, and the <a href="javascript:filter([[0, 28], [0, 500], null, [50, 100], null, null, null, null])">young educated hipsters</a>. By selecting a range from one dimension and dragging it along the graph, we can see that (obviously) <a href="javascript:filter([null, [300, 400], null, null, null, null, null, null])">income</a> correlates to rent, involvement in the labour force, and education.</p>
+    <!--<h2>Analysis</h2>-->
+    <!--<p>-->
+    <!--Using this, we can see that country residents are <a href="javascript:filter([null, null, null, null, null, [0, 2], null, null])">likely to have been born in Australia</a> and <a href="javascript:filter([null, null, [0, 250], null, null, null, null, null])">pay less rent</a>. It can also show us mutivariate statistical data. We can find the <a href="javascript:filter([[43, 80], [700, 1400], null, null, null, null, null, null])">rich older people</a>, <a href="javascript:filter([null, [0, 400], null, null, null, [2, 20], [0, 50], null])">low-income migrants who are not in the labour force</a>, and the <a href="javascript:filter([[0, 28], [0, 500], null, [50, 100], null, null, null, null])">young educated hipsters</a>. By selecting a range from one dimension and dragging it along the graph, we can see that (obviously) <a href="javascript:filter([null, [300, 400], null, null, null, null, null, null])">income</a> correlates to rent, involvement in the labour force, and education.</p>-->
 
-    <p>
-    There are many more stories here, but you have to find them for yourself.
-    </p>
+    <!--<p>-->
+    <!--There are many more stories here, but you have to find them for yourself.-->
+    <!--</p>-->
   </div>
 
 <a name="vis"></a>
@@ -220,7 +229,7 @@ aside {
     <div class="description">Percentage of population</div>
   </div>
   <div class="chart">
-    <div class="title" style="font-weight: bold">Born Outside Australia</div>
+    <div class="title">Born Outside Australia</div>
     <div class="description">Percentage of population</div>
   </div>
   <div class="chart">
@@ -252,6 +261,7 @@ aside {
 
 <script src="crossfilter.v1.min.js"></script>
 <script src="d3.js"></script>
+<script src="colorbrewer.js"></script>
 <script src="queue.min.js"></script>
 <script src="topojson.js"></script>
 <script>
@@ -320,7 +330,10 @@ function ready(error, data, geo) {
   // Various formatters.
   var formatNumber = d3.format(",d");
 
-  var linear = d3.scale.linear().domain([0, 20]).range(["yellow", "blue"]);
+  //var linear = d3.scale.linear().domain([0, 20]).range(["yellow", "blue"]);
+  var linear = d3.scale.quantile().domain([0, 20]).range(d3.range(9).reverse());
+  var colorScale = function(x) { return colorbrewer.BuGn[9][linear(x)]; };
+
 
   var numeric_fields = d3.set(d3.keys(data[0]));
   numeric_fields.remove("SA2_NAME");
@@ -416,7 +429,7 @@ function ready(error, data, geo) {
     barChart()
         .dimension(migrant)
         .group(migrants)
-        .selected(1)
+        .selected(true)
     .x(d3.scale.linear()
         .domain([0, 20])
         .rangeRound([0, 200])),
@@ -440,8 +453,9 @@ function ready(error, data, geo) {
   // .chart elements in the DOM, bind the charts to the DOM and render them.
   // We also listen to the chart's brush events to update the display.
   var chart = d3.selectAll(".chart")
-  .data(charts)
-  .each(function(chart) { chart.on("brush", renderAll).on("brushend", renderAll); });
+    .data(charts)
+    .each(function(chart) { chart.on("brush", renderAll).on("brushend", renderAll); })
+
 
   // Render the initial lists.
  // var list = d3.select(".list")
@@ -495,6 +509,10 @@ function ready(error, data, geo) {
   window.reset = function(i) {
     charts[i].filter(null);
     renderAll();
+  };
+
+  window.unselectAll = function() {
+    charts.forEach(function(d, i) { charts[i].unselect(); });
   };
 
   function updateList(data) {
@@ -563,9 +581,12 @@ function ready(error, data, geo) {
     dimension,
     group,
     round,
-    selected;
+    selected,
+    el;
 
-    function chart(div) {
+    var chart = function chart(div) {
+      el = div;
+
       var width = x.range()[1],
       height = y.range()[0];
 
@@ -574,6 +595,16 @@ function ready(error, data, geo) {
       div.each(function() {
         var div = d3.select(this),
         g = div.select("g");
+
+        div.select(".title")
+          .on("click", function() {
+            var wasSelected = selected;
+            unselectAll();
+            wasSelected ? chart.unselect() : chart.select();
+            renderAll();
+            console.log(selected);
+          });
+
 
         // Create the skeletal chart.
         if (g.empty()) {
@@ -642,7 +673,7 @@ function ready(error, data, geo) {
           bar.attr("d", barPath);
         });
         g.selectAll(".foreground path")
-            .style("fill", function(d, i) { return selected ? linear(i) : "steelblue"; });
+            .style("fill", function(d, i) { return selected ? colorScale(i) : "steelblue"; });
       });
 
       function barPath(d) {
@@ -745,6 +776,19 @@ function ready(error, data, geo) {
     chart.selected = function(_) {
       if (!arguments.length) return selected;
       selected = _;
+      return chart;
+    }
+
+    chart.unselect = function(_) {
+      selected = false;
+      el.classed("selected", selected);
+
+      return chart;
+    }
+
+    chart.select = function(_) {
+      selected = true;
+      el.classed("selected", selected);
       return chart;
     }
 
