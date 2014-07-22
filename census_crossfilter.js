@@ -1,9 +1,15 @@
-var height = 400;
-var filteredColor = "#bbb";
-var palette = "OrRd";
-//var palette = "Blues";
-//var palette = "Oranges";
-//var palette = "Purples";
+var app = {};
+app.settings = {
+  height: 400,
+  center: [144.5, -38.3],
+  scale: 10000
+};
+
+app.style = {
+  filteredColor: "#bbb",
+  palette: "OrRd",
+  defaultColor: "steelblue"
+};
 
 queue()
   .defer(d3.csv, "final_data_vic.csv")
@@ -12,14 +18,14 @@ queue()
 
 function ready(error, data, geo) {
   var projection = d3.geo.mercator()
-    .center([144.5, -38.3])
-    .scale(10000);
+    .center(app.settings.center)
+    .scale(app.settings.scale);
 
   var path = d3.geo.path()
       .projection(projection);
 
-  var svg = d3.select("#map").style("height", height)
-    .append("g").attr("id", "map-g")
+  var map = d3.select("#map").style("height", app.settings.height)
+    .append("g")
     .call(d3.behavior.zoom()
       .translate(projection.translate())
       .scale(projection.scale())
@@ -27,17 +33,15 @@ function ready(error, data, geo) {
 
   var regionsHash = d3.map();
 
-  var color;
-
-  svg.selectAll("path")
+  map.selectAll("path")
       .data(topojson.feature(geo, geo.objects.sa2).features)
     .enter().append("path")
       .attr("d", path)
     .each(function(d) {
       regionsHash.set(d.properties.code, this);
     })
-    .on("mouseover", function(d) { color = this.style.opacity; this.style.opacity = "0.8"; updateHover(d.properties); })
-    .on("mouseout", function(d) { this.style.opacity = color; deleteHover(); });
+    .on("mouseover", function(d) { this.style.opacity = 0.8; updateHover(d.properties); })
+    .on("mouseout", function(d) { this.style.opacity = 1; deleteHover(); });
 
   redraw();
 
@@ -47,7 +51,7 @@ function ready(error, data, geo) {
       .translate(d3.event.translate)
       .scale(d3.event.scale);
     }
-    svg.selectAll("path").attr("d", path);
+    map.selectAll("path").attr("d", path);
   }
 
   var hover = d3.select("#hover");
@@ -66,9 +70,10 @@ function ready(error, data, geo) {
   var formatNumber = d3.format(",d");
 
   //var linear = d3.scale.linear().domain([0, 20]).range(["yellow", "blue"]);
-  var linear = d3.scale.quantile().domain([0, 20]).range(d3.range(9));
+  var colors = 9;
+  var linear = d3.scale.quantile().domain([0, 20]).range(d3.range(colors));
   var quantile = d3.scale.quantile().range(d3.range(20));
-  var colorScale = function(x) { return colorbrewer[palette][9][linear(x)]; };
+  var colorScale = function(x) { return colorbrewer[app.style.palette][colors][linear(x)]; };
 
 
   var numeric_fields = d3.set(d3.keys(data[0]));
@@ -114,65 +119,66 @@ function ready(error, data, geo) {
         .crossfilter(c)
         .dimension(function(d) { return Math.min(80, d.Median_age_of_persons); })
         .group(function(d) { return Math.floor(d / 4) * 4; })
+        .width(200)
       .x(d3.scale.linear()
-        .domain([0, 80])
-        .rangeRound([0, 200])),
+        .domain([0, 80])),
+
 
     barChart()
         .crossfilter(c)
         .dimension(function(d) { return Math.min(1300, d.Median_total_personal_income_weekly); })
         .group(function(d) { return Math.floor(d / 70) * 70; })
+        .width(200)
     .x(d3.scale.linear()
-        .domain([0, 1400])
-        .rangeRound([0, 200])),
+        .domain([0, 1400])),
 
     barChart()
         .crossfilter(c)
         .dimension(function(d) { return Math.min(800, d.Median_rent_weekly); })
         .group(function(d) { return Math.floor(d / 40) * 40;})
+        .width(200)
     .x(d3.scale.linear()
-        .domain([0, 800])
-        .rangeRound([0, 200])),
+        .domain([0, 800])),
 
     barChart()
         .crossfilter(c)
         .dimension(function(d) { return (d.Persons_Year_12_or_equivalent_Total / d.Total_Persons_Persons) * 100; })
         .group(function(d) { return Math.floor(d / 5) * 5; })
+        .width(200)
     .x(d3.scale.linear()
-        .domain([0, 100])
-        .rangeRound([0, 200])),
+        .domain([0, 100])),
 
     barChart()
         .crossfilter(c)
         .dimension(function(d) { return (d.Persons_Total_Volunteer / d.Total_Persons_Persons) * 100; })
         .group(function(d) { return Math.floor(d / 2) * 2; })
+        .width(200)
     .x(d3.scale.linear()
-        .domain([0, 40])
-        .rangeRound([0, 200])),
+        .domain([0, 40])),
 
     barChart()
         .crossfilter(c)
         .dimension(function(d) { return (d.Born_elsewhere_Persons / d.Total_Persons_Persons) * 100; })
         .group(function(d) { return Math.floor(d) ; })
+        .width(200)
     .x(d3.scale.linear()
-        .domain([0, 20])
-        .rangeRound([0, 200])),
+        .domain([0, 20])),
 
     barChart()
         .crossfilter(c)
         .dimension(function(d) { return (d.Persons_Total_labour_force_Total / d.Total_Persons_Persons) * 100; })
         .group(function(d) { return Math.floor(d / 4) * 4 ; })
+        .width(200)
     .x(d3.scale.linear()
-        .domain([0, 80])
-        .rangeRound([0, 200])),
+        .domain([0, 80])),
 
     barChart()
         .crossfilter(c)
         .dimension(function(d) { return (d.Persons_Unemployed_looking_for_Total_Total / d.Total_Persons_Persons) * 1000; })
         .group(function(d) { return Math.floor(d / 4) * 4; })
+        .width(200)
     .x(d3.scale.linear()
-        .domain([0, 80])
-        .rangeRound([0, 200])),
+        .domain([0, 80])),
   ];
 
 
@@ -199,26 +205,27 @@ function ready(error, data, geo) {
   renderAll();
 
   function updateRegions() {
-    svg.selectAll("path").each(function() { this.style.fill = filteredColor; });
+    map.selectAll("path").each(function() { this.style.fill = app.style.filteredColor; });
     var polygons;
     if (selectedChart) {
-      quantile.domain(selectedChart.domain());
+      quantile.domain(selectedChart.x().domain());
       polygons = selectedChart.dimension().top(Infinity);
-      var dfunc = selectedChart.dimensionFunction();
-      var gfunc = selectedChart.groupFunction();
 
       polygons.forEach(function(d) {
-        d.feature.style.fill = colorScale(quantile(gfunc(dfunc(d))));
+        d.feature.style.fill = colorScale(quantile(selectedChart.process(d)));
       });
     } else {
       polygons = feature.top(Infinity);
-      polygons.forEach(function(d) { d.feature.style.fill = "steelblue"; });
+      polygons.forEach(function(d) {
+        d.feature.style.fill = app.style.defaultColor;
+      });
     }
   }
 
 
   // Renders the specified chart or list.
   function render(method) {
+    console.log(method);
     d3.select(this).call(method);
   }
 
@@ -304,27 +311,28 @@ function ready(error, data, geo) {
     if (!barChart.id) barChart.id = 0;
 
     var margin = {top: 10, right: 10, bottom: 20, left: 10},
-    x,
-    y = d3.scale.linear().range([75, 0]),
-    id = barChart.id++,
-    axis = d3.svg.axis().orient("bottom"),
-    brush = d3.svg.brush(),
-    brushDirty,
-    crossfilter,
-    dimension,
-    dimensionFunction,
-    group,
-    groupFunction,
-    round,
-    selected,
-    el,
-    domain;
+      width = 200,
+      x,
+      y = d3.scale.linear().range([75, 0]),
+      id = barChart.id++,
+      axis = d3.svg.axis().orient("bottom"),
+      brush = d3.svg.brush(),
+      brushDirty,
+      crossfilter,
+      dimension,
+      dimensionFunction,
+      group,
+      groupFunction,
+      round,
+      selected,
+      el;
 
     var chart = function chart(div) {
       el = div;
 
-      var width = x.range()[1],
-      height = y.range()[0];
+      x.domain([0, width]);
+
+      var height = y.range()[0];
 
       y.domain([0, group.top(1)[0].value]);
 
@@ -409,7 +417,7 @@ function ready(error, data, geo) {
           bar.attr("d", barPath);
         });
         g.selectAll(".foreground path")
-            .style("fill", function(d, i) { return selected ? colorScale(i) : "steelblue"; });
+            .style("fill", function(d, i) { return selected ? colorScale(i) : app.style.defaultColor; });
       });
 
       function barPath(d) {
@@ -465,10 +473,15 @@ function ready(error, data, geo) {
       return chart;
     };
 
+    chart.width = function(_) {
+      if (!arguments.length) return width;
+      width = _;
+      return chart;
+    };
+
     chart.x = function(_) {
       if (!arguments.length) return x;
       x = _;
-      domain = x.domain();
       axis.scale(x);
       brush.x(x);
       return chart;
@@ -538,16 +551,8 @@ function ready(error, data, geo) {
       return chart;
     };
 
-    chart.dimensionFunction = function() {
-      return dimensionFunction;
-    };
-
-    chart.groupFunction = function() {
-      return groupFunction;
-    };
-
-    chart.domain = function() {
-      return domain;
+    chart.process = function(x) {
+      return groupFunction(dimensionFunction(x));
     };
 
     return d3.rebind(chart, brush, "on");
